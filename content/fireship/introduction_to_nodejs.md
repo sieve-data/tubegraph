@@ -5,113 +5,85 @@ videoId: ENrzD9HAZK4
 
 From: [[fireship]] <br/> 
 
-Node.js is considered one of the most valuable skills for a full-stack web developer <a class="yt-timestamp" data-t="00:00:00">[00:00:00]</a>. It is an established technology <a class="yt-timestamp" data-t="00:00:28">[00:00:28]</a> and its skills are largely transferable to other runtimes like Deno <a class="yt-timestamp" data-t="00:00:48">[00:00:48]</a>. The best way to learn Node.js is by building something meaningful from scratch <a class="yt-timestamp" data-t="00:01:00">[00:01:00]</a>.
+[[javascript_serverside_with_nodejs | Node.js]] is considered one of the most valuable skills for a full stack web developer and is expected to remain so <a class="yt-timestamp" data-t="00:00:00">[00:00:00]</a>. While other technologies like Deno might emerge, an established tool like Node.js doesn't get replaced easily <a class="yt-timestamp" data-t="00:00:27">[00:00:27]</a>. Learning Node.js is recommended, especially for job opportunities or building products, as the skills are largely transferable to newer runtimes like Deno <a class="yt-timestamp" data-t="00:00:24">[00:00:24]</a>.
+
+The best way to learn to code is by building something meaningful from scratch <a class="yt-timestamp" data-t="00:01:00">[00:01:00]</a>. This article covers the basics of Node.js through seven steps, culminating in building and deploying a full stack web application <a class="yt-timestamp" data-t="00:00:52">[00:00:52]</a>.
 
 ## What is Node.js?
+[[javascript_serverside_with_nodejs | Node.js]] is not a programming language itself, but rather a runtime environment that enables you to [[javascript_serverside_with_nodejs | run JavaScript on a server]] <a class="yt-timestamp" data-t="00:01:16">[00:01:16]</a>. Originally, JavaScript was designed in the 1990s as a simple scripting language exclusively for web browsers <a class="yt-timestamp" data-t="00:01:23">[00:01:23]</a>. However, as the web evolved, JavaScript's capabilities expanded <a class="yt-timestamp" data-t="00:01:29">[00:01:29]</a>.
 
-Node.js is not a programming language <a class="yt-timestamp" data-t="00:01:18">[00:01:18]</a>; instead, it is a runtime that allows JavaScript to run on a server <a class="yt-timestamp" data-t="00:01:18">[00:01:18]</a>. Historically, JavaScript was designed in the 1990s to run solely in the browser as a simple scripting language <a class="yt-timestamp" data-t="00:01:24">[00:01:24]</a>. The initial release of Node.js in 2009 revolutionized web development by enabling JavaScript code to run on the server, a capability previously limited to languages like Java or PHP <a class="yt-timestamp" data-t="00:01:33">[00:01:33]</a>. This innovation allowed web developers to build full-stack applications using a single language <a class="yt-timestamp" data-t="00:01:43">[00:01:43]</a>.
+In 2009, the initial release of Node.js revolutionized [[introduction_to_web_development | web development]] by making it possible to write JavaScript code on the server, a domain previously dominated by languages like Java or PHP <a class="yt-timestamp" data-t="00:01:33">[00:01:33]</a>. This allowed web developers to build entire full stack applications using a single language <a class="yt-timestamp" data-t="00:01:43">[00:01:43]</a>.
 
-Node.js is well-suited for high-throughput applications such as real-time systems and web servers <a class="yt-timestamp" data-t="00:05:39">[00:05:39]</a>.
+Node.js allows a server to handle client requests, read files from its file system, and respond back to the client, for instance, by serving HTML to be viewed in a browser <a class="yt-timestamp" data-t="00:02:10">[00:02:10]</a>.
 
-## [[installing_and_setting_up_nodejs | Installing and Setting up Node.js]]
+## [[installing_and_managing_nodejs_versions | Installing Node.js]]
+[[installing_and_managing_nodejs_versions | Node.js]] can be installed on Windows, Mac, or Linux <a class="yt-timestamp" data-t="00:02:29">[00:02:29]</a>. To check if Node.js is installed on your system, run `node -v` from the command line <a class="yt-timestamp" data-t="00:02:43">[00:02:43]</a>.
 
-Node.js can be [[installing_and_setting_up_nodejs | installed on Windows, Mac, or Linux]] <a class="yt-timestamp" data-t="00:02:29">[00:02:29]</a>. You can check if Node.js is installed by running `node -v` in the command line <a class="yt-timestamp" data-t="00:02:43">[00:02:43]</a>.
+It is highly recommended to use a package called [[installing_and_managing_nodejs_versions | Node Version Manager]] (NVM) to [[installing_and_managing_nodejs_versions | manage different Node.js versions]] on your system <a class="yt-timestamp" data-t="00:02:58">[00:02:58]</a>. NVM has packages for Mac and Linux, and a separate package for Windows <a class="yt-timestamp" data-t="00:03:03">[00:03:03]</a>. NVM allows you to install and switch between any desired version of Node.js, for example, `nvm install 12.16.3` and then `nvm use 12.16.3` <a class="yt-timestamp" data-t="00:03:12">[00:03:12]</a>.
 
-It is recommended to use Node Version Manager (NVM) for managing different Node.js versions on your system <a class="yt-timestamp" data-t="00:02:58">[00:02:58]</a>. NVM has packages for Mac and Linux, and a separate package for Windows <a class="yt-timestamp" data-t="00:03:03">[00:03:03]</a>. With NVM, you can install specific Node.js versions, for example, `nvm install 12.16.3`, and then use that version as your runtime with `nvm use` <a class="yt-timestamp" data-t="00:03:14">[00:03:14]</a>.
+## [[running_and_understanding_javascript_with_nodejs | Running JavaScript with Node.js]]
+One way to experiment with [[running_and_understanding_javascript_with_nodejs | Node.js]] is by using its REPL (Read-Eval-Print Loop) mode <a class="yt-timestamp" data-t="00:03:41">[00:03:41]</a>. By typing `node` into the command line, you can execute JavaScript code directly and see the results <a class="yt-timestamp" data-t="00:03:45">[00:03:45]</a>.
 
-## Basic Operations
+However, in most scenarios, you'll want to execute JavaScript code from a file <a class="yt-timestamp" data-t="00:03:59">[00:03:59]</a>. The default entry point for a Node.js application is typically an `index.js` file <a class="yt-timestamp" data-t="00:04:02">[00:04:02]</a>. You can run the code within this file by using the `node` command followed by the file's path, or simply by pointing to the parent directory if it's named `index.js` <a class="yt-timestamp" data-t="00:04:14">[00:04:14]</a>.
 
-### Hello World
+## Understanding the Node.js Runtime
+While JavaScript largely functions the same way in [[javascript_serverside_with_nodejs | Node.js]] as it does in a browser, there are crucial differences <a class="yt-timestamp" data-t="00:04:30">[00:04:30]</a>.
 
-You can interact with Node.js in REPL (Read-Eval-Print Loop) mode by typing `node` into the command line <a class="yt-timestamp" data-t="00:03:41">[00:03:41]</a>. For example, `console.log('hello world')` will print the value <a class="yt-timestamp" data-t="00:03:51">[00:03:51]</a>. To exit REPL mode, press Ctrl+C twice <a class="yt-timestamp" data-t="00:03:55">[00:03:55]</a>.
-
-To execute JavaScript code from a file, the default entry point for a Node.js application is `index.js` <a class="yt-timestamp" data-t="00:04:02">[00:04:02]</a>.
-You can create an `index.js` file with `console.log('hello world')` inside <a class="yt-timestamp" data-t="00:04:07">[00:04:07]</a>. This code can be run using the `node` command followed by the path to the file, or simply the parent directory if it's `index.js` <a class="yt-timestamp" data-t="00:04:14">[00:04:14]</a>.
-
-### Understanding the [[nodejs_runtime_and_basic_operations | Node.js Runtime]]
-
-While JavaScript largely behaves the same in Node.js as in the browser, there are key differences <a class="yt-timestamp" data-t="00:04:30">[00:04:30]</a>.
-
-Node.js has built-in global identifiers:
+### Built-in Globals
+Node.js includes several built-in global identifiers:
 *   **`console`**: Used for logging values to the terminal <a class="yt-timestamp" data-t="00:04:39">[00:04:39]</a>.
-*   **`global`**: An object acting as a namespace available throughout the entire Node.js process <a class="yt-timestamp" data-t="00:04:45">[00:04:45]</a>. It can be compared to the `window` object in a browser <a class="yt-timestamp" data-t="00:04:59">[00:04:59]</a>.
-*   **`process`**: Provides access to the currently running Node.js process <a class="yt-timestamp" data-t="00:05:03">[00:05:03]</a>. It can be used to check the operating system or retrieve environment variables <a class="yt-timestamp" data-t="00:05:08">[00:05:08]</a>.
+*   **`global`**: An object serving as a namespace available throughout the entire Node.js process. It's comparable to the `window` object in a browser <a class="yt-timestamp" data-t="00:04:45">[00:04:45]</a>.
+*   **`process`**: Provides access to the currently running Node.js process. It can be used to check the operating system or retrieve environment variables <a class="yt-timestamp" data-t="00:05:03">[00:05:03]</a>.
 
-### Events in Node.js
+### [[eventdriven_architecture_in_nodejs | Event-Driven Architecture]]
+[[eventdriven_architecture_in_nodejs | Node.js]] is described as an asynchronous, [[eventdriven_architecture_in_nodejs | event-driven JavaScript runtime]] <a class="yt-timestamp" data-t="00:05:20">[00:05:20]</a>. The runtime implements an "Event Loop" similar to web browsers, which allows Node.js to offload intensive operations to separate threads <a class="yt-timestamp" data-t="00:05:24">[00:05:24]</a>. This means that only very fast, non-blocking operations occur on the main thread, making Node.js non-blocking and highly suitable for high-throughput applications like real-time systems and web servers <a class="yt-timestamp" data-t="00:05:31">[00:05:31]</a>.
 
-Node.js is described as an asynchronous, event-driven JavaScript runtime <a class="yt-timestamp" data-t="00:05:20">[00:05:20]</a>. It implements an event loop, similar to web browsers, which allows intensive operations to be pushed to separate threads <a class="yt-timestamp" data-t="00:05:26">[00:05:26]</a>. This design ensures that only fast, non-blocking operations occur on the main thread, making Node.js a "non-blocking" runtime <a class="yt-timestamp" data-t="00:05:31">[00:05:31]</a>.
+As a developer, you primarily need to understand how events and callbacks function <a class="yt-timestamp" data-t="00:05:49">[00:05:49]</a>. You often listen to events, which can take various forms. For example, the `process` global emits an `exit` event before a Node.js process finishes. You can listen to this event using the `on` method and register a callback function that will execute when the event occurs <a class="yt-timestamp" data-t="00:05:57">[00:05:57]</a>.
 
-In Node.js, you often listen to events using callbacks <a class="yt-timestamp" data-t="00:05:51">[00:05:51]</a>.
-*   **Built-in Events**: The `process` global emits an `exit` event before a Node.js process finishes <a class="yt-timestamp" data-t="00:06:01">[00:06:01]</a>. You can listen to this event using `process.on('exit', callbackFunction)` <a class="yt-timestamp" data-t="00:06:03">[00:06:03]</a>. The callback function runs only after the event occurs <a class="yt-timestamp" data-t="00:06:15">[00:06:15]</a>.
-*   **Custom Events**: You can create custom events using the `EventEmitter` class from the built-in `events` module <a class="yt-timestamp" data-t="00:06:22">[00:06:22]</a>. After instantiating `EventEmitter` and registering a callback with `emitter.on('eventName', callback)`, you can trigger the event with `emitter.emit('eventName')` <a class="yt-timestamp" data-t="00:06:31">[00:06:31]</a>. This event-driven programming style is particularly useful for CPU-intensive tasks <a class="yt-timestamp" data-t="00:06:51">[00:06:51]</a>.
+You can also create custom events using the `EventEmitter` class from Node.js's built-in `events` module. By instantiating `EventEmitter`, you can register callbacks for custom event names and then `emit` those events to trigger the associated callbacks <a class="yt-timestamp" data-t="00:06:21">[00:06:21]</a>. This [[eventdriven_architecture_in_nodejs | event-driven]] style is especially useful for CPU-intensive tasks <a class="yt-timestamp" data-t="00:06:51">[00:06:51]</a>.
 
-### File System
+### File System (FS) Module
+[[javascript_serverside_with_nodejs | Node.js]] includes a built-in file system module, `fs`, which allows you to read, write, and delete files <a class="yt-timestamp" data-t="00:06:57">[00:06:57]</a>. Operations can be performed in either a blocking (synchronous) or non-blocking (asynchronous) manner <a class="yt-timestamp" data-t="00:07:05">[00:07:05]</a>.
 
-Node.js includes a built-in file system module called `fs` <a class="yt-timestamp" data-t="00:06:57">[00:06:57]</a>. It can read, write, and delete files in both blocking (synchronous) and non-blocking (asynchronous) ways <a class="yt-timestamp" data-t="00:07:02">[00:07:02]</a>.
+*   **Synchronous operations**: Functions ending in `sync` (e.g., `readFileSync`) will block the execution of other code until they complete <a class="yt-timestamp" data-t="00:07:22">[00:07:22]</a>.
+*   **Asynchronous operations (Callbacks)**: Functions like `readFile` take a callback function as an argument. The callback will execute only after the file operation is complete, allowing other code to run concurrently <a class="yt-timestamp" data-t="00:07:47">[00:07:47]</a>.
+*   **Asynchronous operations (Promises/Async-Await)**: A more modern and often cleaner approach involves using promises, typically accessed through the `fs.promises` namespace <a class="yt-timestamp" data-t="00:08:17">[00:08:17]</a>. Promises are asynchronous and non-blocking <a class="yt-timestamp" data-t="00:08:20">[00:08:20]</a>. When combined with `async`/`await` syntax, they make asynchronous code much more readable and manageable, especially when dealing with multiple asynchronous calls <a class="yt-timestamp" data-t="00:08:47">[00:08:47]</a>.
 
-*   **Blocking (Synchronous) Operations**: Functions ending in `Sync` (e.g., `readFileSync`) will complete all their work before any other code can run <a class="yt-timestamp" data-t="00:07:22">[00:07:22]</a>. For example, using `readFileSync` will prevent subsequent console logs from executing until the file has been fully read <a class="yt-timestamp" data-t="00:07:38">[00:07:38]</a>.
-*   **Non-blocking (Asynchronous) Operations with Callbacks**: To make code non-blocking, you can use functions like `readFile` <a class="yt-timestamp" data-t="00:07:47">[00:07:47]</a>. A callback function is passed as a third argument, which receives an error object or the file content upon completion <a class="yt-timestamp" data-t="00:07:51">[00:07:51]</a>. Node.js registers the callback, executes the rest of the script, and then runs the callback when the file is read <a class="yt-timestamp" data-t="00:08:09">[00:08:09]</a>.
-*   **Non-blocking (Asynchronous) Operations with Promises**: Promises offer a cleaner, non-blocking alternative to callbacks <a class="yt-timestamp" data-t="00:08:17">[00:08:17]</a>. You can import file system functions from `fs.promises` (e.g., `readFile` from `fs.promises`) <a class="yt-timestamp" data-t="00:08:27">[00:08:27]</a>. With `async/await` syntax, you can write more readable asynchronous code, particularly when handling multiple asynchronous calls <a class="yt-timestamp" data-t="00:08:45">[00:08:45]</a>.
+## Modules
+A module in Node.js is essentially a JavaScript file that exports its code <a class="yt-timestamp" data-t="00:09:02">[00:09:02]</a>. Node.js comes with many built-in modules, such as `fs` and `events` <a class="yt-timestamp" data-t="00:09:07">[00:09:07]</a>.
 
-### [[understanding_nodejs_modules_and_packages | Modules and Packages]]
+### CommonJS Modules (`require`/`module.exports`)
+The traditional way to import a module in Node.js is using the `require` function <a class="yt-timestamp" data-t="00:09:14">[00:09:14]</a>. To export code from a custom module, you can add properties to the `module.exports` object, or redefine `module.exports` entirely <a class="yt-timestamp" data-t="00:09:50">[00:09:50]</a>.
 
-A module is a JavaScript file that exports its code <a class="yt-timestamp" data-t="00:09:02">[00:09:02]</a>. Node.js includes many built-in [[understanding_nodejs_modules_and_packages | modules]], such as `fs` and `events` <a class="yt-timestamp" data-t="00:09:07">[00:09:07]</a>.
+### ES Modules (`import`/`export`)
+Node.js has added support for ES Modules, which use the `import` and `export` syntax <a class="yt-timestamp" data-t="00:09:19">[00:09:19]</a>. However, much of the existing Node.js code still uses `require` <a class="yt-timestamp" data-t="00:09:24">[00:09:24]</a>.
 
-*   **CommonJS Modules (`require`/`module.exports`)**: The traditional way to import a module in Node.js is using the `require` function <a class="yt-timestamp" data-t="00:09:14">[00:09:14]</a>. To make a module useful, you export code from it using `module.exports` <a class="yt-timestamp" data-t="00:09:49">[00:09:49]</a>. You can add properties to `module.exports` or redefine it as a new object <a class="yt-timestamp" data-t="00:09:57">[00:09:57]</a>.
-*   **ES Modules (`import`/`export`)**: Node.js also supports ES Modules with `import`/`export` syntax, but much of the existing vanilla JavaScript code still uses `require` <a class="yt-timestamp" data-t="00:09:19">[00:09:19]</a>.
+### Node Package Manager (NPM)
+To use third-party code, Node.js developers primarily use the Node Package Manager (NPM) <a class="yt-timestamp" data-t="00:10:10">[00:10:10]</a>. NPM is installed automatically when you install Node.js <a class="yt-timestamp" data-t="00:10:20">[00:10:20]</a>.
 
-*   **Node Package Manager (npm)**: The primary tool for using third-party code is npm <a class="yt-timestamp" data-t="00:10:10">[00:10:10]</a>. npm is installed automatically with Node.js <a class="yt-timestamp" data-t="00:10:20">[00:10:20]</a>.
-    *   **`npm init`**: Running `npm init -y` in the command line creates a `package.json` file in your application's root directory <a class="yt-timestamp" data-t="00:10:28">[00:10:28]</a>. This file tracks your project's metadata and dependencies <a class="yt-timestamp" data-t="00:10:39">[00:10:39]</a>.
-    *   **`npm install`**: Use `npm install [package_name]` to install remote [[understanding_nodejs_modules_and_packages | packages]] <a class="yt-timestamp" data-t="00:10:48">[00:10:48]</a>. For example, `npm install express` installs the Express framework <a class="yt-timestamp" data-t="00:10:51">[00:10:51]</a>.
-    *   **`package.json` and `node_modules`**: Installing a package adds it to the `dependencies` object in `package.json`, pinning it to a specific version <a class="yt-timestamp" data-t="00:11:00">[00:11:00]</a>. The raw source code for dependencies is stored in the `node_modules` directory <a class="yt-timestamp" data-t="00:11:13">[00:11:13]</a>, which should generally not be modified manually <a class="yt-timestamp" data-t="00:11:17">[00:11:17]</a>. Once installed, you can import a package by name using `require` <a class="yt-timestamp" data-t="00:11:32">[00:11:32]</a>.
+To manage dependencies in your project:
+1.  Run `npm init -y` in your command line. This creates a `package.json` file, which stores metadata about your project and tracks its dependencies <a class="yt-timestamp" data-t="00:10:28">[00:10:28]</a>.
+2.  Use `npm install [package_name]` to install a remote package, such as `npm install express`. This adds the package to your `dependencies` in `package.json` and places its source code in a `node_modules` directory <a class="yt-timestamp" data-t="00:10:49">[00:10:49]</a>. The `node_modules` directory should not be manually modified <a class="yt-timestamp" data-t="00:11:16">[00:11:16]</a>.
+3.  Once installed, you can import the package by name using `require` in your JavaScript code <a class="yt-timestamp" data-t="00:11:33">[00:11:33]</a>.
 
-## Building a Full Stack Web Application
+## [[building_and_deploying_a_full_stack_application_with_nodejs_and_express | Building and Deploying a Full Stack Application with Node.js and Express]]
+This section demonstrates how to build a basic web application using Node.js and the Express framework.
 
-You can use Node.js to [[setting_up_a_nodejs_and_express_environment | set up a Node.js and Express environment]] to [[building_and_deploying_a_nodejs_full_stack_application | build a full stack web application]] <a class="yt-timestamp" data-t="00:11:41">[00:11:41]</a>.
+### Setting up the Server with Express
+1.  **Initialize Express**: Create an instance of an Express application <a class="yt-timestamp" data-t="00:11:57">[00:11:57]</a>.
+2.  **Define Endpoints**: Use `app.get()` to set up different URLs (endpoints) that a user can navigate to. The first argument is the URL path (e.g., `/` for the root), and the second is a callback function that handles requests to that URL <a class="yt-timestamp" data-t="00:12:19">[00:12:19]</a>.
+    *   The callback function receives `request` and `response` objects as parameters. `request` contains incoming data from the user (like headers or body), and `response` is used to send data back to the client <a class="yt-timestamp" data-t="00:12:43">[00:12:43]</a>.
+3.  **Handle Requests**: Inside the callback, read HTML content from your server's file system (e.g., `home.html`) using Node's `fs` module <a class="yt-timestamp" data-t="00:13:02">[00:13:02]</a>.
+    *   Use `fs.promises.readFile` with `async`/`await` for cleaner asynchronous code, to avoid "callback hell" <a class="yt-timestamp" data-t="00:14:26">[00:14:26]</a>.
+    *   Send the HTML back to the client using `response.send()` <a class="yt-timestamp" data-t="00:13:28">[00:13:28]</a>. Handle errors by sending a 500 status code <a class="yt-timestamp" data-t="00:13:34">[00:13:34]</a>.
+4.  **Listen for Requests**: Tell the Express app to start listening for incoming requests on a specific port (e.g., 3000), typically defined by a Node environment variable <a class="yt-timestamp" data-t="00:13:48">[00:13:48]</a>. Call `app.listen()` to start the server <a class="yt-timestamp" data-t="00:13:51">[00:13:51]</a>.
+5.  **Run the App**: Start the application by running `node .` from your command line in the project's root directory <a class="yt-timestamp" data-t="00:14:04">[00:14:04]</a>.
 
-### Setting up Express
+### Deploying to the Cloud
+[[building_and_deploying_a_full_stack_application_with_nodejs_and_express | Node.js]] applications can be deployed to cloud platforms <a class="yt-timestamp" data-t="00:01:04">[00:01:04]</a>. A simple and free option is Google App Engine <a class="yt-timestamp" data-t="00:14:58">[00:14:58]</a>. App Engine provides a standard environment for Node.js (up to version 12) that automatically scales based on traffic <a class="yt-timestamp" data-t="00:15:02">[00:15:02]</a>.
 
-1.  **Create an Express App**: Begin by creating an instance of an Express application <a class="yt-timestamp" data-t="00:11:58">[00:11:58]</a>.
-    ```javascript
-    const express = require('express');
-    const app = express();
-    ```
-2.  **Define Endpoints**: Express allows you to create URLs and endpoints that users can navigate to <a class="yt-timestamp" data-t="00:12:00">[00:12:00]</a>. For a GET request (when a user navigates to a URL), use `app.get()` <a class="yt-timestamp" data-t="00:12:11">[00:12:11]</a>. The first argument is the URL (e.g., `/` for the root), and the second is a callback function that handles the request <a class="yt-timestamp" data-t="00:12:21">[00:12:21]</a>. This callback function receives `request` and `response` objects <a class="yt-timestamp" data-t="00:12:42">[00:12:42]</a>.
-    ```javascript
-    app.get('/', (req, res) => {
-        // Handle request here
-    });
-    ```
-3.  **Read and Serve HTML**: To serve HTML, read an HTML file from your file system using Node's `fs` module (e.g., `fs.readFile` or `fs.promises.readFile`) <a class="yt-timestamp" data-t="00:13:04">[00:13:04]</a>.
-    ```javascript
-    const fs = require('fs').promises; // Using promises for cleaner async
-    // ... inside app.get callback
-    try {
-        const htmlContent = await fs.readFile('home.html', 'utf8');
-        res.send(htmlContent);
-    } catch (err) {
-        console.error(err);
-        res.status(500).send('Server Error');
-    }
-    ```
-    This example uses `fs.promises` and `async/await` syntax to avoid "callback hell" <a class="yt-timestamp" data-t="00:14:14">[00:14:14]</a>.
-
-4.  **Start the Server**: Tell your Express application to start listening for incoming requests by defining a port (often from an environment variable) and calling `app.listen()` <a class="yt-timestamp" data-t="00:14:48">[00:14:48]</a>.
-    ```javascript
-    const PORT = process.env.PORT || 3000;
-    app.listen(PORT, () => {
-        console.log(`App available on localhost:${PORT}`);
-    });
-    ```
-    The application can be started from the command line by running `node .` (assuming `index.js` as the entry point) <a class="yt-timestamp" data-t="00:14:06">[00:14:06]</a>.
-
-## [[building_and_deploying_a_nodejs_full_stack_application | Building and Deploying a Node.js Full Stack Application]]
-
-One way to [[building_and_deploying_a_nodejs_full_stack_application | deploy a Node.js application]] to the cloud for public access is using Google App Engine <a class="yt-timestamp" data-t="00:14:58">[00:14:58]</a>.
-
-### Deploying with Google App Engine
-
-1.  **Google Cloud Setup**: You need a Google Cloud Platform account and the Google Cloud command-line tools installed locally <a class="yt-timestamp" data-t="00:15:14">[00:15:14]</a>.
-2.  **`app.yaml`**: Create an `app.yaml` file in your source code to configure the cloud server <a class="yt-timestamp" data-t="00:15:24">[00:15:24]</a>. Specify the runtime, for example, `runtime: nodejs12` <a class="yt-timestamp" data-t="00:15:31">[00:15:31]</a>.
-3.  **`start` Script**: App Engine looks for a `start` script in your `package.json` to run your code <a class="yt-timestamp" data-t="00:15:35">[00:15:35]</a>. Define a start script like `"start": "node ." ` to launch your Express app <a class="yt-timestamp" data-t="00:15:39">[00:15:39]</a>.
-4.  **Deploy**: Open the command line and run `gcloud app deploy` <a class="yt-timestamp" data-t="00:15:45">[00:15:45]</a>. After deployment, a URL will be provided to access your application publicly <a class="yt-timestamp" data-t="00:15:49">[00:15:49]</a>.
+To deploy with Google App Engine:
+1.  Ensure you have a Google Cloud Platform account and the Google Cloud command-line tools installed <a class="yt-timestamp" data-t="00:15:15">[00:15:15]</a>.
+2.  Create an `app.yaml` file in your source code directory. Configure it to specify the runtime, e.g., `runtime: nodejs12` <a class="yt-timestamp" data-t="00:15:25">[00:15:25]</a>.
+3.  In your `package.json`, define a `start` script that runs your Node.js application (e.g., `"start": "node ."`) <a class="yt-timestamp" data-t="00:15:37">[00:15:37]</a>.
+4.  Open your command line and run `gcloud app deploy` <a class="yt-timestamp" data-t="00:15:46">[00:15:46]</a>. After deployment, you will receive a public URL to access your application <a class="yt-timestamp" data-t="00:15:50">[00:15:50]</a>.

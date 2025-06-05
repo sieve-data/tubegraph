@@ -1,60 +1,50 @@
 ---
-title: CSS for Styling and Layout
+title: CSS for styling and layout
 videoId: erEgovG9WBs
 ---
 
 From: [[fireship]] <br/> 
 
-The second language a web developer needs to learn is [[CSS and HTML tips for responsive design | Cascading Stylesheets (CSS)]] <a class="yt-timestamp" data-t="03:50:52">[03:50:52]</a>. CSS allows you to change the appearance of HTML elements <a class="yt-timestamp" data-t="03:53:07">[03:53:07]</a>.
+Cascading Stylesheets (CSS) is the second language a web developer learns, and it enables the modification of [[HTML structure and syntax | HTML]] element appearances <a class="yt-timestamp" data-t="03:53:07">[03:53:07]</a>.
 
 ## Applying CSS
+CSS can be applied in various ways:
+*   **Inline Style** Directly on an element using the `style` attribute. This approach applies styles only to that specific element and contains properties and values that dictate its appearance <a class="yt-timestamp" data-t="03:57:48">[03:57:48]</a>. For example, setting background and text color <a class="yt-timestamp" data-t="04:07:22">[04:07:22]</a>.
+*   **Style Tag** CSS code can be placed within a `<style>` tag in the [[HTML structure and syntax | HTML]] document. This requires defining a selector to target specific elements <a class="yt-timestamp" data-t="04:20:53">[04:20:53]</a>.
+*   **External Stylesheet** Most commonly, CSS is written in a separate external stylesheet file and linked to the web page within the `<head>` of the [[HTML structure and syntax | document]] <a class="yt-timestamp" data-t="04:52:03">[04:52:03]</a>.
 
-There are several ways to apply CSS:
-*   **Inline Style** An inline style uses the `style` attribute directly on an HTML element <a class="yt-timestamp" data-t="03:57:40">[03:57:40]</a>. The style contains a collection of properties and values that change the element's appearance <a class="yt-timestamp" data-t="04:03:00">[04:03:00]</a>. This method applies the style only to that specific element <a class="yt-timestamp" data-t="04:12:00">[04:12:00]</a>.
-*   **Style Tag** CSS can be placed inside a `<style>` tag within the HTML document <a class="yt-timestamp" data-t="04:21:49">[04:21:49]</a>. To apply styles, a selector is defined to target specific elements <a class="yt-timestamp" data-t="04:24:00">[04:24:00]</a>.
-*   **External Stylesheet** Most often, CSS code is placed in an external stylesheet, which is then linked to the web page in the `<head>` of the document <a class="yt-timestamp" data-t="04:54:57">[04:54:57]</a>.
+### Selectors and Specificity
+To apply styles to specific elements, CSS uses selectors <a class="yt-timestamp" data-t="04:25:39">[04:25:39]</a>:
+*   **Element Selectors** Can target all instances of an [[HTML structure and syntax | element]] on a page, such as all paragraph elements <a class="yt-timestamp" data-t="04:28:44">[04:28:44]</a>.
+*   **Class Selectors** Offer more granularity by defining a class that can be applied to one or more elements using the `class` attribute <a class="yt-timestamp" data-t="04:33:02">[04:33:02]</a>.
 
-### CSS Cascading and Specificity
-
-CSS "cascades," meaning it can be applied to multiple elements simultaneously, improving code reusability <a class="yt-timestamp" data-t="04:14:48">[04:14:48]</a>.
-A selector can target all paragraph elements on a page <a class="yt-timestamp" data-t="04:28:00">[04:28:00]</a>. For more granular control, a class can be defined and applied to one or more elements using the `class` attribute <a class="yt-timestamp" data-t="04:34:06">[04:34:06]</a>. CSS contains specificity rules that determine which styles are most relevant when multiple styles apply to the same element <a class="yt-timestamp" data-t="04:45:11">[04:45:11]</a>.
+When multiple classes apply different styles to the same element, CSS employs "specificity rules" to determine which styles are relevant <a class="yt-timestamp" data-t="04:44:09">[04:44:09]</a>. CSS also "cascades," meaning it can be applied to multiple elements, enhancing code reusability <a class="yt-timestamp" data-t="04:14:01">[04:14:01]</a>.
 
 ## Layout and Positioning
+The most challenging aspect of CSS is learning layout and positioning <a class="yt-timestamp" data-t="04:59:04">[04:59:04]</a>.
 
-One of the most challenging aspects of CSS is learning layout and positioning <a class="yt-timestamp" data-t="05:00:24">[05:00:24]</a>.
+### [[Understanding the CSS Box Model | CSS Box Model]]
+Every [[HTML structure and syntax | element]] is conceptualized as a box. This box is surrounded by padding, border, and margin, which affect how it occupies space on the page <a class="yt-timestamp" data-t="05:04:47">[05:04:47]</a>. Elements typically take up space from top to bottom <a class="yt-timestamp" data-t="05:08:53">[05:08:53]</a>.
 
-### The Box Model
-
-Think of every HTML element as a box <a class="yt-timestamp" data-t="05:03:04">[05:03:04]</a>. The outside of this box is wrapped with:
-*   **Padding**: Space between the content and the border <a class="yt-timestamp" data-t="05:06:00">[05:06:00]</a>.
-*   **Border**: A line around the padding <a class="yt-timestamp" data-t="05:07:00">[05:07:00]</a>.
-*   **Margin**: Space outside the border, separating the element from others <a class="yt-timestamp" data-t="05:08:00">[05:08:00]</a>.
-
-Elements take up space on the page from top to bottom <a class="yt-timestamp" data-t="05:09:00">[05:09:00]</a>.
-
-### Display Property
-
-The `display` property dictates how an element behaves in terms of layout:
-*   **`display: block`**: Elements like headings have a default display of `block`, meaning they take up all available horizontal space <a class="yt-timestamp" data-t="05:11:43">[05:11:43]</a>.
-*   **`display: inline`**: Elements like images are displayed `inline`, allowing them to line up horizontally side-by-side <a class="yt-timestamp" data-t="05:18:14">[05:18:14]</a>.
+### Display Properties
+*   **`display: block`** Elements like headings take up all available horizontal space by default <a class="yt-timestamp" data-t="05:10:48">[05:10:48]</a>.
+*   **`display: inline`** Elements like images line up horizontally side-by-side <a class="yt-timestamp" data-t="05:17:34">[05:17:34]</a>.
 
 ### Position Property
+The default positioning of elements is often undesirable and can be altered using the `position` property <a class="yt-timestamp" data-t="05:25:30">[05:25:30]</a>:
+*   **`relative`** Allows an element to move a certain number of pixels from its original position <a class="yt-timestamp" data-t="05:28:38">[05:28:38]</a>.
+*   **`absolute`** Similar to relative, but position values are relative to its nearest ancestor <a class="yt-timestamp" data-t="05:35:46">[05:35:46]</a>.
+*   **`fixed`** Keeps an element on the screen even when the user scrolls, as it is fixed to the entire viewport <a class="yt-timestamp" data-t="05:39:41">[05:39:41]</a>.
 
-The default position of elements is often not desirable, but it can be changed by customizing the `position` property <a class="yt-timestamp" data-t="05:27:03">[05:27:03]</a>:
-*   **`position: relative`**: Allows an element to move a certain number of pixels from its normal position <a class="yt-timestamp" data-t="05:30:00">[05:30:00]</a>.
-*   **`position: absolute`**: Similar to relative, but the position values are relative to its nearest positioned ancestor <a class="yt-timestamp" data-t="05:35:00">[05:35:00]</a>.
-*   **`position: fixed`**: Keeps an element on the screen even as the user scrolls, as it's fixed to the entire viewport <a class="yt-timestamp" data-t="05:39:00">[05:39:00]</a>.
+## Responsive Layouts
+A significant challenge for web developers is creating [[Responsive Design with Media Queries and CSS Functions | responsive layouts]] that look good across diverse screen sizes <a class="yt-timestamp" data-t="05:49:03">[05:49:03]</a>. CSS provides several [[CSS Tools and Preprocessors | tools]] to achieve this:
+*   [[Responsive Design with Media Queries and CSS Functions | **Media Queries**]] Allow developers to gather information about the device rendering the web page and apply different styles accordingly <a class="yt-timestamp" data-t="06:01:03">[06:01:03]</a>.
+*   [[Using Flexbox and CSS Grid for Layout | **Flexbox**]] By applying `display: flex` to a parent element, it can control the flow of its children, making it easy to create rows and columns <a class="yt-timestamp" data-t="06:11:03">[06:11:03]</a>.
+*   [[Using Flexbox and CSS Grid for Layout | **CSS Grid**]] Used for more complex layouts, `display: grid` enables control over multiple rows and columns simultaneously <a class="yt-timestamp" data-t="06:17:31">[06:17:31]</a>.
 
-### [[responsive_layouts_using_css_grid_and_media_queries | Responsive Layouts]]
+## Advanced CSS Features and Tools
+While not a Turing-complete language, CSS offers mechanisms like:
+*   **`calc()`** To perform mathematical operations <a class="yt-timestamp" data-t="06:27:03">[06:27:03]</a>.
+*   [[CSS Variables and State Management | **Custom Properties**]] Function as variables that can be reused in multiple places <a class="yt-timestamp" data-t="06:31:54">[06:31:54]</a>.
 
-A significant challenge for web developers is creating [[responsive_layouts_using_css_grid_and_media_queries | responsive layouts]] that look good on all screen sizes <a class="yt-timestamp" data-t="05:51:24">[05:51:24]</a>. CSS offers several tools to achieve this:
-*   **[[responsive_layouts_using_css_grid_and_media_queries | Media Queries]]**: These allow you to get information about the device rendering the web page and apply different styles accordingly <a class="yt-timestamp" data-t="06:01:05">[06:01:05]</a>.
-*   **Flexbox (`display: flex`)**: Applying `display: flex` to a parent element enables it to control the flow of its children, making it easy to create rows and columns <a class="yt-timestamp" data-t="06:11:21">[06:11:21]</a>.
-*   **[[basics_of_css_grid | CSS Grid]] (`display: grid`)**: For more complex layouts, `display: grid` can be used to control multiple rows and columns simultaneously <a class="yt-timestamp" data-t="06:18:00">[06:18:00]</a>.
-
-## Advanced CSS Features
-
-While CSS is not considered a Turing-complete programming language, it does have mechanisms for advanced functionality:
-*   **`calc()`**: Performs mathematical operations within CSS <a class="yt-timestamp" data-t="06:27:00">[06:27:00]</a>.
-*   **Custom Properties (Variables)**: Allows you to define variables that can be reused in multiple places throughout your stylesheet <a class="yt-timestamp" data-t="06:32:00">[06:32:00]</a>.
-*   **CSS Preprocessors**: Tools like SASS extend vanilla CSS by adding programmatic features on top of it, such as variables, nesting, and mixins <a class="yt-timestamp" data-t="06:39:00">[06:39:00]</a>.
+Many developers extend vanilla CSS with [[CSS Tools and Preprocessors | tools]] like SAS to add programmatic features <a class="yt-timestamp" data-t="06:38:00">[06:38:00]</a>.

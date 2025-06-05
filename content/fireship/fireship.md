@@ -1,652 +1,661 @@
 ---
 title: fireship
 ---
-### [25 crazy software bugs explained](https://www.youtube.com/watch?v=Iq_r7IcNmUk)
-- [[gandhis_aggression_level_bug_in_civilization_game | Gandhis aggression level bug in Civilization game]]
-- [[zoom_leap_year_freeze_bug | Zoom leap year freeze bug]]
-- [[intel_pentium_fdiv_bug | Intel Pentium FDIV bug]]
-- [[facetime_bug_allowing_eavesdropping | FaceTime bug allowing eavesdropping]]
-- [[chase_atm_glitch_and_check_fraud | Chase ATM glitch and check fraud]]
+### [10 Programmer Stereotypes](https://www.youtube.com/watch?v=_k-F-MMvQV4)
+- [[gearhead_programmer_stereotype | Gearhead programmer stereotype]]
+- [[introverted_programmer_stereotype | Introverted programmer stereotype]]
+- [[influencer_programmer_stereotype | Influencer programmer stereotype]]
+- [[hacker_programmer_stereotype | Hacker programmer stereotype]]
+- [[10x_developer_stereotype | 10x developer stereotype]]
 
-### [JavaScript Pro Tips - Code This, NOT That](https://www.youtube.com/watch?v=Mus_vwhTCq0)
-- [[javascript_debugging_techniques | JavaScript debugging techniques]]
-- [[javascript_template_literals | JavaScript template literals]]
-- [[modern_javascript_array_methods | Modern JavaScript array methods]]
-- [[spread_syntax_in_javascript | Spread syntax in JavaScript]]
-- [[asyncawait_in_javascript | Asyncawait in JavaScript]]
+### [Java for the Haters in 100 Seconds](https://www.youtube.com/watch?v=m4-HM_sCvtQ)
+- [[java_as_a_boilerplate_driven_language | Java as a boilerplate driven language]]
+- [[javas_verbosity_in_code | Javas verbosity in code]]
+- [[objectoriented_programming_in_java | Objectoriented programming in Java]]
+- [[javas_historical_context_and_hype | Javas historical context and hype]]
+- [[javas_influence_on_other_programming_languages | Javas influence on other programming languages]]
 
-### [God-Tier Developer Roadmap](https://www.youtube.com/watch?v=pEfrdAtAmqk)
-- [[beginnerfriendly_programming_languages | Beginnerfriendly programming languages]]
-- [[popular_dynamic_and_highlevel_programming_languages | Popular dynamic and highlevel programming languages]]
-- [[specialized_languages_and_scripting_languages | Specialized languages and scripting languages]]
-- [[static_type_systems_and_productionlevel_programming_languages | Static type systems and productionlevel programming languages]]
-- [[lowlevel_systems_programming_languages | Lowlevel systems programming languages]]
+### [Brainf**k in 100 Seconds](https://www.youtube.com/watch?v=hdHjjBS4cs8)
+- [[minimal_esoteric_programming_languages | minimal esoteric programming languages]]
+- [[turing_complete_languages | Turing complete languages]]
+- [[brainfuck_language_history | Brainfuck language history]]
+- [[commands_and_syntax_in_brainfuck | commands and syntax in Brainfuck]]
+- [[how_to_write_and_run_a_brainfuck_program | how to write and run a Brainfuck program]]
 
-### [10 Design Patterns Explained in 10 Minutes](https://www.youtube.com/watch?v=tv-_1er1mWI)
-- [[overview_of_software_design_patterns | Overview of software design patterns]]
-- [[understanding_creational_patterns | Understanding creational patterns]]
-- [[structural_patterns_in_software_design | Structural patterns in software design]]
-- [[behavioral_patterns_in_programming | Behavioral patterns in programming]]
-- [[criticism_and_practical_use_of_design_patterns | Criticism and practical use of design patterns]]
+### [Big Tech in panic mode... Did DeepSeek R1 just pop the AI bubble?](https://www.youtube.com/watch?v=Nl7aCUsWykg)
+- [[deepseek_r1_vs_ai_giants | DeepSeek R1 vs AI giants]]
+- [[impact_on_nvidia_and_tech_stocks | Impact on Nvidia and tech stocks]]
+- [[openais_response_to_competition | OpenAIs response to competition]]
+- [[deepseeks_side_project_success | DeepSeeks side project success]]
+- [[future_trends_in_technology | Future trends in technology]]
 
-### [How to OVER Engineer a Website // What is a Tech Stack?](https://www.youtube.com/watch?v=Sxxw3qtb3_g)
-- [[introduction_to_tech_stacks | Introduction to Tech Stacks]]
-- [[popular_tech_stack_acronyms | Popular Tech Stack Acronyms]]
-- [[front_end_and_back_end_development | Front End and Back End Development]]
-- [[database_options_for_web_applications | Database Options for Web Applications]]
-- [[using_apis_and_third_party_services | Using APIs and Third Party Services]]
+### [C in 100 Seconds](https://www.youtube.com/watch?v=U3aXWizDbQ4)
+- [[history_and_origins_of_c_programming_language | History and origins of C programming language]]
+- [[c_influences_on_other_programming_languages | C influences on other programming languages]]
+- [[c_language_characteristics_and_usage | C language characteristics and usage]]
+- [[memory_management_in_c | Memory management in C]]
+- [[getting_started_with_c_programming | Getting started with C programming]]
 
-### [React Native vs Flutter - I built the same chat app with both](https://www.youtube.com/watch?v=X8ipUgXH6jw)
-- [[react_native_vs_flutter_comparison | React Native vs Flutter comparison]]
-- [[crossplatform_mobile_app_development | Crossplatform mobile app development]]
-- [[react_native_programming_languages_and_ecosystem | React Native programming languages and ecosystem]]
-- [[flutter_programming_languages_and_ecosystem | Flutter programming languages and ecosystem]]
-- [[performance_and_developer_experience_in_react_native_and_flutter | Performance and developer experience in React Native and Flutter]]
+### [This free Chinese AI just crushed OpenAI's $200 o1 model...](https://www.youtube.com/watch?v=-2k1rcRzsLA)
+- [[comparison_of_deep_seek_r1_and_openai_o1_models | Comparison of Deep Seek R1 and OpenAI o1 models]]
+- [[ai_pessimists_vs_optimists_debate | AI pessimists vs optimists debate]]
+- [[deep_seek_r1_chain_of_thought_model_features | Deep Seek R1 Chain of Thought model features]]
+- [[reinforcement_learning_in_ai_models | Reinforcement learning in AI models]]
+- [[applications_of_chain_of_thought_models | Applications of Chain of Thought models]]
 
-### [25 VS Code Productivity Tips and Speed Hacks](https://www.youtube.com/watch?v=ifTF3ags0XI)
-- [[vs_code_keyboard_shortcuts_and_commands | VS Code keyboard shortcuts and commands]]
-- [[productivity_tips_for_visual_studio_code | Productivity tips for Visual Studio Code]]
-- [[using_extensions_to_enhance_vs_code_functionality | Using extensions to enhance VS Code functionality]]
-- [[efficient_navigation_and_code_editing_in_vs_code | Efficient navigation and code editing in VS Code]]
-- [[version_control_and_remote_development_in_vs_code | Version control and remote development in VS Code]]
+### [Python in 100 Seconds](https://www.youtube.com/watch?v=x7X9w_GIm1s)
+- [[introduction_to_python | Introduction to Python]]
+- [[history_of_python | History of Python]]
+- [[python_syntax_and_readability | Python Syntax and Readability]]
+- [[python_applications_and_frameworks | Python Applications and Frameworks]]
+- [[python_ecosystem_and_libraries | Python Ecosystem and Libraries]]
 
-### [Learn Docker in 7 Easy Steps - Full Beginner's Tutorial](https://www.youtube.com/watch?v=gAkwW2tuIqE)
-- [[introduction_to_docker_and_its_importance_for_developers | Introduction to Docker and its importance for developers]]
-- [[handson_guide_to_containerizing_a_nodejs_application | Handson guide to containerizing a Nodejs application]]
-- [[stepbystep_instructions_for_docker_installation_and_setup | Stepbystep instructions for Docker installation and setup]]
-- [[understanding_docker_files_images_and_containers | Understanding Docker files images and containers]]
-- [[advanced_docker_concepts_like_port_forwarding_and_managing_multiple_containers | Advanced Docker concepts like port forwarding and managing multiple containers]]
+### [AI influencers are getting filthy rich... let's build one](https://www.youtube.com/watch?v=ky5ZB-mqZKM)
+- [[ai_influencers_and_their_financial_success | AI influencers and their financial success]]
+- [[creating_aigenerated_images_using_stable_diffusion | Creating AIgenerated images using stable diffusion]]
+- [[opensource_tools_for_generating_realistic_images | Opensource tools for generating realistic images]]
+- [[techniques_for_enhancing_aigenerated_images | Techniques for enhancing AIgenerated images]]
+- [[development_of_video_content_using_ai_technology | Development of video content using AI technology]]
+
+### [How a CPU Works in 100 Seconds // Apple Silicon M1 vs Intel i9](https://www.youtube.com/watch?v=vqs_0W-MSB0)
+- [[how_a_cpu_works | How a CPU Works]]
+- [[transistors_and_logic_gates_in_a_cpu | Transistors and Logic Gates in a CPU]]
+- [[cpu_overclocking_and_performance | CPU Overclocking and Performance]]
+- [[apple_silicon_m1_vs_intel_i9 | Apple Silicon M1 vs Intel i9]]
+- [[system_on_chip_soc_vs_traditional_architectures | System on Chip SoC vs Traditional Architectures]]
+
+### [How programmers flex on each other](https://www.youtube.com/watch?v=r6tH55syq0o)
+- [[programmer_ego_and_competitiveness | Programmer ego and competitiveness]]
+- [[how_to_flex_as_a_programmer | How to flex as a programmer]]
+- [[programming_tools_and_software_preferences | Programming tools and software preferences]]
+- [[money_and_salary_in_tech_careers | Money and salary in tech careers]]
+- [[developer_culture_and_humor | Developer culture and humor]]
+
+### [This new AI is powerful and uncensored… Let’s run it](https://www.youtube.com/watch?v=GyllRd2E6fg)
+- [[open_source_ai_models | open source AI models]]
+- [[uncensored_large_language_models | uncensored large language models]]
+- [[training_and_finetuning_ai_models | training and finetuning AI models]]
+- [[using_ai_models_locally | using AI models locally]]
+- [[freedom_in_ai_development | freedom in AI development]]
+
+### [I tried 10 code editors](https://www.youtube.com/watch?v=8PhdfcX9tG0)
+- [[history_of_code_editors | History of code editors]]
+- [[comparison_of_text_editors_and_ides | Comparison of text editors and IDEs]]
+- [[features_of_popular_code_editors_like_vi_vim_and_emacs | Features of popular code editors like vi vim and emacs]]
+- [[modern_code_editors_like_visual_studio_code_and_jetbrains | Modern code editors like Visual Studio Code and JetBrains]]
+- [[future_trends_in_cloudbased_code_editing | Future trends in cloudbased code editing]]
 
 ### [100+ Computer Science Concepts Explained](https://www.youtube.com/watch?v=-uleG_Vecis)
-- [[introduction_to_computer_science_concepts | Introduction to computer science concepts]]
-- [[fundamentals_of_computing_and_binary_systems | Fundamentals of computing and binary systems]]
-- [[programming_languages_and_their_execution_models | Programming languages and their execution models]]
-- [[data_structures_and_algorithms | Data structures and algorithms]]
-- [[network_communication_and_cloud_computing | Network communication and cloud computing]]
+- [[computer_architecture_and_components | Computer Architecture and Components]]
+- [[programming_concepts_and_paradigms | Programming Concepts and Paradigms]]
+- [[data_structures_and_algorithms | Data Structures and Algorithms]]
+- [[networking_and_web_technologies | Networking and Web Technologies]]
+- [[software_engineering_and_development_tools | Software Engineering and Development Tools]]
 
-### [100+ Linux Things you Need to Know](https://www.youtube.com/watch?v=LKCVKw9CzFo)
-- [[introduction_to_linux_and_its_history | Introduction to Linux and its History]]
-- [[linux_kernel_and_system_architecture | Linux Kernel and System Architecture]]
-- [[file_system_and_permissions_in_linux | File System and Permissions in Linux]]
-- [[shell_commands_and_bash_scripting | Shell Commands and Bash Scripting]]
-- [[linux_distributions_and_package_managers | Linux Distributions and Package Managers]]
+### [JavaScript Pro Tips - Code This, NOT That](https://www.youtube.com/watch?v=Mus_vwhTCq0)
+- [[console_logging_techniques_in_javascript | Console logging techniques in JavaScript]]
+- [[object_destructuring_and_template_literals | Object destructuring and template literals]]
+- [[spread_syntax_for_objects_and_arrays | Spread syntax for objects and arrays]]
+- [[modern_javascript_array_methods | Modern JavaScript array methods]]
+- [[async_and_await_in_javascript | Async and await in JavaScript]]
+
+### [How to Learn to Code - 8 Hard Truths](https://www.youtube.com/watch?v=NtfbWkxJTHw)
+- [[learning_to_code_as_a_skill | Learning to code as a skill]]
+- [[overcoming_challenges_and_hard_work_in_programming | Overcoming challenges and hard work in programming]]
+- [[choosing_the_right_programming_language | Choosing the right programming language]]
+- [[problemsolving_and_coding_practice | Problemsolving and coding practice]]
+- [[health_and_lifestyle_considerations_for_programmers | Health and lifestyle considerations for programmers]]
+
+### [God-Tier Developer Roadmap](https://www.youtube.com/watch?v=pEfrdAtAmqk)
+- [[beginner_programming_languages_and_learning_tools | Beginner programming languages and learning tools]]
+- [[popular_programming_languages_for_web_development | Popular programming languages for web development]]
+- [[scripting_and_utility_programming_languages | Scripting and utility programming languages]]
+- [[functional_programming_languages_and_their_features | Functional programming languages and their features]]
+- [[lowlevel_systems_programming_languages | Lowlevel systems programming languages]]
+
+### [How to OVER Engineer a Website // What is a Tech Stack?](https://www.youtube.com/watch?v=Sxxw3qtb3_g)
+- [[understanding_and_choosing_a_tech_stack | Understanding and choosing a tech stack]]
+- [[common_tech_stacks_like_lamp_mean_and_variations | Common tech stacks like LAMP MEAN and variations]]
+- [[frontend_and_backend_development_layers | Frontend and backend development layers]]
+- [[apis_and_thirdparty_services_in_web_development | APIs and thirdparty services in web development]]
+- [[simplifying_and_optimizing_your_tech_stack | Simplifying and optimizing your tech stack]]
+
+### [25 VS Code Productivity Tips and Speed Hacks](https://www.youtube.com/watch?v=ifTF3ags0XI)
+- [[vs_code_keyboard_shortcuts | VS Code Keyboard Shortcuts]]
+- [[command_palette_usage_in_vs_code | Command Palette Usage in VS Code]]
+- [[vs_code_extensions_for_productivity | VS Code Extensions for Productivity]]
+- [[terminal_and_git_integration_in_vs_code | Terminal and Git Integration in VS Code]]
+- [[custom_snippets_and_boilerplate_code_in_vs_code | Custom Snippets and Boilerplate Code in VS Code]]
+
+### [Lua in 100 Seconds](https://www.youtube.com/watch?v=jUuqBZwwkQw)
+- [[introduction_to_lua_programming | Introduction to Lua programming]]
+- [[benefits_and_applications_of_lua | Benefits and applications of Lua]]
+- [[basic_syntax_and_features_of_lua | Basic syntax and features of Lua]]
+- [[lua_tables_and_data_structures | Lua tables and data structures]]
+- [[lua_coroutines_and_multitasking | Lua coroutines and multitasking]]
+
+### [10 CSS Pro Tips - Code this, NOT that!](https://www.youtube.com/watch?v=Qhaz36TZG5Y)
+- [[understanding_the_css_box_model | Understanding the CSS Box Model]]
+- [[using_flexbox_and_css_grid_for_layout | Using Flexbox and CSS Grid for Layout]]
+- [[responsive_design_with_media_queries_and_css_functions | Responsive Design with Media Queries and CSS Functions]]
+- [[css_variables_and_state_management | CSS Variables and State Management]]
+- [[css_tools_and_preprocessors | CSS Tools and Preprocessors]]
+
+### [DeepSeek stole our tech... says OpenAI](https://www.youtube.com/watch?v=hpwoGjpYygI)
+- [[openais_accusation_against_deepseek_of_intellectual_property_theft | OpenAIs accusation against DeepSeek of intellectual property theft]]
+- [[distillation_technique_in_ai_model_development | Distillation technique in AI model development]]
+- [[rise_of_chinese_ai_models_and_the_impact_on_the_ai_landscape | Rise of Chinese AI models and the impact on the AI landscape]]
+- [[open_source_advancements_in_ai_model_technology | Open source advancements in AI model technology]]
+- [[privacy_concerns_with_ai_tools_and_data_security_issues | Privacy concerns with AI tools and data security issues]]
+
+### [Some bad code just broke a billion Windows machines](https://www.youtube.com/watch?v=4yDm6xNeYas)
+- [[impact_of_faulty_software_updates_on_global_systems | Impact of faulty software updates on global systems]]
+- [[vulnerability_of_critical_infrastructures_to_software_errors | Vulnerability of critical infrastructures to software errors]]
+- [[the_role_of_thirdparty_cybersecurity_in_corporate_it_systems | The role of thirdparty cybersecurity in corporate IT systems]]
+- [[challenges_with_automated_software_updates_and_system_safety | Challenges with automated software updates and system safety]]
+- [[crisis_management_and_recovery_strategies_after_it_failures | Crisis management and recovery strategies after IT failures]]
+
+### [I built the same app 10 times // Which JS Framework is best?](https://www.youtube.com/watch?v=cuHDQhDhvPE)
+- [[comparison_of_javascript_frameworks | Comparison of JavaScript frameworks]]
+- [[building_applications_with_vanilla_javascript | Building applications with vanilla JavaScript]]
+- [[features_and_trade_offs_of_react_angular_and_vue | Features and trade offs of React Angular and Vue]]
+- [[overview_of_lesserknown_javascript_frameworks_like_svelte_lit_and_mithril | Overview of lesserknown JavaScript frameworks like Svelte Lit and Mithril]]
+- [[choosing_the_right_javascript_framework_for_your_project | Choosing the right JavaScript framework for your project]]
+
+### [Reacting to Controversial Opinions of Software Engineers](https://www.youtube.com/watch?v=goy4lZfDtCE)
+- [[criticisms_and_opinions_on_objectoriented_programming | Criticisms and opinions on objectoriented programming]]
+- [[passion_for_programming_versus_treating_it_as_a_job | Passion for programming versus treating it as a job]]
+- [[effectiveness_of_programming_in_spare_time | Effectiveness of programming in spare time]]
+- [[importance_of_learning_new_skills_and_efficient_problemsolving | Importance of learning new skills and efficient problemsolving]]
+- [[controversy_around_formal_education_and_degrees_in_computer_science | Controversy around formal education and degrees in computer science]]
+
+### [10 Design Patterns Explained in 10 Minutes](https://www.youtube.com/watch?v=tv-_1er1mWI)
+- [[software_design_patterns | Software design patterns]]
+- [[singleton_pattern | Singleton pattern]]
+- [[prototype_pattern | Prototype pattern]]
+- [[builder_pattern | Builder pattern]]
+- [[observer_pattern | Observer pattern]]
+
+### [How to get rich as a solo software developer - The Ultimate Guide](https://www.youtube.com/watch?v=A4_TFHzqAAg)
+- [[building_a_profitable_software_business_as_a_solo_developer | Building a profitable software business as a solo developer]]
+- [[the_importance_of_mindset_and_luck_in_entrepreneurial_success | The importance of mindset and luck in entrepreneurial success]]
+- [[validating_and_marketing_your_software_idea | Validating and marketing your software idea]]
+- [[choosing_the_right_technology_stack_and_tools_for_productivity | Choosing the right technology stack and tools for productivity]]
+- [[monetization_strategies_and_using_payment_apis_for_software_applications | Monetization strategies and using payment APIs for software applications]]
 
 ### [100+ JavaScript Concepts you Need to Know](https://www.youtube.com/watch?v=lkIFF4maKMU)
-- [[basics_of_javascript_and_its_history | Basics of JavaScript and its history]]
-- [[using_javascript_on_web_and_server_environments | Using JavaScript on web and server environments]]
-- [[variable_declaration_and_scope_in_javascript | Variable declaration and scope in JavaScript]]
-- [[functions_closures_and_the_concept_of_this | Functions closures and the concept of this]]
-- [[asynchronous_programming_and_event_loop_in_javascript | Asynchronous programming and event loop in JavaScript]]
+- [[javascript_basics_and_history | JavaScript basics and history]]
+- [[variables_and_data_types_in_javascript | Variables and data types in JavaScript]]
+- [[functions_and_closures_in_javascript | Functions and closures in JavaScript]]
+- [[asynchronous_programming_and_event_loop | Asynchronous programming and event loop]]
+- [[javascript_modules_and_package_management | JavaScript modules and package management]]
+
+### [React Native vs Flutter - I built the same chat app with both](https://www.youtube.com/watch?v=X8ipUgXH6jw)
+- [[comparison_of_react_native_and_flutter_for_cross_platform_app_development | Comparison of React Native and Flutter for cross platform app development]]
+- [[programming_languages_and_syntax_used_in_react_native_and_flutter | Programming languages and syntax used in React Native and Flutter]]
+- [[ecosystem_and_development_philosophy_of_react_native_and_flutter | Ecosystem and development philosophy of React Native and Flutter]]
+- [[developer_experience_and_tooling_in_react_native_and_flutter | Developer experience and tooling in React Native and Flutter]]
+- [[performance_differences_between_react_native_and_flutter | Performance differences between React Native and Flutter]]
+
+### [C# in 100 Seconds](https://www.youtube.com/watch?v=ravLFzIguCM)
+- [[overview_of_c_sharp_language | Overview of C Sharp Language]]
+- [[c_sharp_and_net_framework | C Sharp and NET Framework]]
+- [[c_sharp_features_and_capabilities | C Sharp Features and Capabilities]]
+- [[c_sharp_in_object_oriented_and_functional_programming | C Sharp in Object Oriented and Functional Programming]]
+- [[compiling_and_executing_c_sharp_code | Compiling and Executing C Sharp Code]]
+
+### [Microsoft’s new chip looks like science fiction…](https://www.youtube.com/watch?v=jwnez8HdN7E)
+- [[microsofts_new_quantum_computing_chip_and_its_significance | Microsofts new quantum computing chip and its significance]]
+- [[the_concept_of_a_new_state_of_matter_in_quantum_computing | The concept of a new state of matter in quantum computing]]
+- [[comparison_between_microsofts_myer_on_a_one_and_googles_willow_chip | Comparison between Microsofts Myer on a one and Googles Willow chip]]
+- [[the_role_of_myeron_a_fon_particles_in_quantum_computing | The role of myeron a fon particles in quantum computing]]
+- [[potential_impact_of_quantum_computing_advances_on_future_technology | Potential impact of quantum computing advances on future technology]]
+
+### [Rust in 100 Seconds](https://www.youtube.com/watch?v=5C_HPTJg5ek)
+- [[memory_safety_and_ownership_concepts_in_rust | Memory safety and ownership concepts in Rust]]
+- [[rusts_performance_benefits_for_systems_programming | Rusts performance benefits for systems programming]]
+- [[rusts_history_and_sponsorship_by_mozilla | Rusts history and sponsorship by Mozilla]]
+- [[cargo_package_manager_and_rust_project_setup | Cargo package manager and Rust project setup]]
+- [[rust_standard_library_and_compile_process | Rust standard library and compile process]]
+
+### [C++ in 100 Seconds](https://www.youtube.com/watch?v=MNeX4EGtR5Y)
+- [[history_and_creation_of_c | History and creation of C]]
+- [[key_features_of_c | Key features of C]]
+- [[objectoriented_programming_in_c | Objectoriented programming in C]]
+- [[memory_management_in_c | Memory management in C]]
+- [[applications_and_usage_of_c | Applications and usage of C]]
+
+### [10 Math Concepts for Programmers](https://www.youtube.com/watch?v=bOCHTHkBoAs)
+- [[boolean_algebra_in_programming | Boolean algebra in programming]]
+- [[numeral_systems_and_base_conversions | Numeral systems and base conversions]]
+- [[logarithms_and_logarithmic_functions_in_algorithms | Logarithms and logarithmic functions in algorithms]]
+- [[set_theory_and_its_application_in_databases | Set theory and its application in databases]]
+- [[combinatorics_and_graph_theory_in_algorithm_design | Combinatorics and graph theory in algorithm design]]
+
+### [AI just officially took our jobs… I hate you Devin](https://www.youtube.com/watch?v=AgyJv2Qelwk)
+- [[impact_of_ai_on_traditional_jobs | Impact of AI on traditional jobs]]
+- [[ai_in_software_engineering | AI in software engineering]]
+- [[comparison_of_devon_with_other_ai_tools | Comparison of Devon with other AI tools]]
+- [[future_implications_of_ai_in_programming | Future implications of AI in programming]]
+- [[silicon_valleys_role_in_ai_development | Silicon Valleys role in AI development]]
+
+### [100+ Linux Things you Need to Know](https://www.youtube.com/watch?v=LKCVKw9CzFo)
+- [[linux_kernel_and_its_role | Linux kernel and its role]]
+- [[unix_and_posix_standard | Unix and POSIX standard]]
+- [[gnu_project_and_core_utilities | GNU project and core utilities]]
+- [[basic_linux_commands_and_shell_usage | Basic Linux commands and shell usage]]
+- [[linux_distributions_and_desktop_environments | Linux distributions and desktop environments]]
+
+### [TempleOS in 100 Seconds](https://www.youtube.com/watch?v=h7gf5M04hdg)
+- [[templeos_overview | TempleOS overview]]
+- [[terry_davis_and_schizophrenia | Terry Davis and Schizophrenia]]
+- [[holy_c_programming_language | Holy C programming language]]
+- [[unique_features_of_templeos | Unique features of TempleOS]]
+- [[terry_davis_legacy_and_impact | Terry Davis legacy and impact]]
+
+### [7 Things No Programmer Ever Wants to Hear](https://www.youtube.com/watch?v=OoQLoKHhohg)
+- [[common_frustrations_in_software_engineering | Common frustrations in software engineering]]
+- [[avoiding_unwanted_app_development_requests_from_friends_and_family | Avoiding unwanted app development requests from friends and family]]
+- [[managing_cloud_billing_alerts_and_expenses | Managing cloud billing alerts and expenses]]
+- [[dealing_with_accidental_data_loss_and_database_issues | Dealing with accidental data loss and database issues]]
+- [[challenges_with_updating_legacy_code_and_adapting_to_new_frameworks | Challenges with updating legacy code and adapting to new frameworks]]
+
+### [VS Code Top-Ten Pro Tips](https://www.youtube.com/watch?v=u21W_tfPVrY)
+- [[vs_code_file_navigation_and_hotkeys | VS Code file navigation and hotkeys]]
+- [[using_extensions_and_snippets_in_vs_code | Using extensions and snippets in VS Code]]
+- [[vs_codes_integrated_terminal_and_intellisense | VS Codes integrated terminal and Intellisense]]
+- [[debugging_with_vs_code | Debugging with VS Code]]
+- [[git_version_control_and_collaboration_tools_in_vs_code | Git version control and collaboration tools in VS Code]]
+
+### [Assembly Language in 100 Seconds](https://www.youtube.com/watch?v=4gwYkEK0gOk)
+- [[introduction_to_assembly_language | Introduction to Assembly Language]]
+- [[history_and_evolution_of_assembly_language | History and Evolution of Assembly Language]]
+- [[uses_and_applications_of_assembly_language_today | Uses and Applications of Assembly Language Today]]
+- [[assembly_language_structure_and_syntax | Assembly Language Structure and Syntax]]
+- [[compilation_and_execution_process_in_assembly_language | Compilation and Execution Process in Assembly Language]]
+
+### [CPU vs GPU vs TPU vs DPU vs QPU](https://www.youtube.com/watch?v=r5NQecwZs1A)
+- [[comparison_of_cpu_gpu_tpu_dpu_and_qpu | Comparison of CPU GPU TPU DPU and QPU]]
+- [[history_and_evolution_of_computer_processing_units | History and evolution of computer processing units]]
+- [[function_and_optimization_of_different_processing_units | Function and optimization of different processing units]]
+- [[role_of_gpus_and_tpus_in_deep_learning | Role of GPUs and TPUs in deep learning]]
+- [[potential_impact_of_quantum_computing_on_encryption_and_security | Potential impact of quantum computing on encryption and security]]
+
+### [7 Amazing Developer Tools that you're not using yet](https://www.youtube.com/watch?v=U_gANjtv28g)
+- [[developer_productivity_tools | developer productivity tools]]
+- [[web_application_tools_for_developers | web application tools for developers]]
+- [[front_end_development_aids | front end development aids]]
+- [[design_and_animation_software | design and animation software]]
+- [[api_debugging_tools | API debugging tools]]
+
+### [Hackers are destroying the Internet's history book right now](https://www.youtube.com/watch?v=N3ZGNT5S5IU)
+- [[security_issues_with_the_way_back_machine | Security issues with the Way Back Machine]]
+- [[impact_of_data_breaches_on_internet_history_archives | Impact of data breaches on internet history archives]]
+- [[legal_challenges_faced_by_the_internet_archive_and_open_library | Legal challenges faced by the Internet Archive and Open Library]]
+- [[significance_of_the_internet_archive_in_preserving_internet_history | Significance of the Internet Archive in preserving internet history]]
+- [[hackers_and_their_motivations_for_targeting_the_internet_archive | Hackers and their motivations for targeting the Internet Archive]]
+
+### [Claude 3.7 goes hard for programmers…](https://www.youtube.com/watch?v=x2WtHZciC74)
+- [[claude_37_release_and_impact_on_programming | Claude 37 release and impact on programming]]
+- [[claude_code_cli_features_and_capabilities | Claude code CLI features and capabilities]]
+- [[ai_influence_on_the_labor_force | AI influence on the labor force]]
+- [[comparison_with_other_ai_models_in_coding | Comparison with other AI models in coding]]
+- [[challenges_and_testing_with_language_models | Challenges and testing with language models]]
+
+### [10 regrets of experienced programmers](https://www.youtube.com/watch?v=ehTIhQpj9ys)
+- [[importance_of_writing_less_and_simpler_code | Importance of writing less and simpler code]]
+- [[benefits_of_learning_programming_at_a_young_age | Benefits of learning programming at a young age]]
+- [[challenges_of_finishing_software_projects | Challenges of finishing software projects]]
+- [[value_of_obtaining_a_computer_science_degree | Value of obtaining a computer science degree]]
+- [[learning_lowerlevel_programming_languages_like_c | Learning lowerlevel programming languages like C]]
+
+### [Bash in 100 Seconds](https://www.youtube.com/watch?v=I4EWvMFj37g)
+- [[history_and_evolution_of_bash | History and evolution of Bash]]
+- [[basic_bash_commands_and_scripts | Basic Bash commands and scripts]]
+- [[bash_startup_scripts_and_customization | Bash startup scripts and customization]]
+- [[using_variables_and_arguments_in_bash_scripts | Using variables and arguments in Bash scripts]]
+- [[conditional_logic_and_loops_in_bash | Conditional logic and loops in Bash]]
+
+### [You probably won’t survive 2024... Top 10 Tech Trends](https://www.youtube.com/watch?v=vyQv563Y-fk)
+- [[tech_industry_job_market_and_layoffs | Tech industry job market and layoffs]]
+- [[cryptocurrency_trends_and_predictions | Cryptocurrency trends and predictions]]
+- [[augmented_and_virtual_reality_advancements | Augmented and virtual reality advancements]]
+- [[developments_in_artificial_intelligence_and_aipowered_tools | Developments in artificial intelligence and AIpowered tools]]
+- [[trends_in_programming_languages_and_web_development | Trends in programming languages and web development]]
+
+### [React for the Haters in 100 Seconds](https://www.youtube.com/watch?v=HyWYpM_S-2c)
+- [[reactjs_overview_and_history | Reactjs overview and history]]
+- [[reactjs_functional_and_classbased_components | Reactjs functional and classbased components]]
+- [[the_challenges_and_complexity_of_using_reactjs | The challenges and complexity of using Reactjs]]
+- [[reactjs_learning_curve_and_tooling | Reactjs learning curve and tooling]]
+- [[popularity_and_impact_of_reactjs_in_web_development | Popularity and impact of Reactjs in web development]]
+
+### [The amazing, but unsettling future of technology...](https://www.youtube.com/watch?v=v4H2fTgHGuc)
+- [[artificial_intelligence_and_reasoning_models | Artificial Intelligence and reasoning models]]
+- [[future_of_programming_and_ai_agents | Future of programming and AI agents]]
+- [[impact_of_robots_in_workplaces | Impact of robots in workplaces]]
+- [[quantum_computing_advancements | Quantum computing advancements]]
+- [[cryptocurrency_trends_and_strategies | Cryptocurrency trends and strategies]]
+
+### [Best OS for programming? Mac vs Windows vs Linux debate settled](https://www.youtube.com/watch?v=AdygBbbEnco)
+- [[comparison_of_mac_vs_windows_vs_linux_for_programming | Comparison of Mac vs Windows vs Linux for programming]]
+- [[pros_and_cons_of_using_mac_os_for_development | Pros and cons of using Mac OS for development]]
+- [[advantages_and_disadvantages_of_linux_for_developers | Advantages and disadvantages of Linux for developers]]
+- [[windows_as_an_operating_system_for_programmers | Windows as an operating system for programmers]]
+- [[choosing_the_best_operating_system_for_personal_needs | Choosing the best operating system for personal needs]]
+
+### [How to NOT Fail a Technical Interview](https://www.youtube.com/watch?v=1t1_a1BZ04o)
+- [[technical_interview_challenges | Technical interview challenges]]
+- [[common_coding_interview_questions | Common coding interview questions]]
+- [[interview_preparation_strategies | Interview preparation strategies]]
+- [[problem_solving_under_pressure | Problem solving under pressure]]
+- [[big_o_time_complexity | Big O time complexity]]
+
+### [25 crazy software bugs explained](https://www.youtube.com/watch?v=Iq_r7IcNmUk)
+- [[famous_software_bugs_in_history | Famous software bugs in history]]
+- [[impact_of_software_bugs_on_different_industries | Impact of software bugs on different industries]]
+- [[security_vulnerabilities_and_exploits | Security vulnerabilities and exploits]]
+- [[consequences_of_software_glitches_in_financial_systems | Consequences of software glitches in financial systems]]
+- [[lessons_learned_from_catastrophic_software_failures | Lessons learned from catastrophic software failures]]
+
+### [Top 50+ AWS Services Explained in 10 Minutes](https://www.youtube.com/watch?v=JIbIYCM48to)
+- [[overview_of_aws_services | Overview of AWS services]]
+- [[aws_cloud_computing_solutions | AWS cloud computing solutions]]
+- [[aws_storage_and_databases | AWS storage and databases]]
+- [[aws_analytics_and_data_processing | AWS analytics and data processing]]
+- [[aws_machine_learning_tools | AWS machine learning tools]]
+
+### [Serverless was a big mistake... says Amazon](https://www.youtube.com/watch?v=qQk94CjRvIs)
+- [[serverless_architecture_critique | Serverless architecture critique]]
+- [[cost_savings_with_monolith_architecture | Cost savings with monolith architecture]]
+- [[microservices_vs_monoliths | Microservices vs monoliths]]
+- [[amazon_prime_video_architecture_change | Amazon Prime Video architecture change]]
+- [[tradeoffs_in_cloud_architecture | Tradeoffs in cloud architecture]]
+
+### [Nvidia CUDA in 100 Seconds](https://www.youtube.com/watch?v=pPStdjuYzSI)
+- [[introduction_to_cuda | Introduction to CUDA]]
+- [[gpu_vs_cpu_in_parallel_computing | GPU vs CPU in Parallel Computing]]
+- [[building_a_cuda_application | Building a CUDA Application]]
+- [[cuda_kernels_and_functions | CUDA Kernels and Functions]]
+- [[optimizing_with_cuda_for_deep_learning | Optimizing with CUDA for Deep Learning]]
+
+### [Billionaire Pavel Durov arrested... The truth about Telegram](https://www.youtube.com/watch?v=39rBzRd4M0k)
+- [[pavel_durovs_lifestyle_and_achievements | Pavel Durovs lifestyle and achievements]]
+- [[legal_issues_and_arrest_of_pavel_durov | Legal issues and arrest of Pavel Durov]]
+- [[telegrams_operation_and_comparison_with_other_messaging_apps | Telegrams operation and comparison with other messaging apps]]
+- [[telegrams_encryption_and_privacy_features | Telegrams encryption and privacy features]]
+- [[governments_stance_on_encryption_and_legal_implications | Governments stance on encryption and legal implications]]
+
+### [JavaScript for the Haters](https://www.youtube.com/watch?v=aXOChLn5ZdQ)
+- [[history_of_javascript | History of JavaScript]]
+- [[javascript_serverside_with_nodejs | JavaScript serverside with Nodejs]]
+- [[javascript_language_quirks | JavaScript language quirks]]
+- [[javascript_package_management_and_libraries | JavaScript package management and libraries]]
+- [[state_of_javascript_in_modern_development | State of JavaScript in modern development]]
+
+### [Tailwind CSS is the worst…](https://www.youtube.com/watch?v=lHZwlzOUOZ4)
+- [[benefits_and_drawbacks_of_tailwind_css | Benefits and drawbacks of Tailwind CSS]]
+- [[colocation_of_styles_with_tailwind | Colocation of styles with Tailwind]]
+- [[comparison_between_tailwind_css_and_traditional_css | Comparison between Tailwind CSS and traditional CSS]]
+- [[abstraction_layers_in_web_development | Abstraction layers in web development]]
+- [[automatic_style_purging_with_tailwind | Automatic style purging with Tailwind]]
+
+### [100+ Web Development Things you Should Know](https://www.youtube.com/watch?v=erEgovG9WBs)
+- [[introduction_to_web_development | Introduction to web development]]
+- [[understanding_the_internet_and_web_infrastructure | Understanding the internet and web infrastructure]]
+- [[html_structure_and_syntax | HTML structure and syntax]]
+- [[css_for_styling_and_layout | CSS for styling and layout]]
+- [[javascript_for_interactivity_and_frameworks | JavaScript for interactivity and frameworks]]
+- [[backend_development_and_serverside_concepts | Backend development and serverside concepts]]
+
+### [I built 10 web apps... with 10 different languages](https://www.youtube.com/watch?v=FQPlEnKav48)
+- [[comparison_of_web_development_frameworks | Comparison of web development frameworks]]
+- [[ruby_on_rails_framework_overview | Ruby on Rails framework overview]]
+- [[django_framework_for_python_web_development | Django framework for Python web development]]
+- [[benefits_and_drawbacks_of_using_java_spring | Benefits and drawbacks of using Java Spring]]
+- [[developing_web_apps_with_nextjs | Developing web apps with Nextjs]]
+
+### [RESTful APIs in 100 Seconds // Build an API from Scratch with Node.js Express](https://www.youtube.com/watch?v=-MTSQjw5DrM)
+- [[understanding_restful_apis | Understanding RESTful APIs]]
+- [[building_a_restful_api_with_nodejs_and_express | Building a RESTful API with Nodejs and Express]]
+- [[http_request_methods_and_status_codes | HTTP request methods and status codes]]
+- [[middleware_in_expressjs | Middleware in Expressjs]]
+- [[openapi_specification_and_its_benefits | OpenAPI Specification and its benefits]]
+
+### [React in 100 Seconds](https://www.youtube.com/watch?v=Tn6-PIqc4UM)
+- [[react_introduction_and_history | React introduction and history]]
+- [[building_components_with_react | Building components with React]]
+- [[state_and_props_in_react | State and props in React]]
+- [[react_ecosystem_and_libraries | React ecosystem and libraries]]
+- [[applications_of_react_including_react_native | Applications of React including React Native]]
+
+### [Linux Directories Explained in 100 Seconds](https://www.youtube.com/watch?v=42iQKuQodW4)
+- [[linux_file_system_hierarchy | Linux file system hierarchy]]
+- [[essential_directories_in_linux | Essential directories in Linux]]
+- [[navigating_the_linux_file_system | Navigating the Linux file system]]
+- [[role_of_binaries_and_executables_in_linux | Role of binaries and executables in Linux]]
+- [[customizing_linux_through_configuration_files | Customizing Linux through configuration files]]
+
+### [Front-end web development is changing, quickly](https://www.youtube.com/watch?v=TBIjgBVFjVI)
+- [[frontend_ui_libraries_and_frameworks | Frontend UI Libraries and Frameworks]]
+- [[shad_cn_and_its_innovations | Shad CN and its Innovations]]
+- [[ai_tools_in_web_development | AI Tools in Web Development]]
+- [[versell_ecosystem_and_developments | Versell Ecosystem and Developments]]
+- [[challenges_and_future_of_frontend_development | Challenges and Future of Frontend Development]]
 
 ### [Node.js Ultimate Beginner’s Guide in 7 Easy Steps](https://www.youtube.com/watch?v=ENrzD9HAZK4)
 - [[introduction_to_nodejs | Introduction to Nodejs]]
-- [[installing_and_setting_up_nodejs | Installing and setting up Nodejs]]
-- [[nodejs_runtime_and_basic_operations | Nodejs runtime and basic operations]]
-- [[understanding_nodejs_modules_and_packages | Understanding Nodejs modules and packages]]
-- [[building_and_deploying_a_nodejs_full_stack_application | Building and deploying a Nodejs full stack application]]
+- [[installing_and_managing_nodejs_versions | Installing and managing Nodejs versions]]
+- [[running_and_understanding_javascript_with_nodejs | Running and understanding JavaScript with Nodejs]]
+- [[eventdriven_architecture_in_nodejs | Eventdriven architecture in Nodejs]]
+- [[building_and_deploying_a_full_stack_application_with_nodejs_and_express | Building and deploying a full stack application with Nodejs and Express]]
+
+### [Top G Andrew Tate penetrated by LGBT hackers](https://www.youtube.com/watch?v=xR5d4Ba4FZg)
+- [[data_breach_at_andrew_tates_hustlers_university | Data breach at Andrew Tates Hustlers University]]
+- [[website_security_vulnerabilities | Website security vulnerabilities]]
+- [[content_of_leaked_data_from_chat_rooms | Content of leaked data from chat rooms]]
+- [[incident_involving_lgbt_hackers | Incident involving LGBT hackers]]
+- [[technical_details_of_the_websites_tech_stack | Technical details of the websites tech stack]]
+
+### [Computing just changed forever… but there’s a catch](https://www.youtube.com/watch?v=IJHrPjx4egM)
+- [[quantum_computing_advancements | Quantum Computing advancements]]
+- [[googles_willow_chip_and_its_capabilities | Googles Willow chip and its capabilities]]
+- [[challenges_in_quantum_computing_and_error_rates | Challenges in quantum computing and error rates]]
+- [[potential_threats_and_benefits_of_quantum_computing | Potential threats and benefits of quantum computing]]
+- [[comparison_between_classical_and_quantum_computers | Comparison between classical and quantum computers]]
+
+### [Is Elon’s Grok 3 the new AI king?](https://www.youtube.com/watch?v=b0XI-cbel1U)
+- [[grok_3_and_its_impact_on_ai_benchmarks | Grok 3 and its impact on AI benchmarks]]
+- [[elon_musks_advancements_in_ai_with_grok_3 | Elon Musks advancements in AI with Grok 3]]
+- [[controversies_surrounding_ai_training_data_usage | Controversies surrounding AI training data usage]]
+- [[features_and_capabilities_of_grok_3 | Features and capabilities of Grok 3]]
+- [[training_infrastructure_and_future_developments_of_grok_3 | Training infrastructure and future developments of Grok 3]]
+
+### [Why so many distros? The Weird History of Linux](https://www.youtube.com/watch?v=ShcR4Zfc6Dw)
+- [[history_of_linux | History of Linux]]
+- [[gnu_project_and_richard_stallman | GNU Project and Richard Stallman]]
+- [[linux_distributions_and_their_origins | Linux Distributions and their Origins]]
+- [[role_of_linux_kernel_in_operating_systems | Role of Linux Kernel in Operating Systems]]
+- [[notable_linux_distros_and_their_impact | Notable Linux Distros and their Impact]]
+
+### [The "vibe coding" mind virus explained…](https://www.youtube.com/watch?v=Tw18-4U7mts)
+- [[vibe_coding_mind_virus_phenomenon | Vibe coding mind virus phenomenon]]
+- [[impact_of_ai_on_coding_and_programming_skills | Impact of AI on coding and programming skills]]
+- [[tools_and_techniques_for_effective_vibe_coding | Tools and techniques for effective vibe coding]]
+- [[risks_and_potential_success_stories_of_vibe_coding | Risks and potential success stories of vibe coding]]
+- [[role_of_ai_in_software_development_and_product_management | Role of AI in software development and product management]]
 
 ### [10 React Hooks Explained // Plus Build your own from Scratch](https://www.youtube.com/watch?v=TNhaISOUy6Q)
-- [[react_hooks_explanation | React Hooks explanation]]
+- [[react_hooks_explained | React Hooks explained]]
 - [[building_react_hooks_from_scratch | Building React Hooks from scratch]]
-- [[programming_software | Programming software]]
-- [[free_software_updates | Free software updates]]
-- [[virtual_dj_software | Virtual DJ software]]
-
-### [Top 50+ AWS Services Explained in 10 Minutes](https://www.youtube.com/watch?v=JIbIYCM48to)
-- [[introduction_to_amazon_web_services_aws | Introduction to Amazon Web Services AWS]]
-- [[aws_computer_services_and_tools | AWS Computer Services and Tools]]
-- [[aws_storage_solutions | AWS Storage Solutions]]
-- [[aws_database_offerings | AWS Database Offerings]]
-- [[aws_machine_learning_and_analytics | AWS Machine Learning and Analytics]]
-
-### [How to Land a 100K/yr Tech Job - 10 Strategies](https://www.youtube.com/watch?v=Xg9ihH15Uto)
-- [[job_market_trends_and_their_impact_on_tech_jobs | Job market trends and their impact on tech jobs]]
-- [[building_a_professional_online_presence_through_social_media | Building a professional online presence through social media]]
-- [[importance_of_networking_in_the_tech_industry | Importance of networking in the tech industry]]
-- [[creating_a_strong_portfolio_and_personal_projects | Creating a strong portfolio and personal projects]]
-- [[cultural_fit_and_company_values_in_job_applications | Cultural fit and company values in job applications]]
-
-### [I built the same app 10 times // Which JS Framework is best?](https://www.youtube.com/watch?v=cuHDQhDhvPE)
-- [[choosing_the_best_javascript_framework | Choosing the best JavaScript framework]]
-- [[comparison_of_popular_javascript_frameworks_in_2021 | Comparison of popular JavaScript frameworks in 2021]]
-- [[building_a_todo_app_with_different_javascript_frameworks | Building a todo app with different JavaScript frameworks]]
-- [[differences_and_similarities_among_frameworks_like_react_angular_and_vue | Differences and similarities among frameworks like React Angular and Vue]]
-- [[understanding_the_unique_features_of_frameworks_like_svelte_lit_and_alpine_js | Understanding the unique features of frameworks like Svelte Lit and Alpine JS]]
-
-### [RESTful APIs in 100 Seconds // Build an API from Scratch with Node.js Express](https://www.youtube.com/watch?v=-MTSQjw5DrM)
-- [[introduction_to_restful_apis | Introduction to RESTful APIs]]
-- [[setting_up_a_nodejs_and_express_environment | Setting up a Nodejs and Express environment]]
-- [[creating_api_endpoints_with_express | Creating API endpoints with Express]]
-- [[understanding_http_verbs_and_status_codes | Understanding HTTP verbs and status codes]]
-- [[using_middleware_and_parsing_json_in_express | Using middleware and parsing JSON in Express]]
-
-### [Ultimate Tailwind CSS Tutorial // Build a Discord-inspired Animated Navbar](https://www.youtube.com/watch?v=pfaSUYaSgRo)
-- [[introduction_to_tailwind_css | Introduction to Tailwind CSS]]
-- [[functional_utility_class_approach_in_tailwind_css | Functional utility class approach in Tailwind CSS]]
-- [[building_a_discordinspired_animated_navbar_with_tailwind_css | Building a Discordinspired animated navbar with Tailwind CSS]]
-- [[integrating_tailwind_css_with_javascript_frameworks | Integrating Tailwind CSS with JavaScript frameworks]]
-- [[customizing_themes_and_enabling_dark_mode_in_tailwind_css | Customizing themes and enabling dark mode in Tailwind CSS]]
-
-### [Next.js in 100 Seconds // Plus Full Beginner's Tutorial](https://www.youtube.com/watch?v=Sklc_fQBmcs)
-- [[introduction_to_nextjs | Introduction to Nextjs]]
-- [[clientside_rendering_vs_serverside_rendering | Clientside rendering vs Serverside rendering]]
-- [[static_generation_and_prerendering_in_nextjs | Static generation and prerendering in Nextjs]]
-- [[dynamic_routing_in_nextjs | Dynamic routing in Nextjs]]
-- [[data_fetching_strategies_in_nextjs | Data fetching strategies in Nextjs]]
-
-### [Vim in 100 Seconds](https://www.youtube.com/watch?v=-txKSRn0qeA)
-- [[introduction_to_vim_as_a_text_editor | Introduction to Vim as a text editor]]
-- [[vim_navigation_and_keyboard_shortcuts | Vim navigation and keyboard shortcuts]]
-- [[editing_text_in_vim_using_different_modes | Editing text in Vim using different modes]]
-- [[setting_up_vim_within_visual_studio_code | Setting up Vim within Visual Studio Code]]
-- [[advanced_vim_commands_and_customization | Advanced Vim commands and customization]]
+- [[virtual_dj_home_free | Virtual DJ Home Free]]
+- [[windows_phone_software | Windows Phone software]]
+- [[free_game_downloads | Free game downloads]]
 
 ### [TypeScript - The Basics](https://www.youtube.com/watch?v=ahCwqrYpIuM)
-- [[benefits_of_using_typescript_for_web_development | Benefits of using TypeScript for web development]]
-- [[getting_started_with_typescript_and_its_installation | Getting started with TypeScript and its installation]]
-- [[type_annotations_and_error_checking_in_typescript | Type annotations and error checking in TypeScript]]
-- [[typescript_interfaces_and_custom_types | TypeScript interfaces and custom types]]
-- [[working_with_functions_and_arrays_in_typescript | Working with functions and arrays in TypeScript]]
-
-### [100+ Web Development Things you Should Know](https://www.youtube.com/watch?v=erEgovG9WBs)
-- [[introduction_to_web_development | Introduction to Web Development]]
-- [[understanding_the_internet_and_the_world_wide_web | Understanding the Internet and the World Wide Web]]
-- [[html_and_the_document_object_model_dom | HTML and the Document Object Model DOM]]
-- [[css_for_styling_and_layout | CSS for Styling and Layout]]
-- [[javascript_and_frontend_development | JavaScript and Frontend Development]]
-
-### [I built 10 web apps... with 10 different languages](https://www.youtube.com/watch?v=FQPlEnKav48)
-- [[comparison_of_10_web_frameworks | Comparison of 10 web frameworks]]
-- [[pros_and_cons_of_different_full_stack_frameworks | Pros and cons of different full stack frameworks]]
-- [[web_development_with_ruby_on_rails | Web development with Ruby on Rails]]
-- [[building_web_apps_with_various_programming_languages | Building web apps with various programming languages]]
-- [[framework_features_like_routing_and_database_integration | Framework features like routing and database integration]]
-
-### [Flutter Basic Training - 12 Minute Bootcamp](https://www.youtube.com/watch?v=1xipg02Wu8s)
-- [[crossplatform_app_development_with_flutter | Crossplatform app development with Flutter]]
-- [[flutter_installation_and_setup_guide | Flutter installation and setup guide]]
-- [[building_user_interfaces_with_flutter_widgets | Building user interfaces with Flutter widgets]]
-- [[managing_state_in_flutter_applications | Managing state in Flutter applications]]
-- [[navigating_between_screens_in_flutter_apps | Navigating between screens in Flutter apps]]
-
-### [The Weird History of JavaScript](https://www.youtube.com/watch?v=Sh6lK57Cuk4)
-- [[history_and_evolution_of_javascript | History and evolution of JavaScript]]
-- [[the_role_of_netscape_and_brendan_eich_in_javascripts_development | The role of Netscape and Brendan Eich in JavaScripts development]]
-- [[standardization_of_javascript_and_the_ecmascript_specification | Standardization of JavaScript and the ECMAScript specification]]
-- [[influence_of_browsers_and_companies_on_javascripts_development | Influence of browsers and companies on JavaScripts development]]
-- [[emergence_of_frameworks_and_tools_in_modern_javascript | Emergence of frameworks and tools in modern JavaScript]]
-
-### [Build a Curvaceous Homepage // Wavy Background Tutorial with SVG & CSS](https://www.youtube.com/watch?v=lPJVi797Uy0)
-- [[creating_wavy_backgrounds_with_svg_and_css | Creating wavy backgrounds with SVG and CSS]]
-- [[using_css_border_radius_for_curves | Using CSS border radius for curves]]
-- [[implementing_svg_for_scalable_vector_graphics | Implementing SVG for scalable vector graphics]]
-- [[animated_morphing_svg_with_javascript | Animated morphing SVG with JavaScript]]
-- [[css_and_html_tips_for_responsive_design | CSS and HTML tips for responsive design]]
-
-### [Build a Desktop App with Electron... But Should You?](https://www.youtube.com/watch?v=3yqDxhR2XxE)
-- [[building_desktop_apps_with_electron | Building Desktop Apps with Electron]]
-- [[electron_for_web_developers | Electron for Web Developers]]
-- [[screen_recording_with_electron | Screen Recording with Electron]]
-- [[criticism_and_drawbacks_of_electron | Criticism and Drawbacks of Electron]]
-- [[packaging_electron_apps_for_multiple_operating_systems | Packaging Electron Apps for Multiple Operating Systems]]
-
-### [JavaScript: How It's Made](https://www.youtube.com/watch?v=FSs_JYwnAdI)
-- [[javascript_highlevel_features | JavaScript highlevel features]]
-- [[javascript_memory_management_and_garbage_collection | JavaScript memory management and garbage collection]]
-- [[javascript_singlethreaded_concurrency_model | JavaScript singlethreaded concurrency model]]
-- [[javascript_interpretation_and_justintime_compilation | JavaScript interpretation and justintime compilation]]
-- [[javascript_event_loop_and_asynchronous_programming | JavaScript event loop and asynchronous programming]]
-
-### [The Async Await Episode I Promised](https://www.youtube.com/watch?v=vn3tm0quoqE)
-- [[javascript_singlethreaded_nature | JavaScript singlethreaded nature]]
-- [[asynchronous_programming_in_javascript | Asynchronous programming in JavaScript]]
-- [[understanding_the_event_loop | Understanding the event loop]]
-- [[using_promises_for_asynchronous_operations | Using promises for asynchronous operations]]
-- [[utilizing_async_await_in_javascript | Utilizing async await in JavaScript]]
-
-### [Make Awesome SVG Animations with CSS // 7 Useful Techniques](https://www.youtube.com/watch?v=UTHgr6NLeEw)
-- [[svg_and_css_integration | SVG and CSS integration]]
-- [[benefits_of_svg_for_web_designers | Benefits of SVG for web designers]]
-- [[creating_interactive_svg_animations | Creating interactive SVG animations]]
-- [[techniques_for_svg_styling_with_css_and_javascript | Techniques for SVG styling with CSS and JavaScript]]
-- [[implementation_of_keyframe_animations_in_svg | Implementation of keyframe animations in SVG]]
-
-### [Firebase - Ultimate Beginner's Guide](https://www.youtube.com/watch?v=9kRgVxULbag)
-- [[introduction_to_firebase_and_benefits | Introduction to Firebase and benefits]]
-- [[firebase_setup_and_project_creation | Firebase setup and project creation]]
-- [[user_authentication_with_firebase | User authentication with Firebase]]
-- [[working_with_firebase_firestore_and_realtime_updates | Working with Firebase Firestore and realtime updates]]
-- [[cloud_functions_and_integration_with_firebase | Cloud functions and integration with Firebase]]
-
-### [2022 is gonna be wild for developers...](https://www.youtube.com/watch?v=LOpFYMPXqE4)
-- [[trends_influencing_developers_in_2022 | Trends influencing developers in 2022]]
-- [[web3_and_decentralized_internet | Web3 and decentralized internet]]
-- [[metaverse_opportunities_for_developers | Metaverse opportunities for developers]]
-- [[artificial_intelligence_and_aidriven_tools | Artificial intelligence and AIdriven tools]]
-- [[javascript_trends_and_frameworks | JavaScript trends and frameworks]]
-
-### [Object Oriented vs Functional Programming with TypeScript](https://www.youtube.com/watch?v=fsVL_xrYO0w)
-- [[object_oriented_programming_with_typescript | Object Oriented Programming with TypeScript]]
-- [[functional_programming_with_typescript | Functional Programming with TypeScript]]
-- [[pure_functions_in_functional_programming | Pure Functions in Functional Programming]]
-- [[classes_and_inheritance_in_typescript | Classes and Inheritance in TypeScript]]
-- [[composition_vs_inheritance_in_software_development | Composition vs Inheritance in software development]]
-
-### [I tried 5 Firebase alternatives](https://www.youtube.com/watch?v=SXmYUalHyYk)
-- [[comparison_of_firebase_and_its_alternatives | Comparison of Firebase and its alternatives]]
-- [[features_and_pricing_of_aws_amplify | Features and pricing of AWS Amplify]]
-- [[superbass_advantages_and_limitations | Superbass advantages and limitations]]
-- [[nhost_and_hasura_for_graphql_backend | Nhost and Hasura for GraphQL backend]]
-- [[introduction_to_apprite_and_its_potential | Introduction to Apprite and its potential]]
-
-### [Git It? How to use Git and Github](https://www.youtube.com/watch?v=HkdAHXoRtos)
-- [[introduction_to_git_and_github | Introduction to Git and Github]]
-- [[version_control_basics_with_git | Version Control Basics with Git]]
-- [[using_vs_code_with_git | Using VS Code with Git]]
-- [[branching_and_merging_strategies_in_git | Branching and Merging Strategies in Git]]
-- [[contributing_to_open_source_projects_on_github | Contributing to Open Source Projects on Github]]
-
-### [MySQL - The Basics // Learn SQL in 23 Easy Steps](https://www.youtube.com/watch?v=Cz3WcZLRaWc)
-- [[introduction_to_relational_databases_and_sql | Introduction to Relational Databases and SQL]]
-- [[getting_started_with_mysql | Getting Started with MySQL]]
-- [[creating_and_managing_tables_in_mysql | Creating and Managing Tables in MySQL]]
-- [[data_types_and_constraints_in_mysql | Data Types and Constraints in MySQL]]
-- [[working_with_sql_joins_and_relationships | Working with SQL Joins and Relationships]]
-
-### [Problem-Solving for Developers - A Beginner's Guide](https://www.youtube.com/watch?v=UFc-RPbq8kg)
-- [[problemsolving_skills_in_software_development | Problemsolving skills in software development]]
-- [[steps_to_solve_coding_problems | Steps to solve coding problems]]
-- [[importance_of_breaking_down_large_problems | Importance of breaking down large problems]]
-- [[research_and_use_of_apis_in_programming | Research and use of APIs in programming]]
-- [[role_of_practice_and_feedback_in_development | Role of practice and feedback in development]]
-
-### [5 Ways to DevOps-ify your App - Github Actions Tutorial](https://www.youtube.com/watch?v=eB0nUzAI7M8)
-- [[introduction_to_github_actions | Introduction to GitHub Actions]]
-- [[continuous_integration_with_github_actions | Continuous Integration with GitHub Actions]]
-- [[continuous_deployment_using_firebase | Continuous Deployment using Firebase]]
-- [[automating_with_github_actions | Automating with GitHub Actions]]
-- [[using_github_actions_for_scheduled_tasks | Using GitHub Actions for Scheduled Tasks]]
-
-### [I built a decentralized chat dapp // GUN web3 Tutorial](https://www.youtube.com/watch?v=J5x3OMXjgMc)
-- [[decentralized_chat_application | Decentralized chat application]]
-- [[gunjs_library_and_its_functionality | Gunjs library and its functionality]]
-- [[implementing_endtoend_encryption | Implementing endtoend encryption]]
-- [[user_authentication_with_decentralized_apps | User authentication with decentralized apps]]
-- [[using_svelt_for_front_end_development | Using Svelt for front end development]]
-
-### [The JavaScript Survival Guide](https://www.youtube.com/watch?v=9emXNzqCKyg)
-- [[javascript_fundamentals_and_practical_concepts | JavaScript fundamentals and practical concepts]]
-- [[running_javascript_in_various_environments | Running JavaScript in various environments]]
-- [[javascript_data_types_and_control_flow | JavaScript data types and control flow]]
-- [[variables_and_scope_in_javascript | Variables and scope in JavaScript]]
-- [[functions_and_closures_in_javascript | Functions and closures in JavaScript]]
-
-### [Test-Driven Development // Fun TDD Introduction with JavaScript](https://www.youtube.com/watch?v=Jv2uxzhPFl4)
-- [[introduction_to_testdriven_development_tdd | Introduction to TestDriven Development TDD]]
-- [[testing_strategies_in_software_development | Testing strategies in software development]]
-- [[implementing_unit_and_integration_tests_with_jest | Implementing unit and integration tests with Jest]]
-- [[endtoend_testing_with_cypress | Endtoend testing with Cypress]]
-- [[benefits_and_challenges_of_tdd | Benefits and challenges of TDD]]
-
-### [WebRTC in 100 Seconds // Build a Video Chat app from Scratch](https://www.youtube.com/watch?v=WmR9IMUD_CY)
-- [[introduction_to_webrtc | Introduction to WebRTC]]
-- [[building_a_peertopeer_video_chat_app | Building a peertopeer video chat app]]
-- [[signaling_process_and_stp_in_webrtc | Signaling process and STP in WebRTC]]
-- [[using_ice_for_connectivity_in_webrtc | Using ICE for connectivity in WebRTC]]
-- [[setting_up_firebase_for_signaling_in_video_chat_apps | Setting up Firebase for signaling in video chat apps]]
-
-### [Angular for Beginners - Let's build a Tic-Tac-Toe PWA](https://www.youtube.com/watch?v=G0bBLvWXBvc)
-- [[building_a_tictactoe_game_using_angular | Building a TicTacToe game using Angular]]
-- [[progressive_web_application_pwa_features_in_angular | Progressive Web Application PWA features in Angular]]
-- [[introduction_to_angular_commandline_interface_cli | Introduction to Angular CommandLine Interface CLI]]
-- [[using_angular_components_and_component_architecture | Using Angular components and component architecture]]
-- [[deploying_angular_applications_using_firebase | Deploying Angular applications using Firebase]]
-
-### [I built a JavaScript framework](https://www.youtube.com/watch?v=SJeBRW1QQMA)
-- [[tradeoffs_of_javascript_frameworks | Tradeoffs of JavaScript frameworks]]
-- [[creating_a_new_javascript_framework_flamethrower | Creating a new JavaScript framework Flamethrower]]
-- [[static_site_generators_and_javascript_interactivity | Static site generators and JavaScript interactivity]]
-- [[using_web_components_in_modern_web_development | Using web components in modern web development]]
-- [[building_interactive_websites_with_spalike_features | Building interactive websites with SPAlike features]]
-
-### [BEST Web Dev Setup? Windows & Linux at the same time (WSL)](https://www.youtube.com/watch?v=-atblwgc63E)
-- [[windows_subsystem_for_linux_wsl | Windows Subsystem for Linux WSL]]
-- [[setting_up_a_web_development_environment_on_windows | Setting up a web development environment on Windows]]
-- [[integrating_linux_tools_in_windows_for_web_development | Integrating Linux tools in Windows for web development]]
-- [[using_vs_code_with_linux_and_windows | Using VS Code with Linux and Windows]]
-- [[web_development_tools_and_browser_recommendations | Web development tools and browser recommendations]]
-
-### [Bitcoin ₿ in 100 Seconds // Build your Own Blockchain](https://www.youtube.com/watch?v=qF7dkrce-mQ)
-- [[understanding_bitcoin_and_its_origins | Understanding Bitcoin and its origins]]
-- [[cryptographic_proof_and_blockchain_technology | Cryptographic proof and blockchain technology]]
-- [[mining_and_proof_of_work_in_bitcoin | Mining and proof of work in Bitcoin]]
-- [[building_a_blockchain_with_nodejs_and_typescript | Building a blockchain with Nodejs and TypeScript]]
-- [[implementing_cryptographic_concepts_in_blockchain_development | Implementing cryptographic concepts in blockchain development]]
-
-### [The Joy of CSS Grid - Build 3 Beautifully Simple Responsive Layouts](https://www.youtube.com/watch?v=705XCEruZFs)
-- [[basics_of_css_grid | Basics of CSS Grid]]
-- [[building_a_responsive_12_column_grid | Building a responsive 12 column grid]]
-- [[creating_a_responsive_photo_gallery_with_css_grid | Creating a responsive photo gallery with CSS Grid]]
-- [[implementing_a_staggered_intro_animation_in_css_grid | Implementing a staggered intro animation in CSS Grid]]
-- [[responsive_layouts_using_css_grid_and_media_queries | Responsive layouts using CSS Grid and media queries]]
-
-### [Advanced Dropdown Menu - React & CSS Animation Tutorial for Beginners](https://www.youtube.com/watch?v=IF6k0uZuypA)
-- [[creating_icon_buttons_with_flexbox_in_react | Creating icon buttons with Flexbox in React]]
-- [[using_css_transforms_for_sliding_animations | Using CSS transforms for sliding animations]]
-- [[component_composition_and_hooks_in_react | Component composition and hooks in React]]
-- [[creating_css_animations_based_on_react_state | Creating CSS animations based on React state]]
-- [[multilevel_animated_dropdown_menu_using_react_and_css | Multilevel animated dropdown menu using React and CSS]]
-
-### [SEO for Developers in 100 Seconds](https://www.youtube.com/watch?v=-B58GgsehKQ)
-- [[importance_of_creating_engaging_content_for_seo | Importance of creating engaging content for SEO]]
-- [[evolution_and_challenges_in_search_engine_algorithms | Evolution and challenges in search engine algorithms]]
-- [[effective_html_rendering_techniques_for_seo | Effective HTML rendering techniques for SEO]]
-- [[the_role_of_metadata_and_schema_in_seo | The role of metadata and schema in SEO]]
-- [[methods_of_html_rendering_and_their_impact_on_seo | Methods of HTML rendering and their impact on SEO]]
-
-### [~/.dotfiles in 100 Seconds](https://www.youtube.com/watch?v=r_MpUP6aKiQ)
-- [[using_dotfiles_to_automate_development_environment_setup | Using dotfiles to automate development environment setup]]
-- [[tracking_configuration_changes_with_a_git_repository | Tracking configuration changes with a git repository]]
-- [[creating_and_using_symbolic_links_symlinks | Creating and using symbolic links symlinks]]
-- [[installing_software_using_package_manager_homebrew | Installing software using package manager Homebrew]]
-- [[steps_to_bootstrap_a_new_computer_with_a_dotfiles_repository | Steps to bootstrap a new computer with a dotfiles repository]]
-
-### [7 Web Features You Didn’t Know Existed](https://www.youtube.com/watch?v=ppwagkhrZJs)
-- [[web_features_on_wordpress | Web features on WordPress]]
-- [[file_sharing_and_management_on_websites | File sharing and management on websites]]
-- [[website_access_and_user_interactions | Website access and user interactions]]
-- [[technology_expert_surveys | Technology expert surveys]]
-- [[website_value_chain_and_pagerank_insights | Website value chain and PageRank insights]]
-
-### [I built a $5 chat app with Pocketbase & Svelte. Will it scale?](https://www.youtube.com/watch?v=gUYBFDPZ5qk)
-- [[building_a_chat_app_with_pocketbase_and_svelte | Building a chat app with Pocketbase and Svelte]]
-- [[deploying_pocketbase_to_a_linux_server | Deploying Pocketbase to a Linux server]]
-- [[realtime_database_and_user_authentication_with_pocketbase | Realtime database and user authentication with Pocketbase]]
-- [[scaling_pocketbase_applications_on_the_cloud | Scaling Pocketbase applications on the cloud]]
-- [[secure_and_efficient_data_modeling_for_chat_applications | Secure and efficient data modeling for chat applications]]
-
-### [TensorFlow.js Quick Start](https://www.youtube.com/watch?v=Y_XM3Bu-4yc)
-- [[introduction_to_tensorflowjs | Introduction to TensorFlowjs]]
-- [[using_tensorflowjs_with_angular | Using TensorFlowjs with Angular]]
-- [[building_and_training_machine_learning_models_in_the_browser | Building and training machine learning models in the browser]]
-- [[transferring_machine_learning_models_from_python_to_tensorflowjs | Transferring machine learning models from Python to TensorFlowjs]]
-- [[applications_of_neural_networks_in_image_recognition | Applications of neural networks in image recognition]]
-
-### [Springy Animated Modals // Framer Motion & React Tutorial for Beginners](https://www.youtube.com/watch?v=SuqU904ZHA4)
-- [[react_modal_creation_from_scratch | React modal creation from scratch]]
-- [[using_framer_motion_for_animations_in_react | Using Framer Motion for animations in React]]
-- [[styling_a_modal_with_css | Styling a modal with CSS]]
-- [[managing_modal_state_with_javascript | Managing modal state with JavaScript]]
-- [[advanced_animation_techniques_with_framer_motion | Advanced animation techniques with Framer Motion]]
-
-### [Svelte 3 Reaction & QuickStart Tutorial](https://www.youtube.com/watch?v=043h4ugAj4c)
-- [[overview_of_svelte_3_features | Overview of Svelte 3 features]]
-- [[comparison_with_other_javascript_frameworks | Comparison with other JavaScript frameworks]]
-- [[svelte_3_reactive_programming_and_syntax | Svelte 3 reactive programming and syntax]]
-- [[creating_components_and_implementing_reactivity_in_svelte_3 | Creating components and implementing reactivity in Svelte 3]]
-- [[implementing_transitions_and_animations_in_svelte_3 | Implementing transitions and animations in Svelte 3]]
-
-### [Graph Search Algorithms in 100 Seconds - And Beyond with JS](https://www.youtube.com/watch?v=cWNEl4HE2OE)
-- [[introduction_to_graphs_and_types | Introduction to Graphs and Types]]
-- [[graph_representation_techniques | Graph Representation Techniques]]
-- [[graph_traversal_algorithms | Graph Traversal Algorithms]]
-- [[applications_of_graphs_in_software | Applications of Graphs in Software]]
-- [[implementing_graph_algorithms_in_javascript | Implementing Graph Algorithms in JavaScript]]
-
-### [GraphQL Basics - Build an app with the SpaceX API](https://www.youtube.com/watch?v=7wzR4Ig5pTI)
-- [[introduction_to_graphql | Introduction to GraphQL]]
-- [[using_graphql_with_the_spacex_api | Using GraphQL with the SpaceX API]]
-- [[differences_between_rest_and_graphql | Differences between REST and GraphQL]]
-- [[graphql_query_language_and_schema | GraphQL Query Language and Schema]]
-- [[building_an_application_with_apollo_client_and_angular | Building an Application with Apollo Client and Angular]]
-
-### [Is Redis the ONLY database you need? // Fullstack app from scratch with Next.js & Redis](https://www.youtube.com/watch?v=DOIWQddRD5M)
-- [[using_redis_as_a_primary_database | Using Redis as a primary database]]
-- [[building_a_nextjs_application_with_redis | Building a Nextjs application with Redis]]
-- [[redis_modules_for_advanced_data_handling | Redis modules for advanced data handling]]
-- [[implementing_full_text_search_with_redis | Implementing full text search with Redis]]
-- [[object_mapping_with_redis_ohm_and_nodejs | Object mapping with Redis Ohm and Nodejs]]
-
-### [Serverless Computing in 100 Seconds](https://www.youtube.com/watch?v=W_VV2Fx32_Y)
-- [[introduction_to_serverless_computing | Introduction to serverless computing]]
-- [[benefits_of_serverless_architecture | Benefits of serverless architecture]]
-- [[key_serverless_platforms_aws_lambda_google_cloud_functions_azure_functions | Key serverless platforms AWS Lambda Google Cloud Functions Azure Functions]]
-- [[building_serverless_backends_with_firebase_and_flutter | Building serverless backends with Firebase and Flutter]]
-- [[structuring_and_deploying_serverless_applications | Structuring and deploying serverless applications]]
-
-### [Build a WEB3 app to mint unlimited NFTs… But should you?](https://www.youtube.com/watch?v=meTpMP0J5E8)
-- [[building_a_web3_nft_app | Building a Web3 NFT app]]
-- [[nft_minting_process | NFT minting process]]
-- [[using_react_and_ethers_for_web3_apps | Using React and Ethers for Web3 apps]]
-- [[smart_contracts_with_solidity_and_openzeppelin | Smart Contracts with Solidity and OpenZeppelin]]
-- [[deploying_to_a_blockchain_testnet_with_alchemy | Deploying to a blockchain testnet with Alchemy]]
-
-### [The Future of JavaScript -  New Features and Disruptive Trends in 2020](https://www.youtube.com/watch?v=f0DrPLKf6Ro)
-- [[new_javascript_features_in_2020 | New JavaScript features in 2020]]
-- [[javascript_frameworks_and_their_updates | JavaScript frameworks and their updates]]
-- [[disruptive_trends_in_the_javascript_ecosystem | Disruptive trends in the JavaScript ecosystem]]
-- [[webassembly_and_its_impact_on_web_development | WebAssembly and its impact on web development]]
-- [[alternatives_and_complements_to_javascript | Alternatives and complements to JavaScript]]
-
-### [Flutter for the JS Developer](https://www.youtube.com/watch?v=7sJZi0grFR4)
-- [[introduction_to_flutter_for_javascript_developers | Introduction to Flutter for JavaScript Developers]]
-- [[comparing_flutter_to_react_native_and_ionic | Comparing Flutter to React Native and Ionic]]
-- [[dart_vs_javascript_programming_languages | Dart vs JavaScript Programming Languages]]
-- [[building_mobile_app_components_with_flutter | Building Mobile App Components with Flutter]]
-- [[handling_asynchronous_programming_in_flutter | Handling Asynchronous Programming in Flutter]]
-
-### [Firebase vs AWS Amplify](https://www.youtube.com/watch?v=ucmbO2lWC2A)
-- [[comparison_of_firebase_and_aws_amplify | Comparison of Firebase and AWS Amplify]]
-- [[core_features_and_capabilities | Core Features and Capabilities]]
-- [[developer_experience_and_sdk_usability | Developer Experience and SDK Usability]]
-- [[pricing_models_and_cost_comparison | Pricing Models and Cost Comparison]]
-- [[realtime_database_implementation | RealTime Database Implementation]]
-
-### [Cloud Computing in the Year 2020](https://www.youtube.com/watch?v=1pBuwKwaHp0)
-- [[overview_of_cloud_computing_services | Overview of cloud computing services]]
-- [[benefits_and_challenges_of_adopting_cloud_computing | Benefits and challenges of adopting cloud computing]]
-- [[infrastructure_as_a_service_and_platform_as_a_service | Infrastructure as a Service and Platform as a Service]]
-- [[hybrid_cloud_and_multicloud_strategies | Hybrid cloud and multicloud strategies]]
-- [[cloud_computing_scalability_and_cost_management | Cloud computing scalability and cost management]]
-
-### [Firestore Data Modeling - Five Cool Techniques](https://www.youtube.com/watch?v=35RlydUf6xo)
-- [[firestore_data_modeling_techniques | Firestore data modeling techniques]]
-- [[handling_manytomany_relationships_in_firestore | Handling manytomany relationships in Firestore]]
-- [[using_composite_strings_for_geo_hashing_and_hierarchical_data | Using composite strings for geo hashing and hierarchical data]]
-- [[normalized_data_models_and_document_joining_in_firestore | Normalized data models and document joining in Firestore]]
-- [[building_social_media_style_feeds_with_firestore | Building social media style feeds with Firestore]]
-
-### [Reactive Forms  - The Basics](https://www.youtube.com/watch?v=JeeUY6WaXiA)
-- [[introduction_to_reactive_forms_in_angular | Introduction to Reactive Forms in Angular]]
-- [[form_validation_and_dynamic_fields | Form Validation and Dynamic Fields]]
-- [[nesting_and_dynamic_form_arrays | Nesting and Dynamic Form Arrays]]
-- [[form_state_management_and_validation_feedback | Form State Management and Validation Feedback]]
-- [[submitting_reactive_forms_to_a_backend_database | Submitting Reactive Forms to a Backend Database]]
-
-### [Ionic 4: Should you Build a Hybrid App?](https://www.youtube.com/watch?v=34fDUKaJBtw)
-- [[migrating_from_ionic_3_to_ionic_4 | Migrating from Ionic 3 to Ionic 4]]
-- [[hybrid_app_development_with_ionic_4 | Hybrid app development with Ionic 4]]
-- [[native_mobile_app_development_versus_hybrid_apps | Native mobile app development versus hybrid apps]]
-- [[capabilities_and_limitations_of_hybrid_apps_with_ionic_and_cordova | Capabilities and limitations of hybrid apps with Ionic and Cordova]]
-- [[comparison_of_mobile_app_frameworks_ionic_react_native_and_flutter | Comparison of mobile app frameworks Ionic React Native and Flutter]]
-
-### [CSS Theme Switcher by Reverse-Engineering Alligator.io](https://www.youtube.com/watch?v=rXuHGLzSmSE)
-- [[reverse_engineering_ui_to_create_theme_switcher | Reverse engineering UI to create theme switcher]]
-- [[implementing_a_css_theme_switcher_using_css_variables_and_javascript | Implementing a CSS theme switcher using CSS variables and JavaScript]]
-- [[creating_a_dropdown_menu_with_css | Creating a dropdown menu with CSS]]
-- [[using_local_storage_to_save_user_theme_preferences | Using local storage to save user theme preferences]]
-- [[animating_ui_elements_with_css_keyframes | Animating UI elements with CSS keyframes]]
-
-### [Ethical Hacking in 100 Seconds // And why do we need CORS?](https://www.youtube.com/watch?v=v969_M6cWk0)
-- [[ethical_hacking_and_web_security | Ethical Hacking and Web Security]]
-- [[common_web_application_security_risks | Common Web Application Security Risks]]
-- [[penetration_testing_tools_and_techniques | Penetration Testing Tools and Techniques]]
-- [[understanding_same_origin_policy | Understanding Same Origin Policy]]
-- [[crossorigin_resource_sharing_cors | CrossOrigin Resource Sharing CORS]]
-
-### [Flutter State Management - The Grand Tour](https://www.youtube.com/watch?v=3tm-R7ymwhc)
-- [[flutter_state_management_strategies | Flutter state management strategies]]
-- [[local_vs_global_state_in_flutter | Local vs global state in Flutter]]
-- [[stateful_and_stateless_widgets | Stateful and stateless widgets]]
-- [[inherited_widgets_and_their_usage | Inherited widgets and their usage]]
-- [[streambased_state_management_with_behaviorsubject | Streambased state management with BehaviorSubject]]
-
-### [Content Platforms Explained in 100 Seconds // Build your own with Sanity](https://www.youtube.com/watch?v=c_8cplBi_gE)
-- [[content_platforms_and_their_evolution | Content platforms and their evolution]]
-- [[headless_cms_and_its_advantages | Headless CMS and its advantages]]
-- [[sanity_as_a_content_platform | Sanity as a content platform]]
-- [[setting_up_and_customizing_a_sanity_project | Setting up and customizing a Sanity project]]
-- [[managing_content_as_data_with_sanity | Managing content as data with Sanity]]
-
-### [RxJS Quick Start with Practical Examples](https://www.youtube.com/watch?v=2LCo926NFLI)
-- [[introduction_to_rxjs_and_observables | Introduction to RxJS and Observables]]
-- [[creating_and_subscribing_to_observables | Creating and Subscribing to Observables]]
-- [[understanding_cold_and_hot_observables | Understanding Cold and Hot Observables]]
-- [[rxjs_operators__map_filter_take_etc | RxJS Operators  Map Filter Take etc]]
-- [[using_subjects_and_multicasting_in_rxjs | Using Subjects and Multicasting in RxJS]]
-
-### [RxJS Top Ten - Code This, Not That](https://www.youtube.com/watch?v=ewcoEYS85Co)
-- [[introduction_to_rxjs_and_observables | Introduction to RxJS and Observables]]
-- [[effective_importing_in_rxjs | Effective Importing in RxJS]]
-- [[hot_vs_cold_observables | Hot vs Cold Observables]]
-- [[rxjs_operators_and_their_usage | RxJS Operators and Their Usage]]
-- [[handling_errors_and_preventing_memory_leaks_in_rxjs | Handling Errors and Preventing Memory Leaks in RxJS]]
-
-### [Flutter Flare Basics - Let's Build Giphy's Nav Menu](https://www.youtube.com/watch?v=hwBUU9CP4qI)
-- [[flutter_flare_basics | Flutter Flare Basics]]
-- [[animation_in_flutter | Animation in Flutter]]
-- [[design_techniques_in_app_development | Design techniques in app development]]
-- [[integration_of_media_in_mobile_applications | Integration of media in mobile applications]]
-
-### [Smart Push Notifications with Flutter & FCM](https://www.youtube.com/watch?v=2TSm2YGBT1s)
-- [[effective_use_of_push_notifications | Effective use of push notifications]]
-- [[firebase_cloud_messaging_services | Firebase Cloud Messaging services]]
-- [[flutter_app_integration_with_firebase | Flutter app integration with Firebase]]
-- [[sending_targeted_notifications | Sending targeted notifications]]
-- [[setting_up_firebase_cloud_functions | Setting up Firebase Cloud Functions]]
-
-### [Angular Components Beginner's Guide](https://www.youtube.com/watch?v=23o0evRtrFI)
-- [[basics_of_angular_components | Basics of Angular Components]]
-- [[binding_properties_and_events_in_angular | Binding Properties and Events in Angular]]
-- [[angular_directives_and_usage | Angular Directives and Usage]]
-- [[lifecycle_of_angular_components | Lifecycle of Angular Components]]
-- [[smart_components_vs_dumb_components_in_angular | Smart Components vs Dumb Components in Angular]]
-
-### [Angular Testing Quick Start](https://www.youtube.com/watch?v=BumgayeUC08)
-- [[testdriven_development_benefits | Testdriven development benefits]]
-- [[introduction_to_jasmine_and_karma | Introduction to Jasmine and Karma]]
-- [[setting_up_angular_testing_environment | Setting up Angular testing environment]]
-- [[writing_and_running_angular_component_tests | Writing and running Angular component tests]]
-- [[using_service_stubs_and_spies_for_testing | Using service stubs and spies for testing]]
-
-### [JavaScript Function - What's your Function?](https://www.youtube.com/watch?v=gigtS_5KOqo)
-- [[javascript_function_basics_and_anatomy | JavaScript function basics and anatomy]]
-- [[function_declarations_vs_expressions_in_javascript | Function declarations vs expressions in JavaScript]]
-- [[arrow_functions_and_their_benefits | Arrow functions and their benefits]]
-- [[concept_of_pure_functions_and_higherorder_functions | Concept of pure functions and higherorder functions]]
-- [[closures_and_recursion_in_javascript | Closures and recursion in JavaScript]]
-
-### [Stripe Payments Basics -  Including New 3D Secure Requirements for EU Customers](https://www.youtube.com/watch?v=1XKRxeo9414)
-- [[introduction_to_stripe_payments_and_3d_secure | Introduction to Stripe Payments and 3D Secure]]
-- [[using_stripe_checkout_for_onetime_payments | Using Stripe Checkout for Onetime Payments]]
-- [[implementing_backend_logic_with_webhooks | Implementing Backend Logic with Webhooks]]
-- [[using_payment_intents_api_with_stripe_elements | Using Payment Intents API with Stripe Elements]]
-- [[handling_3d_secure_authentication_for_eu_customers | Handling 3D Secure Authentication for EU Customers]]
-
-### [FaunaDB Basics - The Database of your Dreams](https://www.youtube.com/watch?v=2CipVwISumA)
-- [[comparison_of_sql_and_nosql_databases | Comparison of SQL and NoSQL databases]]
-- [[features_and_benefits_of_faunadb | Features and benefits of FaunaDB]]
-- [[getting_started_with_faunadb_and_nodejs | Getting started with FaunaDB and Nodejs]]
-- [[using_faunadb_for_relational_and_graph_data_modeling | Using FaunaDB for relational and graph data modeling]]
-- [[faunadbs_functional_query_language_and_api_integration | FaunaDBs functional query language and API integration]]
-
-### [100 Firebase Tips, Tricks, and Screw-ups](https://www.youtube.com/watch?v=iWEgpdVSZyg)
-- [[setting_up_and_managing_firebase_projects | Setting up and managing Firebase projects]]
-- [[deploying_and_hosting_applications_with_firebase | Deploying and hosting applications with Firebase]]
-- [[using_firebase_databases_and_data_modeling_techniques | Using Firebase databases and data modeling techniques]]
-- [[implementing_security_rules_and_user_authentication | Implementing security rules and user authentication]]
-- [[enhancing_applications_with_firebase_extensions_and_integrations | Enhancing applications with Firebase extensions and integrations]]
-
-### [An Encounter with JavaScript Objects](https://www.youtube.com/watch?v=napDjGFjHR0)
-- [[javascript_objects_and_their_properties | JavaScript objects and their properties]]
-- [[object_creation_and_manipulation | Object creation and manipulation]]
-- [[prototypal_inheritance_in_javascript | Prototypal inheritance in JavaScript]]
-- [[method_chaining_and_object_references | Method chaining and object references]]
-- [[loops_and_iteration_over_objects | Loops and iteration over objects]]
-
-### [Build a Chatbot from Scratch - Dialogflow on Node.js](https://www.youtube.com/watch?v=0NXqwT3Y09E)
-- [[building_a_chatbot_using_dialogflow | Building a chatbot using Dialogflow]]
-- [[integrating_dialogflow_with_nodejs_and_angular | Integrating Dialogflow with Nodejs and Angular]]
-- [[understanding_natural_language_processing_with_chatbots | Understanding natural language processing with chatbots]]
-- [[setting_up_dialogflow_agents_and_intents | Setting up Dialogflow agents and intents]]
-- [[using_cloud_functions_for_backend_chatbot_integration | Using cloud functions for backend chatbot integration]]
-
-### [Flutter Google Maps + Firestore Geolocation - Build the next Uber?](https://www.youtube.com/watch?v=MYHVyl-juUk)
-- [[building_realtime_geolocation_apps_with_flutter | Building realtime geolocation apps with Flutter]]
-- [[using_google_maps_and_firestore_for_app_development | Using Google Maps and Firestore for app development]]
-- [[implementing_gps_tracking_and_geolocation_queries | Implementing GPS tracking and geolocation queries]]
-- [[creating_responsive_uis_with_flutter_and_google_maps | Creating responsive UIs with Flutter and Google Maps]]
-- [[managing_geolocation_data_in_firestore_with_geo_flutter_fire | Managing geolocation data in Firestore with Geo Flutter Fire]]
-
-### [Flutter Provider - Advanced Firebase Data Management](https://www.youtube.com/watch?v=vFxk_KJCqgk)
-- [[state_management_with_flutter_and_firebase | State management with Flutter and Firebase]]
-- [[using_the_provider_package_in_flutter | Using the Provider Package in Flutter]]
-- [[firebase_data_streams_and_streambuilder_widget | Firebase data streams and StreamBuilder widget]]
-- [[deserializing_firebase_data_in_flutter | Deserializing Firebase data in Flutter]]
-- [[advanced_data_management_techniques_in_flutter_apps | Advanced data management techniques in Flutter apps]]
-
-### [In App Purchases in Flutter](https://www.youtube.com/watch?v=NWbkKH-2xcQ)
-- [[implementing_in_app_purchases_in_flutter | Implementing in app purchases in Flutter]]
-- [[types_of_inapp_purchases_and_their_differences | Types of inapp purchases and their differences]]
-- [[setting_up_inapp_purchases_for_ios_and_android | Setting up inapp purchases for iOS and Android]]
-- [[user_interface_design_for_addictive_apps | User interface design for addictive apps]]
-- [[technical_details_of_the_flutter_inapp_purchase_plugin | Technical details of the Flutter inapp purchase plugin]]
-
-### [Firestore Security Rules - How to Hack a Firebase App](https://www.youtube.com/watch?v=b7PUm7LmAOw)
-- [[firebase_app_vulnerabilities_and_exploitation | Firebase app vulnerabilities and exploitation]]
-- [[firestore_security_rules_setup_and_implementation | Firestore security rules setup and implementation]]
-- [[understanding_and_using_firestore_match_and_allow_statements | Understanding and using Firestore match and allow statements]]
-- [[creating_custom_functions_for_firestore_security_rules | Creating custom functions for Firestore security rules]]
-- [[rolebased_authorization_and_request_time_throttling_in_firestore | Rolebased authorization and request time throttling in Firestore]]
-
-### [Beautiful Router Animations with Angular](https://www.youtube.com/watch?v=7JA90VI9fAI)
-- [[router_animations_in_angular | Router animations in Angular]]
-- [[implementing_fade_in_animations | Implementing fade in animations]]
-- [[slide_animations_based_on_router_data | Slide animations based on router data]]
-- [[css_transforms_for_complex_animations | CSS transforms for complex animations]]
-- [[key_framed_animations_in_angular | Key framed animations in Angular]]
-
-### [Angular Router - The Basics and Beyond](https://www.youtube.com/watch?v=Np3ULAMqwNo)
-- [[angular_router_basics | Angular Router Basics]]
-- [[lazy_loading_and_resolvers | Lazy Loading and Resolvers]]
-- [[dynamic_routes_and_child_routing | Dynamic Routes and Child Routing]]
-- [[guards_and_route_protection | Guards and Route Protection]]
-- [[preloading_data_with_resolve | Preloading Data with Resolve]]
-
-### [Firestore Megachat - Let's Build a Chat App](https://www.youtube.com/watch?v=LKAXg2drQJQ)
-- [[building_a_realtime_chat_app_with_firebase | Building a realtime chat app with Firebase]]
-- [[data_modeling_in_firestore_chat_applications | Data modeling in Firestore chat applications]]
-- [[user_authentication_and_profile_management_in_chat_apps | User authentication and profile management in chat apps]]
-- [[firestore_features_and_methods_for_handling_chat_data | Firestore features and methods for handling chat data]]
-- [[optimizing_chat_app_performance_with_cloud_functions | Optimizing chat app performance with cloud functions]]
-
-### [Role-Based Authorization with Firestore](https://www.youtube.com/watch?v=1PEdd2rtG30)
-- [[rolebased_authorization_with_firestore | RoleBased Authorization with Firestore]]
-- [[implementing_angular_and_firestore_for_authorization | Implementing Angular and Firestore for Authorization]]
-- [[security_measures_in_frontend_and_backend | Security Measures in Frontend and Backend]]
-- [[creating_and_managing_user_roles | Creating and Managing User Roles]]
-- [[router_guards_for_access_control | Router Guards for Access Control]]
-
-### [Angular Chatbot with Dialogflow (API.ai)](https://www.youtube.com/watch?v=CKhV7-NF2OI)
-- [[building_a_chatbot_with_angular | Building a chatbot with Angular]]
-- [[using_dialogflow_for_chatbot_development | Using Dialogflow for chatbot development]]
-- [[implementing_the_javascript_sdk_in_angular | Implementing the JavaScript SDK in Angular]]
-- [[customizing_chatbot_responses_with_dialogflow | Customizing chatbot responses with Dialogflow]]
-- [[integrating_dialogflow_with_an_angular_application | Integrating Dialogflow with an Angular application]]
-
-### [Angular 7 Virtual Scroll - To Infinity and Beyond](https://www.youtube.com/watch?v=Ppl64MY6FFc)
-- [[angular_7_virtual_scroll_feature_in_the_component_development_kit | Angular 7 virtual scroll feature in the component development kit]]
-- [[benefits_and_use_cases_of_virtual_scrolling | Benefits and use cases of virtual scrolling]]
-- [[setting_up_virtual_scroll_in_an_angular_app | Setting up virtual scroll in an Angular app]]
-- [[implementing_realtime_infinite_scroll_with_firebase_firestore | Implementing realtime infinite scroll with Firebase Firestore]]
-- [[optimizing_performance_with_virtual_scroll_and_firebase | Optimizing performance with virtual scroll and Firebase]]
+- [[introduction_to_typescript | Introduction to TypeScript]]
+- [[installing_and_setting_up_typescript_with_npm | Installing and setting up TypeScript with NPM]]
+- [[using_typescript_compiler_and_setting_ts_config | Using TypeScript compiler and setting TS config]]
+- [[integrating_thirdparty_libraries_with_typescript | Integrating thirdparty libraries with TypeScript]]
+- [[type_annotations_and_strong_typing_in_typescript | Type annotations and strong typing in TypeScript]]
+
+### [DevOps CI/CD Explained in 100 Seconds](https://www.youtube.com/watch?v=scEDHsr3APg)
+- [[devops_practices | DevOps practices]]
+- [[continuous_integration | Continuous integration]]
+- [[automated_workflow_in_ci | Automated workflow in CI]]
+- [[continuous_integration_pipeline_with_github_actions | Continuous integration pipeline with Github Actions]]
+- [[benefits_of_ci_cd | Benefits of CI CD]]
+
+### [GPT-4.5 shocks the world with its lack of intelligence...](https://www.youtube.com/watch?v=FW2XOIxaNqg)
+- [[underwhelming_release_of_gpt_45 | Underwhelming release of GPT 45]]
+- [[comparison_of_ai_models_costs_and_effectiveness | Comparison of AI models costs and effectiveness]]
+- [[criticism_of_openai_and_ai_industry_hype | Criticism of OpenAI and AI industry hype]]
+- [[future_developments_and_expectations_for_ai_technology | Future developments and expectations for AI technology]]
+- [[role_and_value_of_ai_tools_in_programming | Role and value of AI tools in programming]]
+
+### [Google takes its biggest L ever... now a convicted monopolist](https://www.youtube.com/watch?v=jx2dDV2eWBM)
+- [[google_antitrust_lawsuit_and_monopoly_conviction | Google antitrust lawsuit and monopoly conviction]]
+- [[implications_for_big_tech_companies_under_antitrust_scrutiny | Implications for big tech companies under antitrust scrutiny]]
+- [[historical_context_of_antitrust_laws_and_their_impact | Historical context of antitrust laws and their impact]]
+- [[googles_exclusivity_deals_and_their_legal_consequences | Googles exclusivity deals and their legal consequences]]
+- [[potential_future_penalties_and_outcomes_for_google | Potential future penalties and outcomes for Google]]
+
+### [We're on the brink of another world browser war](https://www.youtube.com/watch?v=p572p-irRaU)
+- [[history_and_significance_of_the_worldwide_web | History and significance of the worldwide web]]
+- [[browser_market_share_and_dominance | Browser market share and dominance]]
+- [[development_of_open_source_web_browsers | Development of open source web browsers]]
+- [[challenges_in_creating_a_new_web_browser | Challenges in creating a new web browser]]
+- [[importance_and_impact_of_browser_competition | Importance and impact of browser competition]]
+
+### [Wake up babe, a dangerous new open-source AI model is here](https://www.youtube.com/watch?v=QYVucud3ptc)
+- [[opensource_ai_image_generators | Opensource AI image generators]]
+- [[comparison_between_flux_and_other_ai_models | Comparison between Flux and other AI models]]
+- [[dangers_and_ethical_concerns_of_ai_like_impersonation | Dangers and ethical concerns of AI like impersonation]]
+- [[using_and_finetuning_the_flux_ai_model | Using and finetuning the Flux AI model]]
+- [[building_aigenerated_virtual_partners | Building AIgenerated virtual partners]]
+
+### [Java in 100 Seconds](https://www.youtube.com/watch?v=l9AzO1FMgM8)
+- [[history_of_java_programming_language | History of Java programming language]]
+- [[java_virtual_machine_and_platform_independence | Java virtual machine and platform independence]]
+- [[java_runtime_environment_and_just_in_time_compilation | Java runtime environment and just in time compilation]]
+- [[objectoriented_and_functional_programming_in_java | Objectoriented and functional programming in Java]]
+- [[how_to_create_and_run_a_basic_java_program | How to create and run a basic Java program]]
+
+### [PHP in 100 Seconds](https://www.youtube.com/watch?v=a7_WFUlFS94)
+- [[history_and_origin_of_php | History and origin of PHP]]
+- [[phps_role_in_web_development | PHPs role in web development]]
+- [[basic_php_syntax_and_usage | Basic PHP syntax and usage]]
+- [[phps_programming_paradigms_and_features | PHPs programming paradigms and features]]
+- [[current_state_and_versions_of_php | Current state and versions of PHP]]
+
+### [Ultimate Tailwind CSS Tutorial // Build a Discord-inspired Animated Navbar](https://www.youtube.com/watch?v=pfaSUYaSgRo)
+- [[tailwind_css_utility_class_approach | Tailwind CSS utility class approach]]
+- [[building_a_discord_inspired_dashboard_with_tailwind | Building a Discord inspired dashboard with Tailwind]]
+- [[integrating_tailwind_with_componentbased_javascript_frameworks | Integrating Tailwind with componentbased JavaScript frameworks]]
+- [[customizing_the_tailwind_configuration | Customizing the Tailwind configuration]]
+- [[implementing_animated_ui_components_with_tailwind | Implementing animated UI components with Tailwind]]
+
+### [Big projects are ditching TypeScript… why?](https://www.youtube.com/watch?v=5ChkQKUzDCs)
+- [[recent_trend_of_ditching_typescript_for_javascript | Recent trend of ditching TypeScript for JavaScript]]
+- [[history_and_adoption_of_typescript | History and adoption of TypeScript]]
+- [[criticisms_and_drawbacks_of_using_typescript | Criticisms and drawbacks of using TypeScript]]
+- [[alternatives_to_typescript_in_projects | Alternatives to TypeScript in projects]]
+- [[future_of_javascript_with_potential_native_type_annotations | Future of JavaScript with potential native type annotations]]
+
+### [Google's Gemini just made GPT-4 look like a baby’s toy?](https://www.youtube.com/watch?v=q5qAVmXSecQ)
+- [[googles_response_to_gpt_4_with_gemini | Googles response to GPT 4 with Gemini]]
+- [[multimodal_capabilities_of_gemini | Multimodal capabilities of Gemini]]
+- [[comparison_between_gemini_and_gpt_4 | Comparison between Gemini and GPT 4]]
+- [[geminis_performance_benchmarks | Geminis performance benchmarks]]
+- [[implications_of_ai_advancements_on_different_professions | Implications of AI advancements on different professions]]
+
+### [Linux in 100 Seconds](https://www.youtube.com/watch?v=rrB13utjYV4)
+- [[introduction_to_linux | Introduction to Linux]]
+- [[history_and_creation_of_linux | History and creation of Linux]]
+- [[linux_distribution_options | Linux distribution options]]
+- [[linux_system_architecture_and_components | Linux system architecture and components]]
+- [[basic_linux_commands_and_operations | Basic Linux commands and operations]]
+
+### [OpenAI’s new “deep-thinking” o1 model crushes coding benchmarks](https://www.youtube.com/watch?v=6xlPJiNpCVw)
+- [[overview_of_openais_o1_model | Overview of OpenAIs o1 model]]
+- [[comparison_between_o1_and_previous_openai_models | Comparison between o1 and previous OpenAI models]]
+- [[capabilities_and_limitations_of_o1_in_coding_benchmarks | Capabilities and limitations of o1 in coding benchmarks]]
+- [[reinforcement_learning_and_chain_of_thought_in_ai_models | Reinforcement learning and chain of thought in AI models]]
+- [[future_implications_of_deepthinking_ai_models_on_programming_jobs | Future implications of deepthinking AI models on programming jobs]]
+
+### [Game over… GitHub Copilot X announced](https://www.youtube.com/watch?v=q1HZj40ZQrM)
+- [[github_copilot_x_and_its_features | GitHub Copilot X and its features]]
+- [[impact_of_ai_tools_on_coding_and_developers | Impact of AI tools on coding and developers]]
+- [[microsofts_role_in_ai_development | Microsofts role in AI development]]
+- [[voiceactivated_programming | Voiceactivated programming]]
+- [[future_of_programming_with_ai | Future of programming with AI]]
+
+### [Google has the best AI now, but there's a problem...](https://www.youtube.com/watch?v=xPA0LFzUDiE)
+- [[google_gemini_15_ai_model | Google Gemini 15 AI model]]
+- [[google_open_source_ai_models | Google Open Source AI models]]
+- [[gemini_image_generator_controversy | Gemini image generator controversy]]
+- [[google_signin_page_redesign | Google Signin page redesign]]
+- [[fake_gmail_shutdown_rumor | Fake Gmail shutdown rumor]]
+
+### [Elon wants GPT-5 stopped NOW… 5 reasons AI kinda sucks](https://www.youtube.com/watch?v=TpZcGhYp4rw)
+- [[impact_of_ai_on_job_markets_and_education | Impact of AI on job markets and education]]
+- [[concerns_and_petitions_against_ai_development | Concerns and petitions against AI development]]
+- [[limitations_and_challenges_of_current_ai_technologies | Limitations and challenges of current AI technologies]]
+- [[marketing_and_hype_surrounding_ai_advancements | Marketing and hype surrounding AI advancements]]
+- [[skepticism_about_ai_achieving_general_intelligence | Skepticism about AI achieving general intelligence]]
+
+### [10 weird algorithms](https://www.youtube.com/watch?v=SmyPTnlqhlk)
+- [[marching_cubes_algorithm_for_medical_imaging | Marching Cubes Algorithm for Medical Imaging]]
+- [[wave_function_collapse_and_procedural_generation | Wave Function Collapse and Procedural Generation]]
+- [[diffusion_algorithm_in_ai_and_image_generation | Diffusion Algorithm in AI and Image Generation]]
+- [[simulated_annealing_for_optimization | Simulated Annealing for Optimization]]
+- [[byzantine_generals_problem_and_distributed_systems | Byzantine Generals Problem and Distributed Systems]]
+
+### [Zuck's new Llama is a beast](https://www.youtube.com/watch?v=aVvkUuskmLY)
+- [[overview_of_metas_llama_31_large_language_model | Overview of Metas Llama 31 large language model]]
+- [[comparison_of_llama_31_with_openais_gpt_models | Comparison of Llama 31 with OpenAIs GPT models]]
+- [[the_open_source_aspects_of_llama_31_and_licensing | The open source aspects of Llama 31 and licensing]]
+- [[technical_details_and_performance_of_llama_31 | Technical details and performance of Llama 31]]
+- [[ai_advancements_and_industry_challenges | AI advancements and industry challenges]]
+
+### [The ARM chip race is getting wild… Apple M4 unveiled](https://www.youtube.com/watch?v=TsKHjFeonRE)
+- [[apples_m4_chip_unveiling | Apples M4 chip unveiling]]
+- [[competition_in_the_arm_chip_industry | Competition in the ARM chip industry]]
+- [[differences_between_arm_and_x86_architectures | Differences between ARM and x86 architectures]]
+- [[ai_capabilities_in_modern_chips | AI capabilities in modern chips]]
+- [[future_prospects_of_computing_technology | Future prospects of computing technology]]
+
+### [OpenAI’s new image generator hits different...](https://www.youtube.com/watch?v=Bt-7YiNBvLE)
+- [[openai_gpt_40_image_generator | OpenAI GPT 40 image generator]]
+- [[impact_of_aigenerated_images_on_the_internet_and_media | Impact of AIgenerated images on the internet and media]]
+- [[comparison_of_ai_models_from_openai_google_and_chinese_companies | Comparison of AI models from OpenAI Google and Chinese companies]]
+- [[autoregressive_approach_in_ai_image_generation | Autoregressive approach in AI image generation]]
+- [[ethical_considerations_and_regulations_for_aigenerated_content | Ethical considerations and regulations for AIgenerated content]]
+
+### [NGINX Explained in 100 Seconds](https://www.youtube.com/watch?v=JKxlsvZXG7c)
+- [[nginx_web_server | NGINX web server]]
+- [[reverse_proxy_with_nginx | Reverse proxy with NGINX]]
+- [[nginx_configuration_and_directives | NGINX configuration and directives]]
+- [[serving_static_content_with_nginx | Serving static content with NGINX]]
+- [[nginx_performance_and_capabilities | NGINX performance and capabilities]]
+
+### [OpenAI shocks the world yet again… Sora first look](https://www.youtube.com/watch?v=tWP6z0hvw1M)
+- [[openai_sora_ai_video_model_capabilities | OpenAI Sora AI video model capabilities]]
+- [[comparison_with_other_ai_video_models | Comparison with other AI video models]]
+- [[potential_implications_and_uses_for_aigenerated_videos | Potential implications and uses for AIgenerated videos]]
+- [[technical_aspects_and_challenges_of_ai_video_modeling | Technical aspects and challenges of AI video modeling]]
+- [[impact_of_ai_on_creative_and_technical_professions | Impact of AI on creative and technical professions]]
+
+### [80% of programmers are NOT happy… why?](https://www.youtube.com/watch?v=-pSf9_MgsZ4)
+- [[programmer_dissatisfaction | Programmer dissatisfaction]]
+- [[influence_of_salary_on_happiness | Influence of salary on happiness]]
+- [[impact_of_technical_debt | Impact of technical debt]]
+- [[hustle_culture_and_workplace_pressure | Hustle culture and workplace pressure]]
+- [[mental_and_physical_health_in_programming | Mental and physical health in programming]]
+
+### [Learn Docker in 7 Easy Steps - Full Beginner's Tutorial](https://www.youtube.com/watch?v=gAkwW2tuIqE)
+- [[introduction_to_docker | Introduction to Docker]]
+- [[creating_and_using_dockerfiles | Creating and Using Dockerfiles]]
+- [[managing_docker_containers_with_commands | Managing Docker Containers with Commands]]
+- [[working_with_volumes_and_docker_compose | Working with Volumes and Docker Compose]]
+- [[debugging_and_inspecting_docker_containers | Debugging and Inspecting Docker Containers]]

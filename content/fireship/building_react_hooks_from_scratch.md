@@ -4,7 +4,4 @@ videoId: TNhaISOUy6Q
 ---
 
 From: [[fireship]] <br/> 
-> [!note] This article is a stub.
-> The provided transcript does not contain information related to "Building React Hooks from scratch". The content consists primarily of disconnected phrases, likely originating from automated speech recognition of non-relevant audio.
-
-This article lacks content as the provided transcript does not contain any information about [[react_hooks_explanation | React Hooks]], [[component_composition_and_hooks_in_react | component composition]], or building software components from scratch.
+_The provided transcript does not contain information related to "Building React Hooks from scratch" or any concepts of [[React Hooks explained | React Hooks]], [[Building components with React | building components with React]], or other [[Reactjs overview and history | ReactJS]] topics._

@@ -1,0 +1,38 @@
+---
+title: Common frustrations in software engineering
+videoId: OoQLoKHhohg
+---
+
+From: [[fireship]] <br/> 
+### Common Frustrations in Software Engineering
+
+Being a software engineer can often lead to [[Programmer dissatisfaction | programmer dissatisfaction]] <a class="yt-timestamp" data-t="00:00:00">[00:00:00]</a>. The reality of the job often involves being "stuck in this cubicle building super complex stuff that nobody understands or appreciates" <a class="yt-timestamp" data-t="00:00:06">[00:00:06]</a>. Unlike civil engineers who build tangible, admired structures like bridges and skyscrapers, software engineers often work on unseen complexities <a class="yt-timestamp" data-t="00:00:18">[00:00:18]</a>. Due to these potential downsides, a career in software engineering is not universally recommended <a class="yt-timestamp" data-t="00:00:27">[00:00:27]</a>. Even minor issues like merge conflicts are a common occurrence for every software engineer <a class="yt-timestamp" data-t="00:00:39">[00:00:39]</a>.
+
+Several specific "devastating text messages" highlight the frequent frustrations faced by developers <a class="yt-timestamp" data-t="00:00:44">[00:00:44]</a>:
+
+### Unrealistic Project Proposals
+One major source of frustration comes from friends or family members who discover what you do for a living <a class="yt-timestamp" data-t="00:00:59">[00:00:59]</a>. They often propose "very dumb ideas" that are "impossibly complex to execute" with minuscule budgets, such as "Uber but for horses" or "TikTok without the Chinese," on a $500 budget <a class="yt-timestamp" data-t="00:01:05">[00:01:05]</a>. Since software engineers are often introverted and find it hard to decline, these requests can be particularly painful <a class="yt-timestamp" data-t="00:01:19">[00:01:19]</a>.
+
+> [!TIP] Saying No (Tactfully)
+> A suggested approach is to respond by stating a high hourly rate, like $300 an hour <a class="yt-timestamp" data-t="00:01:22">[00:01:22]</a>. This often leads to a counteroffer of "zero dollars per hour but 10% equity in the company," which serves as a "Checkmate" <a class="yt-timestamp" data-t="00:01:30">[00:01:30]</a>. The sarcastic advice is to simply accept the offer and build the app to make them "go away" <a class="yt-timestamp" data-t="00:01:39">[00:01:39]</a>.
+
+### Unexpected Cloud Billing Alerts
+When working on side projects or commercial applications, developers frequently use cloud services like AWS <a class="yt-timestamp" data-t="00:01:43">[00:01:43]</a>. A nightmare scenario is receiving a cloud billing alert indicating that a modest budget (e.g., $25) has been exceeded by a catastrophic amount (e.g., $2.3 million) due to a wrong button click or an infinite loop <a class="yt-timestamp" data-t="00:01:50">[00:01:50]</a>.
+
+> [!NOTE] Coping with Cloud Overages
+> The suggested "easiest solution" is to stop using the service and pretend nothing happened <a class="yt-timestamp" data-t="00:02:03">[00:02:03]</a>. If confronted, one might claim the account was hacked <a class="yt-timestamp" data-t="00:02:07">[00:02:07]</a>. Developers can find solace knowing they are not alone in making such mistakes, like forgetting to turn off an EC2 instance <a class="yt-timestamp" data-t="00:02:13">[00:02:13]</a>. This highlights a common issue related to the [[Impact of software bugs on different industries | impact of software bugs]] and user error.
+
+### Accidental Production Database Drops
+Another catastrophic event is accidentally dropping a production database, along with billions of dollars worth of company data, by mistakenly targeting "prod instead of dev" <a class="yt-timestamp" data-t="00:02:20">[00:02:20]</a>. While terrifying, hope lies in having backups for restoration <a class="yt-timestamp" data-t="00:02:33">[00:02:33]</a>. If not, it's advised to start looking for a new job <a class="yt-timestamp" data-t="00:02:37">[00:02:37]</a>. Dropping a database is deceptively easy, requiring only a single line of code <a class="yt-timestamp" data-t="00:02:40">[00:02:40]</a>. This incident can be considered a severe example of [[Lessons learned from catastrophic software failures | catastrophic software failures]].
+
+### Migrating Legacy Codebases
+A more prolonged form of suffering involves being assigned to migrate an old, complex legacy codebase, such as AngularJS version 1 to Angular 14 <a class="yt-timestamp" data-t="00:02:54">[00:02:54]</a>. These situations are exacerbated when the previous developer, often the only one who understood the "overly complex code base without any comments or documentation," has left or passed away <a class="yt-timestamp" data-t="00:03:04">[00:03:04]</a>. Such a task requires "more skill and ingenuity than building a nuclear submarine" <a class="yt-timestamp" data-t="00:03:17">[00:03:17]</a>. Even after years of work, the achievement often goes unnoticed because by then, it's time to migrate to the "hot new JavaScript framework" of the future <a class="yt-timestamp" data-t="00:03:22">[00:03:22]</a>. This problem is directly related to the [[Impact of technical debt | impact of technical debt]].
+
+### The Endless Cycle of New JavaScript Frameworks
+For web developers, a constant frustration is the invention of "a new better JavaScript framework" <a class="yt-timestamp" data-t="00:03:31">[00:03:31]</a>. Learning a framework often means joining a "tribe," where everything outside is considered "dangerous and terrible" <a class="yt-timestamp" data-t="00:03:36">[00:03:36]</a>. While developers try to convince themselves their chosen framework is the best, the inevitable realization that a better one exists can lead to turning their back on their "tribe" and losing friends, which is particularly hard for software engineers <a class="yt-timestamp" data-t="00:03:42">[00:03:42]</a>. This points to the rapidly evolving nature of [[Software Engineering and Development Tools | Software Engineering and Development Tools]].
+
+### "Small Changes" to Finished Products
+One of the most annoying occurrences is when a non-technical person, like a client or marketing expert, asks for a "one small change" to an already finished product <a class="yt-timestamp" data-t="00:04:04">[00:04:04]</a>. A simple request like moving a nav bar from the top to the side, deemed an "easy change," can take "20 hours and modifications and 800 different HTML and CSS files" <a class="yt-timestamp" data-t="00:04:11">[00:04:11]</a>. Adding insult to injury, immediately after committing the work, the same person might ask to revert to the original state <a class="yt-timestamp" data-t="00:04:24">[00:04:24]</a>. This illustrates the [[Challenges of finishing software projects | challenges of finishing software projects]].
+
+### The Dreaded Unsolved Problem
+The most important skill for a software engineer is often considered to be effective Google searching <a class="yt-timestamp" data-t="00:04:33">[00:04:33]</a>. Therefore, one of the worst things is encountering a problem that "nobody else has already solved for you" <a class="yt-timestamp" data-t="00:04:39">[00:04:39]</a>. While zero results on Google are painful, an even worse scenario is finding a single, obscure forum post from a decade ago describing the exact problem, only for the "solution" to be "fixed all good now," leaving the developer to figure it out alone <a class="yt-timestamp" data-t="00:04:47">[00:04:47]</a>. The ultimate frustration can occur when, just as a solution is about to be found, a notification arrives for a daily stand-up meeting <a class="yt-timestamp" data-t="00:05:05">[00:05:05]</a>. This speaks to the individual [[Overcoming challenges and hard work in programming | overcoming challenges and hard work in programming]] that programmers face.
