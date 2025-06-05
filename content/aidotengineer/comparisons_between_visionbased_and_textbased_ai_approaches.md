@@ -1,0 +1,35 @@
+---
+title: Comparisons between visionbased and textbased AI approaches
+videoId: kjSGc7uwDo8
+---
+
+From: [[aidotengineer]] <br/> 
+
+The field of AI agents includes different approaches for interacting with web pages, primarily distinguishing between vision-based and text-based methods <a class="yt-timestamp" data-t="12:02:00">[12:02:00]</a>.
+
+## Vision-Based Approach
+
+Many existing AI agents, including those from OpenAI (Operator), Anthropic (Claude), and Google (Mariner), utilize a vision-based or hybrid approach <a class="yt-timestamp" data-t="12:08:00">[12:08:00]</a>, <a class="yt-timestamp" data-t="12:15:00">[12:15:00]</a>, <a class="yt-timestamp" data-t="12:19:00">[12:19:00]</a>, <a class="yt-timestamp" data-t="12:21:00">[12:21:00]</a>. This method typically involves taking screenshots of web pages to extract data <a class="yt-timestamp" data-t="12:26:00">[12:26:00]</a>, <a class="yt-timestamp" data-t="12:27:00">[12:27:00]</a>.
+
+### Disadvantages of Vision-Based AI
+*   **Higher Hallucination Risk** Vision-based models are more prone to hallucination compared to text-based approaches <a class="yt-timestamp" data-t="12:33:00">[12:33:00]</a>, <a class="yt-timestamp" data-t="12:35:00">[12:35:00]</a>.
+*   **High Cost** This approach is highly expensive due to the need for multiple screenshots for even a single action or page scroll <a class="yt-timestamp" data-t="12:42:00">[12:42:00]</a>, <a class="yt-timestamp" data-t="12:44:00">[12:44:00]</a>.
+*   **Limited Parallel Processing** Vision-based methods cannot effectively perform actions on multiple tabs in parallel because background tabs do not render, making it impossible to capture screenshots of them <a class="yt-timestamp" data-t="14:53:00">[14:53:00]</a>, <a class="yt-timestamp" data-t="14:55:00">[14:55:00]</a>, <a class="yt-timestamp" data-t="14:58:00">[14:58:00]</a>.
+*   **Cloud-Based Browser Issues** Many companies using vision-based agents deploy browsers on the cloud, leading to issues such as non-personalized results, as the content displayed might differ from what the user sees in their own browser <a class="yt-timestamp" data-t="13:01:00">[13:01:00]</a>, <a class="yt-timestamp" data-t="13:04:00">[13:04:00]</a>, <a class="yt-timestamp" data-t="13:07:00">[13:07:00]</a>, <a class="yt-timestamp" data-t="13:08:00">[13:08:00]</a>. Supporting cloud-based browsers also requires implementing numerous proxies, which is costly <a class="yt-timestamp" data-t="13:15:00">[13:15:00]</a>, <a class="yt-timestamp" data-t="13:17:00">[13:17:00]</a>. Furthermore, these cloud solutions may struggle to access content behind paywalls or Cloudflare website protections, or require users to store passwords, which poses security risks <a class="yt-timestamp" data-t="14:06:00">[14:06:00]</a>, <a class="yt-timestamp" data-t="14:09:00">[14:09:00]</a>.
+
+## Text-Based Approach (Retriever.com's method)
+
+Retriever.com employs a text-based approach that leverages the web page's Document Object Model (DOM) structure <a class="yt-timestamp" data-t="12:37:00">[12:37:00]</a>, <a class="yt-timestamp" data-t="12:39:00">[12:39:00]</a>.
+
+### Advantages of Text-Based AI
+*   **Reduced Hallucination** By using a text-based method, there is significantly less hallucination in the output because the text is directly in context for the model <a class="yt-timestamp" data-t="13:33:00">[13:33:00]</a>, <a class="yt-timestamp" data-t="13:35:00">[13:35:00]</a>, <a class="yt-timestamp" data-t="13:38:00">[13:38:00]</a>, <a class="yt-timestamp" data-t="14:31:00">[14:31:00]</a>, <a class="yt-timestamp" data-t="14:38:00">[14:38:00]</a>.
+*   **Cost-Effectiveness** This approach is very cost-effective <a class="yt-timestamp" data-t="13:34:00">[13:34:00]</a>, <a class="yt-timestamp" data-t="13:36:00">[13:36:00]</a>, with page extraction potentially costing less than a penny <a class="yt-timestamp" data-t="03:05:00">[03:05:00]</a>, <a class="yt-timestamp" data-t="03:07:00">[03:07:00]</a>.
+*   **Parallel Multi-Tab Actions** The text-based method allows actions to be taken on multiple tabs simultaneously, including background tabs, without rendering them, which speeds up performance <a class="yt-timestamp" data-t="13:40:00">[13:40:00]</a>, <a class="yt-timestamp" data-t="13:42:00">[13:42:00]</a>, <a class="yt-timestamp" data-t="14:50:00">[14:50:00]</a>, <a class="yt-timestamp" data-t="15:03:00">[15:03:00]</a>.
+*   **Client-Side Chrome Extension Benefits** As a client-side Chrome extension <a class="yt-timestamp" data-t="01:20:00">[01:20:00]</a>, <a class="yt-timestamp" data-t="13:32:00">[13:32:00]</a>, <a class="yt-timestamp" data-t="15:32:00">[15:32:00]</a>, it offers:
+    *   Cheaper infrastructure <a class="yt-timestamp" data-t="15:34:00">[15:34:00]</a>.
+    *   Access to new content sources because it sees exactly what the user sees, including local websites, login-gated sites, or content behind paywalls <a class="yt-timestamp" data-t="13:45:00">[13:45:00]</a>, <a class="yt-timestamp" data-t="13:47:00">[13:47:00]</a>, <a class="yt-timestamp" data-t="13:54:00">[13:54:00]</a>, <a class="yt-timestamp" data-t="13:55:00">[13:55:00]</a>, <a class="yt-timestamp" data-t="15:39:00">[15:39:00]</a>, <a class="yt-timestamp" data-t="15:42:00">[15:42:00]</a>, <a class="yt-timestamp" data-t="15:45:00">[15:45:00]</a>.
+    *   Enhanced security as it does not store user passwords <a class="yt-timestamp" data-t="13:47:00">[13:47:00]</a>, <a class="yt-timestamp" data-t="13:50:00">[13:50:00]</a>, <a class="yt-timestamp" data-t="13:51:00">[13:51:00]</a>, <a class="yt-timestamp" data-t="15:47:00">[15:47:00]</a>.
+*   **Lower Failure Rate** By distributing complex long-horizon tasks into subtasks that open as new tabs, the failure rate is significantly reduced compared to competitors that attempt one single long action on a single tab <a class="yt-timestamp" data-t="15:55:00">[15:55:00]</a>, <a class="yt-timestamp" data-t="15:57:00">[15:57:00]</a>, <a class="yt-timestamp" data-t="16:01:00">[16:01:00]</a>, <a class="yt-timestamp" data-t="16:04:00">[16:04:00]</a>, <a class="yt-timestamp" data-t="16:07:00">[16:07:00]</a>. This addresses [[challenges_with_current_ai_implementation | challenges with current AI implementation]] regarding reliability.
+*   **Extensible Function Calling** Users can define and set up their own function calls for third-party integrations, offering a more extensible and scalable solution than custom, predefined integrations offered by competitors <a class="yt-timestamp" data-t="16:13:00">[16:13:00]</a>, <a class="yt-timestamp" data-t="16:14:00">[16:14:00]</a>, <a class="yt-timestamp" data-t="16:16:00">[16:16:00]</a>, <a class="yt-timestamp" data-t="16:19:00">[16:19:00]</a>, <a class="yt-timestamp" data-t="16:21:00">[16:21:00]</a>, <a class="yt-timestamp" data-t="16:24:00">[16:24:00]</a>. This relates to [[testing_and_optimization_of_ai_coding_agents | testing and optimization of AI coding agents]] as it improves adaptability.
+
+For more information, see also: [[comparison_of_local_and_cloudbased_ai_agents | Comparison of Local and Cloud-based AI Agents]].

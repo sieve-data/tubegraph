@@ -5,82 +5,64 @@ videoId: ZB7l4uxW3Yo
 
 From: [[aidotengineer]] <br/> 
 
-[[ai_agents_and_agentic_workflows | AI agents]] are increasingly capable of performing complex tasks, but moving them into a production setting introduces several challenges <a class="yt-timestamp" data-t="00:00:08">[00:00:08]</a>. These include the need for human approval during processing steps, managing [[longrunning_workflows_in_ai_deployment | long-running agents]] that are susceptible to failure, and enabling [[scaling_ai_agents_in_production | scaling AI agents in production]] within a distributed environment <a class="yt-timestamp" data-t="00:00:12">[00:00:12]</a>, <a class="yt-timestamp" data-t="00:02:12">[00:02:12]</a>, <a class="yt-timestamp" data-t="00:02:40">[00:02:40]</a>.
+Agent continuations represent a novel mechanism developed at Snaplogic for managing agent state and facilitating [[integrating_ai_into_natural_workflows | human-in-the-loop]] processing within [[ai_in_workflow_automation_and_augmentation | AI workflows]] <a class="yt-timestamp" data-t="00:34:34">[00:34:34]</a>. This approach allows for the capture of the [[stateful_ai_agents | full state]] of complex agents, enabling arbitrary human and loop processing, and providing a basis for reliable agent continuation through snapshots <a class="yt-timestamp" data-t="00:50:07">[00:50:07]</a>.
 
-Agent continuations are a new mechanism developed by Snaplogic to address these issues, enabling the capture of the full state of complex agents for human-in-the-loop processing and reliable continuation through snapshots <a class="yt-timestamp" data-t="00:00:47">[00:00:47]</a>, <a class="yt-timestamp" data-t="00:00:50">[00:00:50]</a>. This work originated from the Agent Creator research group at Snaplogic <a class="yt-timestamp" data-t="00:01:08">[00:01:08]</a>.
+## Challenges with Modern AI Agents
 
-## Challenges in AI Agent Deployment
+As agents move into [[scaling_ai_agents in production | production settings]], several [[benefits_and_challenges_of_using_ai_in_workflow | challenges]] arise <a class="yt-timestamp" data-t="00:08:00">[00:08:00]</a>:
 
-When deploying [[ai_agents_and_agentic_workflows | AI agents]] and [[developing_ai_agents_and_agentic_workflows | agentic workflows]], several challenges arise:
+*   **Human Oversight and Approval**
+    Agents often require human approval during their processing steps, especially for high-value or high-risk tasks such as transferring money or deleting accounts <a class="yt-timestamp" data-t="00:12:00">[00:12:00]</a>. Key aspects of agent execution need some amount of human oversight to ensure comfort with [[automation_of_manual_workflows_with_ai_web_agents | agent automation]] <a class="yt-timestamp" data-t="00:29:00">[00:29:00]</a>.
+*   **Long-Running Agents and Failure Tolerance**
+    Many agents are designed to be long-running, involving numerous steps <a class="yt-timestamp" data-t="00:12:00">[00:12:00]</a>. The longer a process runs, the greater the chance of failure <a class="yt-timestamp" data-t="00:19:00">[00:19:00]</a>. A mechanism is needed to prevent the loss of work and allow agents to checkpoint their [[stateful_ai_agents | state]] for resumption from a specific point rather than restarting from the beginning <a class="yt-timestamp" data-t="00:24:00">[00:24:00]</a>.
+*   **Distributed Environments**
+    Increasingly, agents operate in distributed environments beyond a single desktop <a class="yt-timestamp" data-t="00:40:00">[00:40:00]</a>. Considerations for running agents scalably in such environments are essential <a class="yt-timestamp" data-t="00:48:00">[00:48:00]</a>.
+*   **Multi-level Agents**
+    Sophisticated agent configurations often involve a main "orchestrator" agent with multiple sub-agents, which themselves can have sub-agents <a class="yt-timestamp" data-t="06:00:00">[00:06:00]</a>. Addressing human approval and state saving in the presence of these complex [[multiagent_orchestration_for_ai_copilot_development | multi-level agents]] is a significant challenge <a class="yt-timestamp" data-t="06:30:00">[00:30:00]</a>.
+*   **Agent Loop Persistence**
+    Most current frameworks require the agent loop to run continuously, even when waiting for human input <a class="yt-timestamp" data-t="07:23:00">[00:23:00]</a>. This requires continuous physical machine resources <a class="yt-timestamp" data-t="07:03:00">[00:07:03]</a>. A solution is needed to allow the agent loop to be fully shut down and restarted later <a class="yt-timestamp" data-t="07:56:00">[00:56:00]</a>.
 
-*   **Human in the Loop**: For comfort with [[ai_in_workflow_automation | agent automation]], key aspects of agent execution require human oversight <a class="yt-timestamp" data-t="00:01:23">[00:01:23]</a>. Agents may reach a point where a designated high-value or high-risk task (e.g., transferring money, deleting accounts) requires human determination or decision <a class="yt-timestamp" data-t="00:01:46">[00:01:46]</a>.
-*   **Long-Running Agents and Failure**: Many [[ai_agents_and_agentic_workflows | agents]] will be [[longrunning_workflows_in_ai_deployment | long-running]] due to numerous steps in [[developing_ai_agents_and_agentic_workflows | agentic processing]] <a class="yt-timestamp" data-t="00:02:12">[00:02:12]</a>, <a class="yt-timestamp" data-t="00:02:15">[00:02:15]</a>. The longer a process runs, the greater the chance of failure (e.g., network, hardware) <a class="yt-timestamp" data-t="00:02:19">[00:02:19]</a>, <a class="yt-timestamp" data-t="00:05:31">[00:05:31]</a>. It is desirable to checkpoint agent state to resume from a point other than the beginning, preventing loss of work <a class="yt-timestamp" data-t="00:02:24">[00:02:24]</a>, <a class="yt-timestamp" data-t="00:05:42">[00:05:42]</a>.
-*   **Distributed Environments**: Increasingly, agents operate in distributed environments rather than just on local desktops, necessitating considerations for [[scaling_ai_agents_in_production | running agents in a scalable distributed environment]] <a class="yt-timestamp" data-t="00:02:42">[00:02:42]</a>, <a class="yt-timestamp" data-t="00:02:48">[00:02:48]</a>.
-*   **Agent Loop Persistence**: Most current frameworks supporting human-in-the-loop require the agent loop (the code running on a physical machine) to run continuously, even when waiting for human response <a class="yt-timestamp" data-t="00:07:27">[00:07:27]</a>, <a class="yt-timestamp" data-t="00:07:39">[00:07:39]</a>. This means the agent loop must persist <a class="yt-timestamp" data-t="00:07:42">[00:07:42]</a>. A key goal for agent continuations was to allow full shutdown and later restart of agent loops <a class="yt-timestamp" data-t="00:07:51">[00:07:51]</a>, <a class="yt-timestamp" data-t="00:16:54">[00:16:54]</a>.
+## Basic Agent Execution
 
-Sophisticated, multi-level agents (e.g., orchestrator agents with sub-agents) complicate these challenges <a class="yt-timestamp" data-t="00:06:00">[00:06:00]</a>, <a class="yt-timestamp" data-t="00:06:17">[00:06:17]</a>.
+An agent typically operates as a loop involving calls to a Large Language Model (LLM) that specify potential tools <a class="yt-timestamp" data-t="03:01:00">[03:01:00]</a>. If the LLM decides to use a tool, it returns to the agent loop, which then calls the tool, collects results, and sends them back to the LLM in a progressive cycle <a class="yt-timestamp" data-t="03:10:00">[03:10:00]</a>. A tool can also be an agent itself, forming a sub-agent relationship <a class="yt-timestamp" data-t="03:31:00">[03:31:00]</a>. Even simple agents involve significant interaction with LLMs and tools <a class="yt-timestamp" data-t="03:53:00">[03:53:00]</a>.
 
-## Understanding Agent Continuations
+## Agent Continuations Explained
 
-Agent continuations are inspired by the programming language theory concept of continuations <a class="yt-timestamp" data-t="00:08:14">[00:08:14]</a>.
-*   **Continuations in Programming Languages**: This concept allows pausing program execution at any point, bundling its state, and resuming execution later from that point <a class="yt-timestamp" data-t="00:08:27">[00:08:27]</a>, <a class="yt-timestamp" data-t="00:08:40">[00:08:40]</a>. It's like taking a snapshot of program execution <a class="yt-timestamp" data-t="00:08:49">[00:08:49]</a>.
-*   **Agent Continuations**: This mechanism aims to do the same for [[ai_agents_and_agentic_workflows | agents]] <a class="yt-timestamp" data-t="00:09:15">[00:09:15]</a>. At any point during agent execution (including multiple tool calls, LLM calls, and sub-agent calls), the agent can be paused, its state saved, and then returned to the application layer for purposes like processing human approval or persisting state for later resumption <a class="yt-timestamp" data-t="00:09:22">[00:09:22]</a>, <a class="yt-timestamp" data-t="00:09:34">[00:09:34]</a>.
+Inspired by the programming language concept of continuations, agent continuations enable pausing agent execution, saving its [[stateful_ai_agents | state]], and then resuming or continuing execution from that point at a later time <a class="yt-timestamp" data-t="08:11:00">[08:11:00]</a>. This allows for a snapshot of the agent's execution <a class="yt-timestamp" data-t="08:49:00">[08:49:00]</a>.
 
-A key insight for agent continuations is that [[ai_agents_and_agentic_workflows | agent]] interactions with Large Language Models (LLMs) already do significant bookkeeping by maintaining a 'messages array' <a class="yt-timestamp" data-t="00:10:04">[00:10:04]</a>, <a class="yt-timestamp" data-t="00:10:09">[00:10:09]</a>. This array serves as a log of all interactions and is replayed to the LLM for its next inference <a class="yt-timestamp" data-t="00:10:14">[00:10:14]</a>. While the messages array is a good starting point, it's not entirely sufficient on its own <a class="yt-timestamp" data-t="00:11:05">[00:11:05]</a>.
+### Key Insight: Leveraging the Messages Array
 
-## How Agent Continuations Work
+A core insight behind agent continuations is that interactions with LLMs in agents already maintain a "messages array," which serves as a log of all interactions <a class="yt-timestamp" data-t="10:04:00">[10:04:00]</a>. This history is replayed back to the LLM for its next inference <a class="yt-timestamp" data-t="10:24:00">[10:24:00]</a>. While not entirely sufficient, this array already captures much of the agent's [[stateful_ai_agents | state]] <a class="yt-timestamp" data-t="11:00:00">[11:00:00]</a>.
 
-### Basic Agent Execution (without Continuations)
-Standard agent frameworks involve:
-1.  Defining tools as Python functions using a decorator <a class="yt-timestamp" data-t="00:11:36">[00:11:36]</a>.
-2.  Creating an agent by sending the tool list to it <a class="yt-timestamp" data-t="00:11:43">[00:11:43]</a>.
-3.  Instantiating the agent and making a request with a user prompt <a class="yt-timestamp" data-t="00:12:02">[00:12:02]</a>.
-4.  The agent performs LLM requests and tool calling, eventually returning a response <a class="yt-timestamp" data-t="00:12:07">[00:12:07]</a>.
+### Implementation and Usage
 
-### Agent Execution with Continuations
-The approach with continuation support introduces minimal changes:
-1.  A tool can be designated as "needing approval" <a class="yt-timestamp" data-t="00:12:37">[00:12:37]</a>, <a class="yt-timestamp" data-t="00:12:41">[00:12:41]</a>.
-2.  Instead of a standard agent class, a `ContinuationAgent` class is used <a class="yt-timestamp" data-t="00:12:50">[00:12:50]</a>, <a class="yt-timestamp" data-t="00:12:53">[00:12:53]</a>.
-3.  During execution, the response may be a `ContinuationObject` if the agent needs to suspend <a class="yt-timestamp" data-t="00:13:16">[00:13:16]</a>, <a class="yt-timestamp" data-t="00:13:18">[00:13:18]</a>.
-4.  The `ContinuationObject` contains metadata explaining the reason for suspension (e.g., human approval) <a class="yt-timestamp" data-t="00:13:24">[00:13:24]</a>, <a class="yt-timestamp" data-t="00:13:28">[00:13:28]</a>.
-5.  The application layer inspects the object, provides necessary input (e.g., true/false for approval), and sends the updated `ContinuationObject` back to the agent using the same request method <a class="yt-timestamp" data-t="00:13:54">[00:13:54]</a>, <a class="yt-timestamp" data-t="00:14:06">[00:14:06]</a>.
-6.  The agent recognizes the `ContinuationObject` and resumes from the point of suspension <a class="yt-timestamp" data-t="00:14:12">[00:14:12]</a>, <a class="yt-timestamp" data-t="00:14:15">[00:14:15]</a>.
+To use agent continuations, a `continuation agent class` is utilized instead of a standard agent class <a class="yt-timestamp" data-t="12:50:00">[12:50:00]</a>. Tools can be designated as needing approval <a class="yt-timestamp" data-t="12:37:00">[12:37:00]</a>.
 
-### Implementation Details
-*   **Suspension**: When a suspension condition is met (e.g., human approval is needed), a `ContinuationObject` is created <a class="yt-timestamp" data-t="00:15:12">[00:15:12]</a>, <a class="yt-timestamp" data-t="00:15:19">[00:15:19]</a>.
-*   **Continuation Object Structure**: It embeds the standard messages array and additional metadata, which provides information on how to resume execution <a class="yt-timestamp" data-t="00:15:21">[00:15:21]</a>, <a class="yt-timestamp" data-t="00:15:24">[00:15:24]</a>. Before being returned, core information is extracted to the top level for easy application layer interaction <a class="yt-timestamp" data-t="00:16:11">[00:16:11]</a>, <a class="yt-timestamp" data-t="00:16:17">[00:16:17]</a>.
-    *   A single-level continuation object includes the messages array, a `resume_request` (indicating where to resume), and `processed` (e.g., approval status) <a class="yt-timestamp" data-t="00:17:29">[00:17:29]</a>.
-    *   For nested agents (e.g., an agent calling a sub-agent), the format is recursive, with a `resume_request` containing its own continuation object, messages, and processed status <a class="yt-timestamp" data-t="00:18:18">[00:18:18]</a>, <a class="yt-timestamp" data-t="00:18:29">[00:18:29]</a>.
-*   **Resumption**: When the updated `ContinuationObject` is sent back, the agent uses its logic to reconstruct its state and continue execution <a class="yt-timestamp" data-t="00:16:31">[00:16:31]</a>, <a class="yt-timestamp" data-t="00:16:34">[00:16:34]</a>.
-*   **Key Benefit: Decoupling**: Once the agent is suspended and the `ContinuationObject` created, the agent loops do not need to keep running <a class="yt-timestamp" data-t="00:16:48">[00:16:48]</a>. They can be shut down because all necessary information is captured for restart <a class="yt-timestamp" data-t="00:17:02">[00:17:02]</a>.
+When an agent needs to suspend (e.g., for [[implementation_and_benefits_of_agent_continuations | human approval]] or another condition), it creates a "continuation object" <a class="yt-timestamp" data-t="13:16:00">[13:16:00]</a>.
 
-## Example: Multi-Level HR Agent
+This object:
+*   Embeds the standard messages array.
+*   Includes additional metadata, such as a `resume request` (indicating where to resume) and `processed` (to be populated with approval status) <a class="yt-timestamp" data-t="15:21:00">[15:21:00]</a>.
+*   Is designed to be recursive, supporting arbitrary layers of nesting for [[multiagent_orchestration_for_ai_copilot_development | sub-agents]] <a class="yt-timestamp" data-t="18:20:00">[18:20:20]</a>.
 
-A practical example demonstrates a multi-level HR agent:
-*   A top-level HR agent has an email tool and access to an account agent tool <a class="yt-timestamp" data-t="00:18:50">[00:18:50]</a>, <a class="yt-timestamp" data-t="00:18:55">[00:18:55]</a>.
-*   The account agent (a sub-agent) has its own tools: `create_account` and `authorize_account` <a class="yt-timestamp" data-t="00:19:17">[00:19:17]</a>, <a class="yt-timestamp" data-t="00:19:20">[00:19:20]</a>, <a class="yt-timestamp" data-t="00:19:23">[00:19:23]</a>.
-*   The `authorize_account` tool specifically requires human approval <a class="yt-timestamp" data-t="00:19:25">[00:19:25]</a>, <a class="yt-timestamp" data-t="00:19:27">[00:19:27]</a>.
+The application layer inspects this object, provides necessary updates (like human approval), and then sends the continuation object back to the agent <a class="yt-timestamp" data-t="16:26:00">[16:26:00]</a>. The agent then reconstructs its [[stateful_ai_agents | state]] and resumes processing from the suspension point <a class="yt-timestamp" data-t="16:34:00">[16:34:00]</a>.
 
-In a scenario where a user prompts the HR agent to create a new account, the process unfolds as follows:
-1.  The HR agent processes the request.
-2.  It calls the account agent sub-agent.
-3.  The account agent eventually reaches the `authorize_account` tool, which requires human approval <a class="yt-timestamp" data-t="00:19:52">[00:19:52]</a>, <a class="yt-timestamp" data-t="00:19:55">[00:19:55]</a>.
-4.  At this point, the agent suspends, creating a `ContinuationObject` <a class="yt-timestamp" data-t="00:20:07">[00:20:07]</a>. This object propagates back through each level of nesting (from sub-agent to main agent) until it reaches the application layer <a class="yt-timestamp" data-t="00:21:03">[00:21:03]</a>.
-5.  The application layer inspects the `ContinuationObject` (which contains the sub-agent's messages and a top-level approval object for user interaction) and provides the human approval (e.g., setting "processed" to `true`) <a class="yt-timestamp" data-t="00:22:29">[00:22:29]</a>, <a class="yt-timestamp" data-t="00:22:52">[00:22:52]</a>, <a class="yt-timestamp" data-t="00:22:58">[00:22:58]</a>.
-6.  The updated `ContinuationObject` is sent back to the HR agent <a class="yt-timestamp" data-t="00:23:04">[00:23:04]</a>.
-7.  The framework restores the state of both the main agent and the sub-agent to where they were when approval was needed <a class="yt-timestamp" data-t="00:21:30">[00:21:30]</a>, <a class="yt-timestamp" data-t="00:23:14">[00:23:14]</a>.
-8.  The agent continues processing, resulting in a successful account creation and security level granting <a class="yt-timestamp" data-t="00:23:30">[00:23:30]</a>. The final output shows a normal messages array, with no sign of the continuation <a class="yt-timestamp" data-t="00:23:54">[00:23:54]</a>.
+A significant benefit is that once the continuation object is created, the agent loops do not need to keep running; they can be shut down, as enough information has been captured to restart everything <a class="yt-timestamp" data-t="16:54:00">[16:54:00]</a>.
 
-## Prototype and Future Work
+### Example Scenario: Multi-level HR Agent
 
-The prototype for agent continuations is built on top of the OpenAI Python API and has no other dependencies <a class="yt-timestamp" data-t="00:24:12">[00:24:12]</a>, <a class="yt-timestamp" data-t="00:24:16">[00:24:16]</a>. The implementation is available on GitHub <a class="yt-timestamp" data-t="00:24:20">[00:24:20]</a>.
+Consider a multi-level HR agent where a top-level HR agent uses an email tool and an account agent sub-tool <a class="yt-timestamp" data-t="18:50:00">[18:50:00]</a>. The account agent itself has tools like "create account" and "authorize account," with "authorize account" requiring [[implementation_and_benefits_of_agent_continuations | human approval]] <a class="yt-timestamp" data-t="19:17:00">[19:17:00]</a>.
 
-Future directions for agent continuations include:
-*   **General Agent Suspension**: Expanding beyond just human approval to arbitrary suspension points, such as after a certain amount of time, a specific number of turns, or asynchronous requests <a class="yt-timestamp" data-t="00:24:29">[00:24:29]</a>, <a class="yt-timestamp" data-t="00:24:30">[00:24:30]</a>, <a class="yt-timestamp" data-t="00:24:36">[00:24:36]</a>.
-*   **Framework Extension**: The goal is not to develop a new, separate agent framework, but rather to extend existing frameworks like Langchain or Pyantic AI <a class="yt-timestamp" data-t="00:24:50">[00:24:50]</a>, <a class="yt-timestamp" data-t="00:24:56">[00:24:56]</a>.
+When the account agent reaches the "authorize account" tool, it suspends execution, creates a continuation object, and propagates it back to the application layer <a class="yt-timestamp" data-t="20:01:00">[20:01:00]</a>. The application layer processes the approval, updates the continuation object, and sends it back to the HR agent. The framework then restores the state of both the main agent and sub-agent, allowing processing to continue <a class="yt-timestamp" data-t="21:20:00">[21:20:00]</a>.
 
-While some other frameworks offer forms of state management, agent continuations are considered novel because they combine both a human approval element and the sophistication of handling arbitrary depths of nesting into sub-agents <a class="yt-timestamp" data-t="00:25:03">[00:25:03]</a>, <a class="yt-timestamp" data-t="00:25:07">[00:25:07]</a>, <a class="yt-timestamp" data-t="00:25:28">[00:25:28]</a>, <a class="yt-timestamp" data-t="00:25:36">[00:25:36]</a>.
+## Prototype and Future Directions
 
-The work on agent continuations was developed by the Agent Creator team at Snaplogic <a class="yt-timestamp" data-t="00:25:48">[00:25:48]</a>. Agent Creator is Snaplogic's visual agent building interface and platform, allowing users to create sophisticated agents visually and visualize agent execution <a class="yt-timestamp" data-t="00:25:53">[00:25:53]</a>, <a class="yt-timestamp" data-t="00:26:04">[00:26:04]</a>, <a class="yt-timestamp" data-t="00:26:12">[00:26:12]</a>. Continuations were prototyped both at the Python layer and within the higher-level Snaplogic Agent Creator environment <a class="yt-timestamp" data-t="00:26:18">[00:26:18]</a>, <a class="yt-timestamp" data-t="00:26:25">[00:26:25]</a>.
+A prototype implementation of agent continuations has been built on top of the OpenAI Python API, with no other dependencies <a class="yt-timestamp" data-t="24:12:00">[24:12:00]</a>.
 
-In conclusion, agent continuations represent a significant advance in [[best_practices_for_building_resilient_ai_workflows | managing agent state]] and enabling human-in-the-loop processing for [[ai_in_workflow_automation | AI workflows]] <a class="yt-timestamp" data-t="00:26:34">[00:26:34]</a>.
+### Further Development:
+*   **General Agent Suspension**: Implementation of more general agent suspension beyond just human approval, allowing for arbitrary suspension points based on time, turns, or asynchronous requests <a class="yt-timestamp" data-t="24:27:00">[24:27:00]</a>.
+*   **Integration with Existing Frameworks**: The focus is on extending existing agent frameworks like Strands or Pydantic AI, rather than developing a separate framework <a class="yt-timestamp" data-t="24:50:00">[24:50:00]</a>.
+
+While other frameworks have considered [[stateful_ai_agents | state]] management, this approach is novel in combining both a robust [[implementation_and_benefits_of_agent_continuations | human approval]] mechanism and support for arbitrary nesting of complex agents <a class="yt-timestamp" data-t="25:03:00">[25:03:00]</a>.
+
+This work originated from the Agent Creator research group at Snaplogic, where the concept was prototyped both at the Python layer and within Snaplogic's visual agent building interface and platform, Agent Creator <a class="yt-timestamp" data-t="25:48:00">[25:48:00]</a>.

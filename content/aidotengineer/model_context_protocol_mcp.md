@@ -1,55 +1,61 @@
 ---
-title: Model context protocol MCP
-videoId: Nqb7JTx0Pqo
+title: Model Context Protocol MCP
+videoId: z4zXicOAF28
 ---
 
 From: [[aidotengineer]] <br/> 
 
-The [[Model context protocol mCP overview | Model Context Protocol (MCP)]] is a standardized approach designed to enable Large Language Models (LLMs) to access and utilize external tools and services <a class="yt-timestamp" data-t="01:20:23">[01:20:23]</a>. It acts as a bridge, allowing LLMs to extend their capabilities beyond pure text generation by interacting with the broader digital environment <a class="yt-timestamp" data-t="01:04:27">[01:04:27]</a>.
+[[introduction_to_model_context_protocol_mcp | Model Context Protocol (MCP)]] is an open-source, standardized protocol designed to connect AI with the external world, enabling models to interact with tools and access context beyond their immediate environment <a class="yt-timestamp" data-t="02:34:21">[02:34:21]</a>. It addresses the "copy and paste hell" that users and AI products faced when AI was not connected to the rest of the world <a class="yt-timestamp" data-t="02:30:07">[02:30:07]</a>.
 
-## Core Functionality
-MCP serves two primary functions:
-*   **Tool Information Store** It maintains a repository of information about available tools, detailing how an LLM can make calls to these tools and utilize them <a class="yt-timestamp" data-t="01:47:27">[01:47:27]</a>.
-*   **Tool Service Runner** The MCP tool service actively runs the tools. When an LLM decides to perform an action through a tool, MCP executes that action and returns a response containing the result or additional guidance for the LLM <a class="yt-timestamp" data-t="01:57:27">[01:57:27]</a>. This allows the LLM to either make further tool calls or generate a text-based response <a class="yt-timestamp" data-t="02:14:27">[02:14:27]</a>.
+## Origin and Motivation
 
-### Examples of Tools
-MCP can facilitate access to a wide array of tools and services, including:
-*   Browser navigation <a class="yt-timestamp" data-t="01:26:28">[01:26:28]</a>
-*   Stripe <a class="yt-timestamp" data-t="01:31:27">[01:31:27]</a>
-*   GitHub <a class="yt-timestamp" data-t="01:32:27">[01:32:27]</a>
-*   Gmail <a class="yt-timestamp" data-t="01:33:27">[01:33:27]</a>
+The concept of MCP arose in mid-2024 from David and Justin, the co-creators at Anthropic, who observed the constant need to copy and paste context from external sources like Slack messages or error logs (e.g., Sentry) into a model's context window <a class="yt-timestamp" data-t="02:33:09">[02:33:09]</a>. This led to the fundamental question: How can a model "climb out of its box," reach into the real world, and retrieve necessary context and actions? <a class="yt-timestamp" data-t="02:33:52">[02:33:52]</a>
 
-## Integration with LLMs
-To integrate with LLMs, particularly those exposed as an OpenAI-style API endpoint, several translation steps are necessary <a class="yt-timestamp" data-t="02:29:27">[02:29:27]</a>:
-1.  **Tool Information Conversion** Tool information received from MCP services must be converted into JSON lists, as this is the format expected by OpenAI endpoints <a class="yt-timestamp" data-t="03:02:27">[03:02:27]</a>.
-2.  **Tool Response Formatting** The response from a tool call needs to be converted into a format that the LLM understands and expects <a class="yt-timestamp" data-t="03:11:27">[03:11:27]</a>.
-3.  **Tool Call Extraction** When the LLM emits tokens or text, the system must detect and extract if it intends to make a tool call. For example, a Quen model might emit tool calls in a specific "Hermes format" within XML tags, which then needs to be parsed into JSON <a class="yt-timestamp" data-t="03:21:27">[03:21:27]</a>.
+The core idea was to address model agency – giving models the ability to interact with the outside world <a class="yt-timestamp" data-t="02:34:06">[02:34:06]</a>. For this to scale, it had to be an open-source, standardized protocol <a class="yt-timestamp" data-t="02:34:21">[02:34:21]</a>. This was crucial because proprietary ecosystems require complex business development and alignment on interfaces for integration <a class="yt-timestamp" data-t="02:34:42">[02:34:42]</a>. As reasoning models improved and tool calling became more effective, it was essential to allow wider participation in this ecosystem <a class="yt-timestamp" data-t="02:35:12">[02:35:12]</a>.
 
-## Agent Fine-Tuning with MCP
-The [[Model context protocol and AI integration | Model Context Protocol]] plays a crucial role in the fine-tuning of [[Development and adoption of MCP | agent-based systems]] <a class="yt-timestamp" data-t="00:10:00">[00:10:00]</a>. The process involves:
+A small internal "tiger team" at Anthropic developed MCP, which was launched during the company's hack week in November 2024 <a class="yt-timestamp" data-t="02:35:28">[02:35:28]</a>. This internal launch went viral, with engineers automating workflows using MCPs <a class="yt-timestamp" data-t="02:35:41">[02:35:41]</a>, ultimately leading to its open-source release in November 2024 <a class="yt-timestamp" data-t="02:36:08">[02:36:08]</a>.
 
-### Generating Traces
-*   Running an agent that uses [[mCPs Role in Augmented LLM Systems | MCP servers]] to access tools <a class="yt-timestamp" data-t="00:10:00">[00:10:00]</a>.
-*   Collecting "traces" or logs from high-quality runs of the agent <a class="yt-timestamp" data-t="00:14:00">[00:14:00]</a>. These traces capture the interaction between the LLM, the tools, and the full conversation history <a class="yt-timestamp" data-t="12:12:06">[12:12:06]</a>.
-*   Traces include the tools used and the multi-turn conversations <a class="yt-timestamp" data-t="00:29:00">[00:29:00]</a>.
-*   For models like Quen, reasoning tokens are parsed separately and saved in the traces <a class="yt-timestamp" data-t="06:52:27">[06:52:27]</a>.
+## Technical Structure and Features
 
-### Data Preparation for Fine-tuning
-*   Traces are logged with two parts: messages and tools <a class="yt-timestamp" data-t="12:12:06">[12:12:06]</a>.
-*   **Unrolling the data:** For multi-turn conversations (e.g., three back-and-forths), the data is "unrolled" into multiple rows, allowing training on each turn as a distinct example <a class="yt-timestamp" data-t="18:11:00">[18:11:00]</a>. This provides more training data from a single interaction <a class="yt-timestamp" data-t="18:28:00">[18:28:00]</a>.
-*   The raw messages and tools are templated into a single long string for training <a class="yt-timestamp" data-t="25:12:00">[25:12:00]</a>.
+The [[technical_structure_and_features_of_mcp | MCP specification]] includes:
+*   **JSON RPC Specification:** A standard way of sending messages and communicating between context providers and code interacting with models <a class="yt-timestamp" data-t="02:52:38">[02:52:38]</a>.
+*   **Global Transport Standard:** Deals with aspects like streamable HTTP, OAuth 2.1, and session management for universal communication <a class="yt-timestamp" data-t="02:53:02">[02:53:02]</a>.
+*   **Tools:** Reflect actions and are mostly easy to map to function calling <a class="yt-timestamp" data-t="03:07:17">[03:07:17]</a>. While powerful, too many tools or tools from too many domains can confuse AI <a class="yt-timestamp" data-t="03:07:52">[03:07:52]</a>.
+*   **Resources:** Provide a semantic layer to return references to files or data, rather than large direct files, allowing LLMs to follow up on them or users to act upon them <a class="yt-timestamp" data-t="03:10:30">[03:10:30]</a>.
+*   **Prompts:** Used in the protocol to guide model behavior <a class="yt-timestamp" data-t="03:05:28">[03:05:28]</a>.
+*   **Sampling:** Allows a server to request LLM completions from the client <a class="yt-timestamp" data-t="03:11:55">[03:11:55]</a>. This is a progressive enhancement for tasks like summarizing resources or formatting web content <a class="yt-timestamp" data-t="03:12:26">[03:12:26]</a>.
+*   **Elicitation:** Enables servers to ask for more information from end-users, for instance, to clarify "best flight" as "cheapest" or "fastest" <a class="yt-timestamp" data-t="02:42:30">[02:42:30]</a>. This adds more statefulness to tools <a class="yt-timestamp" data-t="03:16:30">[03:16:30]</a>.
+*   **Dynamic Discovery:** Allows a server to dynamically offer new tools to the client, depending on context (e.g., a "battle" tool appearing only when a monster is present in a game) <a class="yt-timestamp" data-t="03:09:16">[03:09:16]</a>.
+*   **Roots:** Similar to dynamic discovery, new roots can be sent as the client's workspace changes <a class="yt-timestamp" data-t="03:12:49">[03:12:49]</a>.
 
-### Fine-Tuning the Model
-*   The collected traces are used to fine-tune and improve the performance of the LLM <a class="yt-timestamp" data-t="00:18:00">[00:18:00]</a>.
-*   This typically involves training adapters, such as Low-Rank Adapters (LoRA), on specific parts of the model <a class="yt-timestamp" data-t="23:50:00">[23:50:00]</a>.
-*   Fine-tuning with even a small number of high-quality traces (e.g., 50-100) can lead to significant performance improvements, especially for specific, common, or important use cases <a class="yt-timestamp" data-t="34:48:00">[34:48:00]</a>.
-*   Supervised fine-tuning (SFT) on curated traces is beneficial even if reinforcement learning (RL) is planned later, as it provides a strong starting point and speeds up training <a class="yt-timestamp" data-t="32:23:00">[32:23:00]</a>.
+## Adoption and Impact
 
-## Prompt Structure for MCP Interaction
-A typical prompt structure for an LLM interacting via MCP includes <a class="yt-timestamp" data-t="03:46:27">[03:46:27]</a>:
-*   **System Message**: This initial message instructs the LLM on how to make tool calls, typically by passing JSON objects within specific XML tags (e.g., `<tool_code>`...`</tool_code>`) <a class="yt-timestamp" data-t="03:56:27">[03:56:27]</a>. It also informs the LLM about the available tools (e.g., browser) <a class="yt-timestamp" data-t="04:15:27">[04:15:27]</a>.
-*   **User Message**: The user's input or request to the agent (e.g., "navigate to trellis.com and read out the top two lines") <a class="yt-timestamp" data-t="04:33:27">[04:33:27]</a>.
-*   **Assistant Response**: The LLM's response, which may involve internal "thinking" (not always displayed), followed by a decision to call a tool or provide a text-based answer <a class="yt-timestamp" data-t="04:38:27">[04:38:27]</a>.
-*   **Tool Response**: The output from the tool, such as an accessibility tree (a text description of a webpage) from a browser navigation tool <a class="yt-timestamp" data-t="08:51:27">[08:51:27]</a>. This response can be truncated if very long to manage context window limitations <a class="yt-timestamp" data-t="09:09:00">[09:09:00]</a>.
+Initially, there was confusion about MCP's purpose and its necessity given existing tool-calling capabilities <a class="yt-timestamp" data-t="02:36:38">[02:36:38]</a>. The turning point for widespread adoption occurred when Cursor adopted MCP, followed by other coding tools like VS Code and Sourcegraph <a class="yt-timestamp" data-t="02:37:18">[02:37:18]</a>. More recently, major AI labs including Google, Microsoft, and OpenAI have also adopted MCP, making it increasingly standard <a class="yt-timestamp" data-t="02:37:50">[02:37:50]</a>.
 
-While many tools might be available (e.g., Playwright offers 25 browser tools like navigate, switch tab, click), for open-source models, it's generally recommended to limit the number of tools (e.g., 25-50) to prevent the LLM from becoming confused by excessive context <a class="yt-timestamp" data-t="10:01:00">[10:01:00]</a>.
+As an [[model_context_protocol_and_tool_integration | industry standard]], MCP simplifies development by providing a single approach for engineers, allowing them to focus on unique problems rather than plumbing integrations <a class="yt-timestamp" data-t="02:54:30">[02:54:30]</a>. Its design preemptively solves common problems, such as integrating different billing models or managing token limits through sampling primitives <a class="yt-timestamp" data-t="02:55:54">[02:55:54]</a>.
+
+For organizations, MCP facilitates building integrations once and using them anywhere, promoting portability of credentials and centralized auditing <a class="yt-timestamp" data-t="02:57:42">[02:57:42]</a>. For example, Anthropic uses an "MCP gateway" as shared infrastructure to provide a single entry point for various services, handling credential management and rate limiting <a class="yt-timestamp" data-t="02:58:07">[02:58:07]</a>.
+
+The rise of MCP signifies a fundamental shift in the internet's economy, where tool calls are becoming the "new clicks" <a class="yt-timestamp" data-t="02:31:05">[02:31:05]</a>.
+
+## Challenges and Considerations
+
+Despite its benefits, [[integrating_ai_with_applications_using_model_context_protocol_mcp | integrating AI with applications using Model Context Protocol MCP]] presents challenges:
+*   **OAUTH 2.1 Implementation:** While standard, some developers find it complex, with limited support among providers <a class="yt-timestamp" data-t="03:25:10">[03:25:10]</a>. However, it allows for enterprise-grade authorization <a class="yt-timestamp" data-t="03:14:47">[03:14:47]</a>.
+*   **API Wrapper Syndrome:** A common mistake is simply wrapping existing APIs as MCP tools. This leads to poor results because models struggle to reason about giant, undifferentiated JSON payloads <a class="yt-timestamp" data-t="03:25:57">[03:25:57]</a>. MCP tools should be designed with the model and end-user in mind, treating the model as a user and focusing on clear, structured output (e.g., Markdown) <a class="yt-timestamp" data-t="02:46:04">[02:46:04]</a>.
+*   **Client Support:** Not all clients fully support the MCP specification, leading to inconsistencies. Continuous updates and feedback from the community are crucial to close this "interoperability gap" <a class="yt-timestamp" data-t="03:17:05">[03:17:05]</a>.
+*   **Debugging and Logging:** Early development can be challenging due to difficulties in debugging and logging MCP server interactions <a class="yt-timestamp" data-t="03:13:17">[03:13:17]</a>. Tools like `inspector` and VS Code's dev mode are being developed to improve this <a class="yt-timestamp" data-t="02:42:14">[02:42:14]</a>.
+*   **Cost Management:** Since the client often bears the cost, developers need to be mindful of token usage when designing tools <a class="yt-timestamp" data-t="03:31:52">[03:31:52]</a>.
+*   **Security:** Deploying random MCP tools in an organization is risky due to prompt injection vulnerabilities and the potential for exfiltrating private data <a class="yt-timestamp" data-t="03:28:40">[03:28:40]</a>. Strong security, observability, and auditing measures are essential <a class="yt-timestamp" data-t="02:48:25">[02:48:25]</a>.
+
+## Future Outlook
+
+The [[future_developments_and_roadmap_for_mcp | future developments and roadmap for mCP]] are focused on enhancing agent experience and simplifying server building:
+*   **Agent Experience:** Focus on features like elicitation to allow servers to request more information from users <a class="yt-timestamp" data-t="02:42:24">[02:42:24]</a>.
+*   **Registry API:** Will make it easier for models to find MCPs that weren't initially provided, furthering model agency <a class="yt-timestamp" data-t="02:43:08">[02:43:08]</a>.
+*   **Developer Experience:** Continued efforts to provide open-source examples and best practices for building MCPs <a class="yt-timestamp" data-t="02:43:28">[02:43:28]</a>.
+*   **Server Building Simplification:** More tools for hosting, testing, and evaluation of MCP servers, for both enterprises and indie developers <a class="yt-timestamp" data-t="02:46:52">[02:46:52]</a>.
+*   **Automated MCP Server Generation:** A "moonshot" goal where models might eventually be able to write their own MCPs dynamically <a class="yt-timestamp" data-t="02:47:40">[02:47:40]</a>.
+*   **Openness and Governance:** Ensuring MCP remains an open standard forever, with ongoing investment in its governance <a class="yt-timestamp" data-t="02:43:54">[02:43:54]</a>.
+
+The vision for MCP is to enable rich, stateful interactions between agents, leveraging the full specification beyond just simple tool calls <a class="yt-timestamp" data-t="03:07:09">[03:07:09]</a>. This includes using resources for semantic layers, dynamic discovery, and sampling for progressive enhancements <a class="yt-timestamp" data-t="03:10:47">[03:10:47]</a>. The ultimate goal is to enable the development of "action-oriented, context-aware, semantic-aware servers" using the full potential of the protocol <a class="yt-timestamp" data-t="03:17:23">[03:17:23]</a>.

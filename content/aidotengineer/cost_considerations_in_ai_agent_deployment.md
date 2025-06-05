@@ -1,0 +1,24 @@
+---
+title: Cost considerations in AI agent deployment
+videoId: d5EltXhbcfA
+---
+
+From: [[aidotengineer]] <br/> 
+
+AI agents are gaining significant interest across product development, industry, and academia <a class="yt-timestamp" data-t="00:00:31">[00:00:31]</a>. While rudimentary agents are already widely used and successful, such as tools like ChatGPT and Claude that function as basic agents with input/output filters and task execution capabilities <a class="yt-timestamp" data-t="00:01:17">[00:01:17]</a>, more ambitious visions for AI agents are far from being fully realized <a class="yt-timestamp" data-t="00:01:59">[00:01:59]</a>. A key challenge preventing the widespread deployment of these agents is effectively understanding and managing their associated costs <a class="yt-timestamp" data-t="00:02:28">[00:02:28]</a>.
+
+## The Unaccounted Cost of AI Agents
+
+Unlike traditional language models where evaluation costs are often bounded by context window length, AI agents can take open-ended actions in the real world, meaning there is no inherent ceiling to their potential cost <a class="yt-timestamp" data-t="00:08:23">[00:08:23]</a>. This means that [[cost_and_efficiency_in_deploying_ai_systems | cost]] needs to be a primary consideration in all evaluations of AI agents <a class="yt-timestamp" data-t="00:08:37">[00:08:37]</a>. Without including cost alongside accuracy or performance metrics, it becomes difficult to truly understand how well an agent operates <a class="yt-timestamp" data-t="00:08:46">[00:08:46]</a>.
+
+The Holistic Agent Leaderboard (HAL) developed at Princeton aims to address these issues by evaluating agents on multiple dimensions, including [[cost_and_efficiency_in_deploying_ai_systems | cost]] and accuracy <a class="yt-timestamp" data-t="00:09:52">[00:09:52]</a>. For instance, in a comparison between Cloud 3.5 and OpenAI's O1 models for reproducibility tasks, Cloud 3.5 scored similarly in performance but cost significantly less ($57 vs. $664) <a class="yt-timestamp" data-t="00:10:10">[00:10:10]</a>. For AI engineers, a model that costs ten times less while performing comparably is the obvious choice <a class="yt-timestamp" data-t="00:10:31">[00:10:31]</a>.
+
+## [[future_trends_in_ai_agent_pricing | The Jevons Paradox and AI Agent Pricing]]
+
+While the cost of running LLMs has dropped drastically—by over two orders of magnitude from Text-Davinci-003 in 2022 to GPT-4o mini today <a class="yt-timestamp" data-t="00:10:57">[00:10:57]</a>—[[scaling_ai_agents_in_production | scaling]] applications built with these models remains costly <a class="yt-timestamp" data-t="00:11:19">[00:11:19]</a>. For AI engineers, the potential for prototypes to quickly accumulate thousands of dollars in costs acts as a barrier to iteration and release <a class="yt-timestamp" data-t="00:11:27">[00:11:27]</a>.
+
+It is predicted that even as inference costs for LLM calls continue to decline, the overall cost of running agents will increase due to the Jevons Paradox <a class="yt-timestamp" data-t="00:11:47">[00:11:47]</a>. This economic theory suggests that as the efficiency of resource use increases, the rate of consumption of that resource also increases <a class="yt-timestamp" data-t="00:11:51">[00:11:51]</a>. Historically, this has been observed with coal mining (reduced cost led to increased usage) and ATM machines (easier installation led to more bank branches and tellers) <a class="yt-timestamp" data-t="00:11:53">[00:12:01]</a>. Similarly, as the [[factors_affecting_ai_agent_pricing | cost of language models]] drops, their usage will likely increase, driving up overall expenditures <a class="yt-timestamp" data-t="00:12:26">[00:12:26]</a>. Therefore, accounting for [[costeffective_ai_strategies | cost]] in agent evaluations will remain crucial for the foreseeable future <a class="yt-timestamp" data-t="00:12:30">[00:12:30]</a>.
+
+## Conclusion: A Reliability Engineering Mindset
+
+The primary challenge for AI engineers is to develop software optimizations and abstractions that effectively manage the inherent stochastic nature of components like LLMs <a class="yt-timestamp" data-t="00:17:31">[00:17:31]</a>. This requires a shift in mindset, viewing AI engineering less as software or machine learning engineering and more as reliability engineering <a class="yt-timestamp" data-t="00:17:54">[00:17:54]</a>. Just as early computing engineers focused on fixing reliability issues with systems like the ENIAC computer to make them usable <a class="yt-timestamp" data-t="00:18:41">[00:18:41]</a>, current AI engineers must prioritize addressing the reliability issues that affect every agent using stochastic models <a class="yt-timestamp" data-t="00:19:09">[00:19:09]</a>. This ensures the next wave of computing is as reliable for end-users as possible <a class="yt-timestamp" data-t="00:19:27">[00:19:27]</a>.

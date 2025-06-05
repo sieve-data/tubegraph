@@ -1,0 +1,28 @@
+---
+title: Multimodal interaction in apps
+videoId: y6L5RkEqQ8g
+---
+
+From: [[aidotengineer]] <br/> 
+
+ChatGPT, despite being one of the fastest-growing applications in history, presents a confusing user experience, particularly concerning its [[the_evolution_of_ai_interfaces_and_user_interaction | interaction]] methods <a class="yt-timestamp" data-t="00:00:00">[00:00:00]</a>, <a class="yt-timestamp" data-t="00:00:08">[00:00:08]</a>. While it offers both voice-to-text and voice-to-voice options, these feel like separate applications built by different companies <a class="yt-timestamp" data-t="00:00:20">[00:00:20]</a>, <a class="yt-timestamp" data-t="00:01:18">[00:01:18]</a>. This phenomenon, termed "shipping the org chart" by Scott Hansselman, occurs when internal organizational structures are reflected in the disjointed user experience of a product <a class="yt-timestamp" data-t="00:01:22">[00:01:22]</a>, <a class="yt-timestamp" data-t="00:01:42">[00:01:42]</a>. The result is a "science fair full of potential options" that lack cohesion <a class="yt-timestamp" data-t="00:01:59">[00:01:59]</a>.
+
+## Enhancing Multimodal Interaction
+
+To address these issues, two key changes are proposed for apps like ChatGPT:
+1.  **Concurrent Voice and Text Interaction** Allowing users to interact using both voice and text simultaneously <a class="yt-timestamp" data-t="00:02:14">[00:02:14]</a>.
+2.  **Intelligent Model Selection** Smartly choosing the appropriate underlying AI model based on the user's request <a class="yt-timestamp" data-t="00:02:16">[00:02:16]</a>.
+
+These improvements can be achieved using off-the-shelf tools and [[ai_native_development_patterns | AI-native development patterns]] <a class="yt-timestamp" data-t="00:02:20">[00:02:20]</a>. For instance, "40 Realtime" can provide live audio chat, while "tool calls" can manage the rest <a class="yt-timestamp" data-t="00:02:23">[00:02:23]</a>, <a class="yt-timestamp" data-t="00:02:26">[00:02:26]</a>. This allows the AI to send text for longer details like links or drafts, or hand off complex requests to a smarter model for a more detailed response <a class="yt-timestamp" data-t="00:02:29">[00:02:29]</a>, <a class="yt-timestamp" data-t="00:02:34">[00:02:34]</a>.
+
+### Redesigned User Interface
+
+An improved interface for [[multimodal_ai_and_the_future_of_human_interaction | multimodal AI]] interaction would feature a dedicated voice button that transitions to a voice mode <a class="yt-timestamp" data-t="00:02:40">[00:02:40]</a>, <a class="yt-timestamp" data-t="00:02:42">[00:02:42]</a>. Within this mode, alongside standard call controls (mute, end call), a new "chat" button would pull up a panel similar to a messaging app like iMessage <a class="yt-timestamp" data-t="00:02:49">[00:02:49]</a>, <a class="yt-timestamp" data-t="00:02:51">[00:02:51]</a>. This allows users to text simultaneously while on a voice call, with call controls at the top, a reminder of the initial query, and a text response area for detailed outputs like email drafts <a class="yt-timestamp" data-t="00:02:56">[00:02:56]</a>, <a class="yt-timestamp" data-t="00:03:00">[00:03:00]</a>.
+
+### Adaptive AI Model Selection
+
+The system's ability to adapt to the complexity of a user's query is crucial for [[building_user_experiences_with_ai | building user experiences with AI]] <a class="yt-timestamp" data-t="00:03:10">[00:03:10]</a>. For instance, in a developer tool like Warp Terminal, simple requests (e.g., "undo my last commit") can be handled by a specific coding agent that runs commands <a class="yt-timestamp" data-t="00:03:14">[00:03:14]</a>, <a class="yt-timestamp" data-t="00:03:21">[00:03:21]</a>. However, more complex questions (e.g., "refactor this entire codebase to use Flutter") would trigger a reasoning model to generate a plan and ensure code functionality <a class="yt-timestamp" data-t="00:03:30">[00:03:30]</a>, <a class="yt-timestamp" data-t="00:03:37">[00:03:37]</a>. This pattern, using heuristics, can hand off to a reasoning model for tasks requiring detailed pros and cons, indicating the thinking time, and returning a comprehensive response <a class="yt-timestamp" data-t="00:03:44">[00:03:44]</a>.
+
+### Implementation with APIs
+
+Implementing [[multimodal_models_and_omni_models_development | multimodal models]] and [[voice_and_multimodal_ai_agents | multimodal AI agents]] can be done with off-the-shelf APIs <a class="yt-timestamp" data-t="00:03:57">[00:03:57]</a>. An example demonstrates a user asking for a park link via voice, then querying its history. The AI responds with a link in text and a deeper historical overview, also in text <a class="yt-timestamp" data-t="00:04:00">[00:04:00]</a>, <a class="yt-timestamp" data-t="00:04:10">[00:04:10]</a>, <a class="yt-timestamp" data-t="00:04:18">[00:04:18]</a>, <a class="yt-timestamp" data-t="00:04:25">[00:04:25]</a>. This relies on a "send chat message" tool, which intelligently sends details via text when appropriate, simply based on its description without complex system prompts <a class="yt-timestamp" data-t="00:04:37">[00:04:37]</a>, <a class="yt-timestamp" data-t="00:04:46">[00:04:46]</a>. Similarly, for reasoning models, another tool is invoked when a user wants to "go deeper" on a topic, sending details to the model and allowing it to respond or dump information directly into the client <a class="yt-timestamp" data-t="00:04:57">[00:04:57]</a>, <a class="yt-timestamp" data-t="00:05:01">[00:05:01]</a>. The source code for such an implementation is available on GitHub under "fix gpt" <a class="yt-timestamp" data-t="00:05:13">[00:05:13]</a>.

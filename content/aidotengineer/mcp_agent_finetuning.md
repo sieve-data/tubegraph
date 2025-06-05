@@ -5,96 +5,70 @@ videoId: Nqb7JTx0Pqo
 
 From: [[aidotengineer]] <br/> 
 
-[[mcp_agent_finetuning | MCP agent fine-tuning]] is a workshop topic that focuses on running an agent with access to tools via [[model_context_protocol_mcp | MCP]] servers, taking traces or logs from high-quality runs, and using them to fine-tune and improve a model's performance <a class="yt-timestamp" data-t="00:00:08">[00:00:08]</a>. By the end of such a workshop, participants should be able to generate high-quality [[model_context_protocol_mcp | MCP]] agent reasoning traces, save tools and multi-turn traces, fine-tune models like Quen 3, and evaluate the performance improvement <a class="yt-timestamp" data-t="00:00:24">[00:00:24]</a>. All materials for this process are available online in the Trellis Research AI Worlds Fair 2025 repository, specifically in the `MCP agent fine-tune` folder <a class="yt-timestamp" data-t="00:00:45">[00:00:45]</a>.
+This article provides a guide to [[finetuning_language_models_with_mcp | finetuning language models with the Model Context Protocol (MCP)]], focusing on improving an agent's performance by leveraging high-quality reasoning traces and tool interactions <a class="yt-timestamp" data-t="00:15:00">[00:15:00]</a>. The process involves generating agent reasoning traces, saving multi-turn conversations and tool data, [[finetuning_ai_models_for_better_performance | finetuning a model]] (e.g., Quen 3), and evaluating the improved performance <a class="yt-timestamp" data-t="00:26:00">[00:26:00]</a>.
 
-## Introduction to [[model_context_protocol_mcp | Model Context Protocol (MCP)]]
+## Introduction to MCP
 
-[[model_context_protocol_mcp | MCP]], or [[model_context_protocol_mcp | Model Context Protocol]], is a protocol designed for providing services, primarily access to tools, to Large Language Models (LLMs) <a class="yt-timestamp" data-t="00:01:00">[00:01:00]</a>, <a class="yt-timestamp" data-t="00:01:17">[00:01:17]</a>.
+[[introduction_to_model_context_protocol_mcp | MCP (Model Context Protocol)]] is a protocol designed to provide services to Large Language Models (LLMs), primarily granting them access to tools <a class="yt-timestamp" data-t="01:20:00">[01:20:00]</a>. While the focus here is on browser use (LLMs navigating websites), MCPs exist for other services like Stripe, GitHub, and Gmail <a class="yt-timestamp" data-t="01:29:00">[01:29:00]</a>.
 
-### How [[model_context_protocol_mcp | MCP]] Works
-[[model_context_protocol_mcp | MCP]] performs several key functions <a class="yt-timestamp" data-t="00:01:44">[00:01:44]</a>:
-*   **Information Storage**: It stores information about tools, which helps the LLM understand how to make calls to or use them <a class="yt-timestamp" data-t="00:01:47">[00:01:47]</a>.
-*   **Tool Execution**: The [[model_context_protocol_mcp | MCP]] tool service also runs the tools. When an LLM decides to make a call, the [[model_context_protocol_mcp | MCP]] service executes the action (e.g., adding numbers, navigating a page) <a class="yt-timestamp" data-t="00:01:57">[00:01:57]</a>.
-*   **Response Return**: It then returns a response containing details of the result or helpful guidance for the LLM, allowing the LLM to loop back for another tool call or provide a text-based response <a class="yt-timestamp" data-t="00:02:07">[00:02:07]</a>.
+MCP performs several key functions <a class="yt-timestamp" data-t="01:44:00">[01:44:00]</a>:
+*   **Information Store**: It stores information about tools, helping the LLM understand how to make calls to them <a class="yt-timestamp" data-t="01:47:00">[01:47:00]</a>.
+*   **Tool Execution**: The [[technical_structure_and_features_of_mcp | MCP tool service]] runs the tools itself <a class="yt-timestamp" data-t="01:55:00">[01:55:00]</a>.
+*   **Response Return**: After an action, it returns a response containing the result or guidance for the LLM, enabling the LLM to make further tool calls or provide a text-based response <a class="yt-timestamp" data-t="02:07:00">[02:07:00]</a>.
 
-For example, a common tool is browser use, enabling an LLM to navigate websites. Other [[model_context_protocol_mcp | MCP]]s exist for services like Stripe, GitHub, and Gmail <a class="yt-timestamp" data-t="00:01:26">[00:01:26]</a>.
+## Integrating AI with Applications using MCP
 
-### API Integration
-To facilitate interaction, the language model is exposed as an API endpoint, typically in an OpenAI-compatible format <a class="yt-timestamp" data-t="00:02:25">[00:02:25]</a>. This integration requires specific conversions and translations <a class="yt-timestamp" data-t="00:02:51">[00:02:51]</a>:
-1.  **Tool Information Conversion**: Tool information from [[model_context_protocol_mcp | MCP]] services must be converted into lists of JSON tools, as expected by OpenAI endpoints <a class="yt-timestamp" data-t="00:03:02">[00:03:02]</a>.
-2.  **Tool Response Formatting**: The tool response needs to be converted into a format the language model expects <a class="yt-timestamp" data-t="00:03:11">[00:03:11]</a>.
-3.  **Tool Call Detection**: When the language model calls a tool by emitting tokens or text, the system must detect and extract the tool call, often in a specific format like Hermes, even if using a different model like Quen <a class="yt-timestamp" data-t="00:03:21">[00:03:21]</a>.
+To enable an LLM to interact with MCP services, it's typically exposed as an OpenAI-style API endpoint <a class="yt-timestamp" data-t="02:29:00">[02:29:00]</a>. This integration requires several points of translation <a class="yt-timestamp" data-t="02:51:00">[02:51:00]</a>:
+1.  **Tool Information Conversion**: MCP tool information must be converted into JSON lists, as expected by OpenAI endpoints <a class="yt-timestamp" data-t="03:02:00">[03:02:00]</a>.
+2.  **Tool Response Formatting**: Tool responses need to be converted into a format the language model expects <a class="yt-timestamp" data-t="03:11:00">[03:11:00]</a>.
+3.  **Tool Call Detection**: When the LLM emits tokens or text to call a tool, the system must detect and extract this call, typically in a specific format like Hermes <a class="yt-timestamp" data-t="03:21:00">[03:21:00]</a>.
 
-### Prompt Structure
-A typical prompt sent to the LLM begins with a system message, describing how to make tool calls (e.g., by passing JSONs within `<tool>` XML tags) <a class="yt-timestamp" data-t="00:03:51">[00:03:51]</a>. The LLM is informed about available tools and the required format for function calls (e.g., JSON inside `<tool_call>` tags) <a class="yt-timestamp" data-t="00:04:11">[00:04:11]</a>. Following the system message, a user message initiates a task (e.g., "navigate to trellis.com"). The assistant then responds, potentially by thinking and calling a tool (e.g., navigating a browser) or by providing a text-based answer if the task is complete <a class="yt-timestamp" data-t="00:04:33">[00:04:33]</a>.
+### Prompt Structure and Tool Calls
 
-## Data Collection for Fine-tuning
+The interaction with the LLM is often managed through a specific prompt structure <a class="yt-timestamp" data-t="03:42:00">[03:42:00]</a>. A pseudo-prompt typically includes <a class="yt-timestamp" data-t="03:51:00">[03:51:00]</a>:
+*   **System Message**: Describes how the LLM should make tool calls (e.g., by passing JSONs within `<tool>` XML tags) <a class="yt-timestamp" data-t="03:56:00">[03:56:00]</a>.
+*   **User Message**: The initial query or instruction from the user <a class="yt-timestamp" data-t="04:33:00">[04:33:00]</a>.
+*   **Assistant Response**: The LLM's response, which might involve thinking (generating "think tokens") and then deciding to call a tool or provide a text-based answer <a class="yt-timestamp" data-t="04:38:00">[04:38:00]</a>.
 
-The process starts with data collection, where the agent is run to generate sample traces <a class="yt-timestamp" data-t="00:05:30">[00:05:30]</a>.
+## [[finetuning_language_models_with_mcp | Finetuning Language Models with MCP]]
 
-### Setting Up the Endpoint
-An OpenAI-style endpoint is required <a class="yt-timestamp" data-t="00:05:40">[00:05:40]</a>. For generating traces, it is recommended to use a model consistent with the one intended for fine-tuning, such as a Quen type agent, because OpenAI models do not share their thinking traces <a class="yt-timestamp" data-t="00:05:54">[00:05:54]</a>.
+The process of [[finetuning_language_models_with_mcp | finetuning language models with MCP]] involves several stages, from data collection to model training and evaluation.
 
-A 30 billion parameter Quen model (mixture of experts) is suggested, which can be run on services like RunPod using a one-click affiliate template <a class="yt-timestamp" data-t="00:06:13">[00:06:13]</a>.
+### 1. Data Collection
 
-Key configurations for the endpoint include <a class="yt-timestamp" data-t="00:06:45">[00:06:45]</a>:
-*   **Docker Image**: Using a Docker image for VLM.
-*   **Model**: Running the Quen model.
-*   **Reasoning**: Enabling reasoning and a reasoning parser to detect and extract "think tokens" as JSON <a class="yt-timestamp" data-t="00:06:52">[00:06:52]</a>.
-*   **Max Model Length**: Setting the max model length to 32,000.
-*   **Port**: Hosting on port 8,000, which needs to be exposed <a class="yt-timestamp" data-t="00:07:11">[00:07:11]</a>.
-*   **Automatic Tool Choice**: Enabling the LLM to decide whether and which tool to call <a class="yt-timestamp" data-t="00:07:16">[00:07:16]</a>.
-*   **Tool Parser**: Specifying how to extract the tool call into JSON format (e.g., Hermes format) <a class="yt-timestamp" data-t="00:07:22">[00:07:22]</a>.
+The first step is to generate high-quality traces from an MCP agent <a class="yt-timestamp" data-t="05:30:00">[05:30:00]</a>.
+*   **Endpoint Setup**: An OpenAI-style endpoint is required. For data generation, it's recommended to use a model that shares its reasoning traces, such as a Quen model (e.g., the 30B parameter Quen 3 model), as OpenAI models do not <a class="yt-timestamp" data-t="05:40:00">[05:40:00]</a>.
+    *   This can be run on services like RunPod using a one-click affiliate template <a class="yt-timestamp" data-t="06:22:00">[06:22:00]</a>. Key configurations include enabling reasoning and a reasoning parser to extract thinking processes into JSON, setting max model length, and enabling automatic tool choice <a class="yt-timestamp" data-t="06:52:00">[06:52:00]</a>.
+    *   The tool parser needs to be specified, such as the Hermes format, to extract tool calls into JSON <a class="yt-timestamp" data-t="07:22:00">[07:22:00]</a>.
+*   **Running the Agent**: The agent interacts with MCP servers, which can be configured to load various tools (e.g., Playwright offers 25 browser-related tools like navigate, switch tab, etc.) <a class="yt-timestamp" data-t="09:40:00">[09:40:00]</a>. For open-source models, it's generally recommended to use 25-50 tools to avoid confusion <a class="yt-timestamp" data-t="10:01:00">[10:01:00]</a>.
+*   **Trace Logging**: Agent runs generate logs with two parts: `messages` (full conversation history) and `tools` (list of available tools) <a class="yt-timestamp" data-t="12:06:00">[12:06:00]</a>. These traces are crucial for fine-tuning <a class="yt-timestamp" data-t="12:15:00">[12:15:00]</a>.
+*   **Trace Cleaning/Adjustment**: If an agent's trace isn't ideal, it can be manually adjusted (e.g., deleting user turns, combining sections) or guided with a system prompt during generation to produce cleaner traces <a class="yt-timestamp" data-t="15:12:00">[15:12:00]</a>. The goal is to obtain high-quality traces for training data <a class="yt-timestamp" data-t="16:23:00">[16:23:00]</a>.
 
-### Running the Agent and Collecting Traces
-The agent is run using the specified model and base URL (containing the pod ID and port number) <a class="yt-timestamp" data-t="00:08:26">[00:08:26]</a>. A `truncate` argument can be used to limit the length of tool responses, such as accessibility trees returned by browser navigation tools <a class="yt-timestamp" data-t="00:08:42">[00:08:42]</a>.
+### 2. Data Preparation for Fine-tuning
 
-The agent starts by loading configured [[model_context_protocol_mcp | MCP]] servers and their tools (e.g., Playwright offers 25 browser tools like navigate, resize, etc.) <a class="yt-timestamp" data-t="00:09:37">[00:09:37]</a>. For open-source models, it's generally recommended to use no more than 25-50 tools to avoid confusing the LLM <a class="yt-timestamp" data-t="00:10:01">[00:10:01]</a>.
+After collecting traces, the data needs to be prepared for training <a class="yt-timestamp" data-t="17:48:00">[17:48:00]</a>.
+*   **Push to Hub**: Traces (tools and conversations) are pushed to a dataset on Hugging Face Hub <a class="yt-timestamp" data-t="17:51:00">[17:51:00]</a>.
+*   **Unrolling Data**: For multi-turn conversations, the data is "unrolled" into multiple rows. For example, a three-turn conversation becomes three rows, allowing the model to train on different lengths of conversational context <a class="yt-timestamp" data-t="18:11:00">[18:11:00]</a>. This is particularly useful because the Quen template only includes reasoning from the most recent turn <a class="yt-timestamp" data-t="18:34:00">[18:34:00]</a>.
+*   **Chat Template**: The `messages` and `tools` data are passed into a chat template, which converts them into a single long string of text, including system messages, tool descriptions, user messages, assistant responses, and tool calls <a class="yt-timestamp" data-t="23:40:00">[23:40:00]</a>.
 
-When the agent runs a task (e.g., "navigate to trellis.com and read out the top two lines"), the user message goes to the LLM, which thinks, generates thinking tokens (not shown for brevity), and then proposes a tool call <a class="yt-timestamp" data-t="00:10:15">[00:10:15]</a>. After user approval, a browser may pop up (if not in headless mode), and the accessibility structure of the page is sent to the LLM for processing <a class="yt-timestamp" data-t="00:10:50">[00:10:50]</a>.
+### 3. Fine-tuning the Model
 
-Logs are generated by default when the agent runs, containing two parts: `messages` (full conversation history) and `tools` (a list of available tools) <a class="yt-timestamp" data-t="00:12:06">[00:12:06]</a>. These logs are crucial for fine-tuning <a class="yt-timestamp" data-t="00:12:15">[00:12:15]</a>.
+[[finetuning_ai_models_for_better_performance | Finetuning AI models for better performance]] involves loading the model, preparing it for training, and running the training process.
+*   **Model Loading**: A smaller model (e.g., 4B parameter Quen model) is loaded for fine-tuning. Max sequence length should be set appropriately (e.g., 32,000) <a class="yt-timestamp" data-t="23:16:00">[23:16:00]</a>.
+*   **Applying LoRA Adapters**: To save VRAM and train efficiently, LoRA (Low Rank Adapters) are applied to specific parts of the model (e.g., attention modules, MLP layers). This means only a small percentage of parameters are trained, while the main weights remain frozen <a class="yt-timestamp" data-t="23:50:00">[23:50:00]</a>.
+*   **Training Parameters**:
+    *   **Batch Size**: Often set to one due to VRAM limitations, though larger batch sizes (e.g., 32) are ideal for smoother training <a class="yt-timestamp" data-t="28:34:00">[28:34:00]</a>.
+    *   **Epochs**: Often trained for a single epoch with a small dataset <a class="yt-timestamp" data-t="28:48:00">[28:48:00]</a>.
+    *   **Learning Rate**: Relatively high for small models <a class="yt-timestamp" data-t="28:58:00">[28:58:00]</a>.
+    *   **Optimizer**: AtomW 8-bit optimizer can be used to save VRAM <a class="yt-timestamp" data-t="29:03:00">[29:03:00]</a>.
+*   **Manual Traces vs. RL**: It's highly recommended to start with supervised fine-tuning (SFT) using curated manual traces before considering reinforcement learning (RL) methods like GRPO. High-quality SFT data can significantly speed up subsequent RL training by ensuring the model generates useful traces early on <a class="yt-timestamp" data-t="32:00:00">[32:00:00]</a>.
 
-### Curating Traces
-For fine-tuning, the goal is to obtain nice, tidy traces <a class="yt-timestamp" data-t="00:16:23">[00:16:23]</a>.
-*   **Manual Adjustment**: Traces can be manually adjusted if the agent doesn't follow the desired path, or parts of user and assistant turns can be combined <a class="yt-timestamp" data-t="00:15:12">[00:15:12]</a>.
-*   **System Prompts**: A system prompt can be passed to guide the LLM more directly on how to perform a task and which tools to call, improving trace quality without needing to include the system prompt in the final training data <a class="yt-timestamp" data-t="00:16:03">[00:16:03]</a>.
+### 4. Evaluation and Deployment
 
-### Pushing Data to Hugging Face Hub
-Collected traces are pushed to Hugging Face Hub to create a dataset for fine-tuning, which includes both tools and conversations <a class="yt-timestamp" data-t="00:17:51">[00:17:51]</a>.
+*   **Pre- and Post-Finetuning Inference**: Run inference on the model before and after fine-tuning to observe performance changes, especially on multi-step tasks where smaller, untrained models typically struggle <a class="yt-timestamp" data-t="25:54:00">[25:54:00]</a>.
+*   **Model Saving and Pushing**: After training, the fine-tuned model and tokenizer can be saved and pushed to Hugging Face Hub, optionally merged to 16 bits <a class="yt-timestamp" data-t="30:30:00">[30:30:00]</a>. This allows direct deployment of the fine-tuned model as an inference endpoint by simply updating the model name in the RunPod configuration <a class="yt-timestamp" data-t="30:46:00">[30:46:00]</a>.
+*   **Advanced Evaluation**: For more robust evaluation, a dedicated evaluation set (hundreds of traces), and logging with TensorBoard are recommended <a class="yt-timestamp" data-t="31:05:00">[31:05:00]</a>.
 
-A "subtle point" is `unrolling the data` <a class="yt-timestamp" data-t="00:18:11">[00:18:11]</a>. For multi-turn conversations, the data is unrolled into multiple rows (e.g., three back-and-forths unroll into three rows: one with all turns, one with two, and one with just the first turn) <a class="yt-timestamp" data-t="00:18:21">[00:18:21]</a>. This ensures that the model trains on intermediate reasoning steps, as the Quen template typically only includes reasoning from the most recent turn <a class="yt-timestamp" data-t="00:18:34">[00:18:34]</a>.
+### Resources
 
-## Fine-tuning the Model
-
-After data collection, the next step is fine-tuning the LLM using the curated traces <a class="yt-timestamp" data-t="00:22:45">[00:22:45]</a>.
-
-### Model Loading and Setup
-A smaller model, such as a 4 billion parameter Quen model, can be trained, though larger models might yield better performance <a class="yt-timestamp" data-t="00:23:16">[00:23:16]</a>. The max sequence length needs to be sufficiently large (e.g., 32,000) <a class="yt-timestamp" data-t="00:23:21">[00:23:21]</a>. Training can be done in full precision (16 bits) <a class="yt-timestamp" data-t="00:23:43">[00:23:43]</a>.
-
-For training, only adapters are trained, not all parameters. These are Low Rank Adapters (Lora) applied to attention modules and MLP layers <a class="yt-timestamp" data-t="00:23:50">[00:23:50]</a>. A rank of 32 for adapter matrices is used, and `rescaled Laura` adapts the learning rate based on adapter size <a class="yt-timestamp" data-t="00:27:48">[00:27:48]</a>.
-
-### Data Preparation for Training
-The dataset loaded from Hugging Face Hub, typically consisting of nine rows after unrolling <a class="yt-timestamp" data-t="00:24:14">[00:24:14]</a>, is used. The `chat template` converts the tools and messages into a single long string, which becomes the input `text` field for training <a class="yt-timestamp" data-t="00:24:34">[00:24:34]</a>. This formatted string includes the system message, tools available, user messages, assistant messages, and tool calls <a class="yt-timestamp" data-t="00:25:27">[00:25:27]</a>.
-
-### Training Parameters
-Training is performed with a batch size of one, often due to VRAM limitations, which can lead to a jumpy training loss <a class="yt-timestamp" data-t="00:28:34">[00:28:34]</a>. A single epoch of training is typical for small datasets <a class="yt-timestamp" data-t="00:28:48">[00:28:48]</a>. Other parameters include:
-*   **Learning Rate**: Fairly high for a small model.
-*   **Optimizer**: AtomW 8-bit optimizer to save VRAM.
-*   **Learning Rate Schedule**: Constant learning rate <a class="yt-timestamp" data-t="00:28:58">[00:28:58]</a>.
-
-During training, only a small percentage of parameters (e.g., 1.62%) are trained through adapters, while the main weights remain frozen <a class="yt-timestamp" data-t="00:30:15">[00:30:15]</a>.
-
-### Evaluation and Improvements
-While a more advanced implementation would include an evaluation set (e.g., a few hundred traces, splitting some for eval) and logging with TensorBoard, this simplified process focuses on demonstrating the principle <a class="yt-timestamp" data-t="00:31:04">[00:31:04]</a>.
-
-#### Reinforcement Learning (RL) Considerations
-While not the primary focus, [[mcps_role_in_augmented_llm_systems | reinforcement learning]] (RL) can automate trace generation or use reward-based systems <a class="yt-timestamp" data-t="00:32:00">[00:32:00]</a>. However, it's recommended to start with manual, curated traces via Supervised Fine-Tuning (SFT) because it significantly speeds up subsequent RL training <a class="yt-timestamp" data-t="00:32:11">[00:32:11]</a>. Without initial SFT, a model might struggle to generate correct answers and thus rarely receive positive rewards <a class="yt-timestamp" data-t="00:32:30">[00:32:30]</a>. For GRPO (Generalized Policy Optimization), rewards must be defined, requiring a dataset with verifiable answers (e.g., specific text on obscure websites) <a class="yt-timestamp" data-t="00:32:50">[00:32:50]</a>.
-
-### Saving and Pushing the Fine-tuned Model
-After training, the model and tokenizer can be saved <a class="yt-timestamp" data-t="00:30:30">[00:30:30]</a>. The model can also be pushed to Hugging Face Hub, optionally merged to 16 bits <a class="yt-timestamp" data-t="00:30:35">[00:30:35]</a>. The fine-tuned model's name can then replace the base model in the inference endpoint configuration, creating a ready-to-use endpoint <a class="yt-timestamp" data-t="00:30:48">[00:30:48]</a>.
-
-## Conclusion
-[[mcp_agent_finetuning | MCP agent fine-tuning]] allows for significant performance improvements, especially for specific, narrow use cases, even with a relatively small number of curated examples (e.g., 50-100 traces) <a class="yt-timestamp" data-t="00:34:50">[00:34:50]</a>.
-
-Further details on [[model_context_protocol_mcp | MCP]] and custom server setup can be found in related Trellis Research YouTube videos <a class="yt-timestamp" data-t="00:35:13">[00:35:13]</a>.
+All materials for this workshop are available online in the Trellis Research AI Worlds Fair 2025 GitHub repository, specifically in the `MCP agent fine-tune` folder <a class="yt-timestamp" data-t="00:45:00">[00:45:00]</a>. Further details on [[technical_structure_and_features_of_mcp | setting up custom MCP servers]] can be found in other Trellis Research YouTube videos <a class="yt-timestamp" data-t="35:11:00">[35:11:00]</a>.

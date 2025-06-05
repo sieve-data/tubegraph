@@ -5,58 +5,78 @@ videoId: VZzUhELgYk4
 
 From: [[aidotengineer]] <br/> 
 
-DataDog is an observability and security platform for cloud applications, focused on helping users observe and take action on system events [00:01:24]. DataDog has been integrating AI since around 2015, offering features like proactive alerting, root cause analysis, impact analysis, and change tracking [00:01:48].
+Diamond, an AI veteran with 15 years in the field, shares insights on [[building_ai_agents_in_the_enterprise_sdlc | building AI agents]] at DataDog, specifically focusing on the development of a "DevOps engineer who never sleeps" <a class="yt-timestamp" data-t="00:00:22">[00:00:22]</a>. His background includes work at Microsoft Cortana, Amazon Alexa, Meta (PyTorch), and an AI startup focused on a DevOps assistant <a class="yt-timestamp" data-t="00:00:54">[00:00:54]</a>. DataDog's current endeavor is "Bits AI," an AI assistant designed to help with DevOps challenges <a class="yt-timestamp" data-t="00:01:04">[00:01:04]</a>.
 
-## The Era Shift Towards AI Agents
-There is a significant era shift occurring in AI, comparable to the advent of the microprocessor or the transition to SaaS [00:02:09]. This shift is characterized by bigger, smarter models, enhanced reasoning, and multimodal capabilities, leading to "intelligence becoming too cheap to meter" [00:02:17]. This means users expect more from AI daily [00:02:35]. DataDog is responding to this by moving up the stack and leveraging advancements to provide [[ai_agents_beyond_chatbots | AI agents]] that can use the platform on behalf of customers [00:02:53].
+## DataDog and AI: A Historical Perspective
 
-## DataDog's AI Agents
-DataDog is currently developing [[ai_agents_beyond_chatbots | AI agents]] in private beta [00:03:22].
+DataDog functions as an observability and security platform for cloud applications, primarily focused on helping users observe system happenings and take action, making systems safer and more DevOps-friendly <a class="yt-timestamp" data-t="00:01:22">[00:01:22]</a>. DataDog has been shipping AI since approximately 2015, integrated into features like proactive alerting, root cause analysis, impact analysis, and change tracking, though not always overtly presented as "AI products" <a class="yt-timestamp" data-t="00:01:46">[00:01:46]</a>.
 
-### Bits AI
-Bits AI is DataDog's [[ai_agents_beyond_chatbots | AI assistant]] designed to help users with their DevOps problems [00:01:04].
+## The Current Era Shift in AI
+
+A significant "era shift" is underway in AI, comparable to the advent of the microprocessor or the shift to SaaS <a class="yt-timestamp" data-t="00:02:06">[00:02:06]</a>. This shift is characterized by:
+*   Bigger, smarter models <a class="yt-timestamp" data-t="00:02:14">[00:02:14]</a>
+*   Reasoning capabilities <a class="yt-timestamp" data-t="00:02:17">[00:02:17]</a>
+*   Multimodal AI <a class="yt-timestamp" data-t="00:02:19">[00:02:19]</a>
+*   "Foundation model wars" <a class="yt-timestamp" data-t="00:02:20">[00:02:20]</a>
+*   Intelligence becoming "too cheap to meter" <a class="yt-timestamp" data-t="00:02:22">[00:02:22]</a>
+
+This shift leads to rapid growth in AI products like Cursor and increased user expectations <a class="yt-timestamp" data-t="00:02:30">[00:02:30]</a>. DataDog aims to leverage these advancements by moving up the stack, providing [[agent_frameworks_and_orchestration_layers_in_ai_engineering | AI agents]] that use the DataDog platform on behalf of customers <a class="yt-timestamp" data-t="00:02:53">[00:02:53]</a>. This requires work in agent development, evaluation, and new types of observability <a class="yt-timestamp" data-t="00:03:06">[00:03:06]</a>.
+
+## DataDog's AI Agents in Beta
+
+DataDog is currently developing several [[building_ai_agents_in_the_enterprise_sdlc | AI agents]] in private beta:
 
 ### AI Software Engineer
-The AI Software Engineer is a proactive developer or DevOps agent that observes and acts on errors [00:06:55]. It automatically analyzes errors, identifies causes, and proposes solutions [00:07:07]. These solutions can include generating code fixes and working to reduce on-call incidents [00:07:12]. For instance, it can catch recursion issues, propose fixes, and create new recursion tests, streamlining the engineer's workflow by reducing manual coding and testing [00:07:22].
+This agent proactively observes and acts on errors, analyzes them, identifies causes, and proposes solutions <a class="yt-timestamp" data-t="00:06:55">[00:06:55]</a>.
+*   **Capabilities:** Generates code fixes, reduces on-call incidents, and can even create recursion tests to prevent future issues <a class="yt-timestamp" data-t="00:07:10">[00:07:10]</a>.
+*   **Integration:** Offers options to create Pull Requests in GitHub or open diffs in VS Code for editing <a class="yt-timestamp" data-t="00:07:32">[00:07:32]</a>. This significantly reduces manual coding, testing, and overall human time spent <a class="yt-timestamp" data-t="00:07:38">[00:07:38]</a>.
 
 ### AI On-Call Engineer
-This agent is designed to assist with 2 AM alerts, aiming to reduce the frequency of human pages [00:03:46].
-When an alert occurs, the AI On-Call Engineer proactively initiates an investigation [00:04:04]:
-*   It situationally orients itself by reading runbooks and gathering alert context [00:04:05].
-*   It then proceeds to analyze logs, metrics, and traces in a loop to understand the situation [00:04:16].
-*   The agent can automatically run investigations and provide summaries or insights before a human even reaches their computer [00:04:26].
-*   It operates by forming hypotheses about what might be happening, reasoning over them, and using tools to test ideas and run queries against data [00:05:30].
-*   If a root cause is identified, the agent can suggest remediations, such as paging another team or scaling infrastructure [00:05:51].
-*   It can integrate with existing DataDog workflows for remediation [00:06:16].
-*   After an incident is resolved, the agent can write a postmortem by reviewing what occurred and what actions both AI and humans took [00:06:26].
+Designed to handle 2 AM alerts and reduce the frequency of engineer pages <a class="yt-timestamp" data-t="00:03:46">[00:03:46]</a>.
+*   **Workflow:**
+    1.  Kicks off proactively when an alert occurs <a class="yt-timestamp" data-t="00:04:04">[00:04:04]</a>.
+    2.  Situationally orients itself by reading runbooks and grabbing alert context <a class="yt-timestamp" data-t="00:04:07">[00:04:07]</a>.
+    3.  Investigates by looking through logs, metrics, and traces, acting in a loop to understand the situation <a class="yt-timestamp" data-t="00:04:16">[00:04:16]</a>.
+    4.  Automatically runs investigations and provides summaries/information before a human even gets to their computer <a class="yt-timestamp" data-t="00:04:26">[00:04:26]</a>.
+*   **Human-AI Collaboration:** A new page allows for human-AI collaboration, enabling users to verify agent actions, learn from them, and build trust <a class="yt-timestamp" data-t="00:04:47">[00:04:47]</a>. Users can see the reasoning behind hypotheses, what the agent found, and the steps taken from runbooks <a class="yt-timestamp" data-t="00:05:05">[00:05:05]</a>.
+*   **Reasoning and Remediation:** The agent develops hypotheses, reasons over them, tests ideas using tools (e.g., running queries against logs/metrics), and validates or invalidates each hypothesis <a class="yt-timestamp" data-t="00:05:30">[00:05:30]</a>. If a root cause is found, it can suggest remediations like paging another team or scaling infrastructure <a class="yt-timestamp" data-t="00:05:51">[00:05:51]</a>. It can also integrate with existing DataDog workflows <a class="yt-timestamp" data-t="00:06:16">[00:06:16]</a>.
+*   **Post-Mortem Generation:** After an incident is remediated, the agent can write a post-mortem, summarizing what occurred and the actions taken by both the agent and humans <a class="yt-timestamp" data-t="00:06:25">[00:06:25]</a>.
 
-A new page has been added to facilitate human-AI collaboration, allowing users to verify the agent's actions, learn from its processes, and build trust [00:04:47]. Users can see the reasoning behind hypotheses and the steps taken by the agent, similar to a junior engineer's work, and ask follow-up questions [00:05:05].
+## Lessons Learned Building AI Agents
 
-## Learnings from Developing AI Agents
-Building these [[ai_agents_and_agentic_workflows | AI agents]] has provided several key lessons for DataDog:
+DataDog has identified several key learnings from developing these [[building_ai_agents_in_the_enterprise_sdlc | AI agents]]:
 
-### Scoping Tasks for Evaluation
-It is crucial to define "jobs to be done" clearly and understand them step-by-step from a human perspective [00:08:33]. DataDog focuses on building vertical, task-specific [[ai_agents_beyond_chatbots | agents]] rather than generalized ones [00:08:48]. A significant challenge is ensuring that each step is measurable and verifiable, as demos are easy to build but verifying long-term improvement is difficult [00:08:52]. Domain experts should be used as design partners or task verifiers, not for writing code or rules, due to the stochastic nature of models [00:09:10].
+### 1. Scoping Tasks for Evaluation
+Building quick demos is easy, but robust evaluation is harder <a class="yt-timestamp" data-t="00:08:01">[00:08:01]</a>.
+*   **Define "Jobs to Be Done":** Clearly understand the step-by-step human workflow and how a human would evaluate it <a class="yt-timestamp" data-t="00:08:33">[00:08:33]</a>.
+*   **Vertical, Task-Specific Agents:** Focus on specific tasks rather than generalized agents <a class="yt-timestamp" data-t="00:08:48">[00:08:48]</a>.
+*   **Measurable and Verifiable:** Ensure each step is measurable and verifiable, as this is a common pain point <a class="yt-timestamp" data-t="00:08:52">[00:08:52]</a>.
+*   **Domain Experts as Design Partners:** Use domain experts for evaluation and verification, not for writing code or rules, due to the stochastic nature of AI models <a class="yt-timestamp" data-t="00:09:10">[00:09:10]</a>.
+*   **Eval, Eval, Eval:** Deeply consider evaluation from the start. This includes offline, online, and "living" evaluation sets with end-to-end measurements <a class="yt-timestamp" data-t="00:09:31">[00:09:31]</a>. Instrumenting product usage is crucial for feedback <a class="yt-timestamp" data-t="00:10:03">[00:10:03]</a>.
 
-It is essential to start by thinking deeply about evaluation, including offline, online, and "living" evaluations [00:09:35]. This involves having end-to-end task measurements and appropriate instrumentation to get human feedback [00:09:57].
+### 2. Building the Right Team
+*   **Optimistic Generalists:** While one or two ML experts are helpful, the core team should consist of optimistic generalists who can write code effectively and adapt quickly to ambiguity <a class="yt-timestamp" data-t="00:10:14">[00:10:14]</a>.
+*   **UX/Frontend Importance:** User experience and frontend development are crucial for effective collaboration with agents <a class="yt-timestamp" data-t="00:10:28">[00:10:28]</a>.
+*   **AI-Augmented Teammates:** Team members should be excited about being AI-augmented, exploring new capabilities, and adapting to a rapidly changing field <a class="yt-timestamp" data-t="00:10:38">[00:10:38]</a>.
 
-### Building the Right Team
-A team doesn't need many ML experts; one or two can seed the team, supplemented by optimistic generalists who are proficient at writing code and willing to iterate quickly [00:10:14]. UX and frontend development are more critical for [[ai_agents_using_humanlike_interfaces_and_workflows | human-AI collaboration]] than initially perceived [00:10:28]. Team members should be excited about being AI-augmented themselves, exhibiting a day-to-day use of AI and an explorer's mindset, as the field is rapidly changing [00:10:38].
+### 3. The Changing User Experience (UX)
+The traditional UX patterns are evolving, and developers must be comfortable with this <a class="yt-timestamp" data-t="00:11:03">[00:11:03]</a>. DataDog favors agents that function more like human teammates rather than requiring numerous new pages or buttons <a class="yt-timestamp" data-t="00:11:28">[00:11:28]</a>.
 
-### User Experience (UX)
-UX is paramount in this early stage of work, especially for [[ai_agents_using_humanlike_interfaces_and_workflows | collaboration]] [00:11:18]. Old UX patterns are changing, and it's important to be comfortable with this [00:11:24]. DataDog prefers agents that behave more like human teammates rather than requiring new pages or buttons [00:11:28].
+### 4. Observability Matters
+Even with agents, observability is paramount and should not be an afterthought <a class="yt-timestamp" data-t="00:11:36">[00:11:36]</a>.
+*   **Debugging Complex Workflows:** AI agent workflows are complex, requiring situational awareness for debugging <a class="yt-timestamp" data-t="00:11:42">[00:11:42]</a>.
+*   **LM Observability:** DataDog's "LM Observability" view helps monitor LLMs, providing a single pane of glass for diverse interactions, hosted models, and API usage <a class="yt-timestamp" data-t="00:11:50">[00:11:50]</a>.
+*   **Agent Graph:** For multi-step, complex agent calls (potentially hundreds of calls or decisions), a specialized "agent graph" provides a human-readable view to quickly identify errors <a class="yt-timestamp" data-t="00:12:26">[00:12:26]</a>.
 
-### Observability
-Observability is critical and should not be an afterthought when developing [[ai_agents_and_agentic_workflows | complex AI agent workflows]] [00:11:38]. Situational awareness is necessary to debug problems [00:11:44]. DataDog utilizes its full observability stack, including GPU and LLM monitoring, to tie together diverse interactions and calls to models for debugging [00:11:51].
+## The "Bitter Lesson" and Agents as Users
 
-Agent workflows can become very complex, involving hundreds of multi-step calls, loops, and tool decisions [00:12:26]. To address this, DataDog developed an "agent graph" view within its observability tools, which provides a human-readable representation of the agent's workflow, highlighting errors [00:12:46].
+A key insight, referred to as the "agent or application layer bitter lesson," suggests that general methods leveraging new, off-the-shelf models are ultimately the most effective <a class="yt-timestamp" data-t="00:13:16">[00:13:16]</a>. Fine-tuning specific models can be quickly surpassed by general advancements in foundation models <a class="yt-timestamp" data-t="00:13:26">[00:13:26]</a>. The ability to easily swap and try out new models is crucial <a class="yt-timestamp" data-t="00:13:45">[00:13:45]</a>.
 
-### The "Agent Bitter Lesson"
-A general principle observed is that methods leveraging new, off-the-shelf models are ultimately the most effective [00:13:16]. While fine-tuning for specific tasks requires significant effort, new foundation models often quickly solve much of the reasoning, making it crucial to be able to easily switch between models [00:13:26].
+Diamond also emphasizes the future where AI agents will become users of platforms like DataDog <a class="yt-timestamp" data-t="00:14:01">[00:14:01]</a>. It's estimated that agents could surpass humans as users within the next five years <a class="yt-timestamp" data-t="00:14:07">[00:14:07]</a>. Therefore, product development should consider not just human users, but also how third-party [[integration_of_ai_coding_agents_with_thirdparty_tools | agents]] like Claude might directly use the platform, requiring clear API documentation and context <a class="yt-timestamp" data-t="00:14:21">[00:14:21]</a>.
 
-## Future of AI Agents
-The future will be "weird" and "fun," with AI acceleration happening daily [00:14:50]. DataDog anticipates offering a team of DevSecOps [[ai_agents_beyond_chatbots | agents]] for hire, which will handle operations and security without users needing to directly integrate with the DataDog platform [00:14:56].
+## Future Outlook for AI in DevOps
 
-There's a high probability that [[ai_agents_beyond_chatbots | agents]] will surpass humans as users of SaaS products like DataDog within the next five years [00:14:07]. Therefore, companies should not only build for humans or their own agents but also consider how third-party [[ai_agents_beyond_chatbots | agents]] (like Claude) might use their products [00:14:21]. This means providing context and API information optimized for [[ai_agents_beyond_chatbots | agents]] [00:14:38].
-
-Small companies will increasingly be built by individuals using "auto-developers" (like Cursor or Devin) to bring ideas to life, and then using [[ai_agents_beyond_chatbots | agents]] like DataDog's to manage operations and security, enabling an order of magnitude more ideas to reach the real world [00:15:25].
+The future of AI in DevOps is expected to be "weird and fun," with accelerating AI advancements <a class="yt-timestamp" data-t="00:14:50">[00:14:50]</a>.
+*   **DevSecOps Agents For Hire:** DataDog aims to offer teams of DevSecOps [[building_ai_agents_in_the_enterprise_sdlc | agents for hire]] that can directly use their platform and handle tasks like on-call duties <a class="yt-timestamp" data-t="00:14:56">[00:14:56]</a>.
+*   **Agents as Customers:** Companies building SRE, coding, and other types of [[scaling_ai_agents_in_production | agents]] will increasingly use platforms like DataDog as customers <a class="yt-timestamp" data-t="00:15:10">[00:15:10]</a>.
+*   **Accelerated Innovation:** Small companies will be able to leverage automated developers (like Cursor or Devin) to bring ideas to life, and agents for operations and security, enabling an order of magnitude more ideas to reach the real world <a class="yt-timestamp" data-t="00:15:25">[00:15:25]</a>.

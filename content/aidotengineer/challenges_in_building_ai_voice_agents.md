@@ -5,68 +5,70 @@ videoId: pzmbleiOfCM
 
 From: [[aidotengineer]] <br/> 
 
-Building AI voice agents presents significant [[Challenges in AI agent development | challenges]] beyond standard Large Language Model (LLM) applications <a class="yt-timestamp" data-t="00:00:11">[00:00:11]</a>. While LLMs themselves are difficult to wrangle due to issues like hallucination and evaluation <a class="yt-timestamp" data-t="00:00:18">[00:00:18]</a>, voice agents add layers of complexity, particularly in conversational user interfaces where fluidity is key <a class="yt-timestamp" data-t="00:00:43">[00:00:43]</a>.
+Building AI voice agents presents significant [[challenges_in_developing_ai_agents | challenges]], as highlighted by Eddie Seagull, CTO at Fractional AI <a class="yt-timestamp" data-t="00:00:04">[00:00:04]</a>. These difficulties are compounded by the inherent complexities of working with large language models (LLMs) themselves <a class="yt-timestamp" data-t="00:00:17">[00:00:17]</a>.
 
-## General Difficulties with Voice Models
-Working with voice models is described as "hard mode" for AI development <a class="yt-timestamp" data-t="00:00:53">[00:00:53]</a>. Existing AI problems are compounded by the need to handle:
-*   **Transcription** <a class="yt-timestamp" data-t="00:01:00">[00:01:00]</a>: Not as straightforward as it might seem.
-*   **Streaming Environments** <a class="yt-timestamp" data-t="00:01:03">[00:01:03]</a>: Unlike batch text interactions, voice is continuous.
-*   **Evaluation** <a class="yt-timestamp" data-t="00:00:23">[00:00:23]</a>: Measuring performance in conversational settings where there's no objective metric for success or failure <a class="yt-timestamp" data-t="00:00:28">[00:00:28]</a>.
-*   **Latency** <a class="yt-timestamp" data-t="00:00:37">[00:00:37]</a>: Critical for fluid, human-like conversations <a class="yt-timestamp" data-t="00:00:47">[00:00:47]</a>.
+## General LLM Challenges Amplified in Voice Agents
 
-These factors make [[Development and Challenges of AI Agents | development]] particularly difficult <a class="yt-timestamp" data-t="00:01:10">[00:01:10]</a>.
+Working with LLMs is inherently difficult due to issues like:
+*   **Hallucination** <a class="yt-timestamp" data-t="00:00:21">[00:00:21]</a>
+*   **Difficulty in Evaluation**: It's tough to evaluate LLM performance and establish metrics, especially for conversational systems where objective measures are scarce <a class="yt-timestamp" data-t="00:00:23">[00:00:23]</a>.
+*   **Latency**: While a challenge for many LLM applications, latency is particularly critical for conversational user interfaces that require fluid, human-like interactions <a class="yt-timestamp" data-t="00:00:37">[00:00:37]</a>.
 
-## Case Study: Automating Consulting-Style Interviews
-A practical example of building an AI voice agent involves automating consulting-style interviews within large companies <a class="yt-timestamp" data-t="00:01:26">[00:01:26]</a>. This process typically involves expensive, inefficient human interactions to gather qualitative research <a class="yt-timestamp" data-t="00:01:56">[00:01:56]</a>. The goal was to create an AI interview agent that could conduct interviews like a human, feel conversational, and provide automatic transcription, while being able to interview hundreds of people simultaneously <a class="yt-timestamp" data-t="00:02:49">[00:02:49]</a>.
+When dealing with audio and [[voice_and_multimodal_ai_agents | voice agents]], these existing AI problems operate on "hard mode" <a class="yt-timestamp" data-t="00:00:53">[00:00:53]</a>. Additional complexities include:
+*   **Transcription**: It is not as straightforward as it might seem <a class="yt-timestamp" data-t="00:01:00">[00:01:00]</a>.
+*   **Streaming Environment**: Unlike text-based batch interactions, voice agents operate in a streaming environment, which adds complexity to development <a class="yt-timestamp" data-t="00:01:03">[00:01:03]</a>.
 
-The initial approach involved a "naive" [[integrating_openai_api_with_voice_agents | OpenAI real-time API]] integration with a single, large prompt explaining the interview context and questions <a class="yt-timestamp" data-t="00:05:01">[00:05:01]</a>.
+## Case Study: Automating Consulting Interviews
 
-### Specific Challenges and Solutions
+Fractional AI recently developed an AI interview agent to automate consultation-style interviews, where consultants gather information from employees within large companies through qualitative research <a class="yt-timestamp" data-t="00:01:23">[00:01:23]</a>. This process is typically expensive and inefficient <a class="yt-timestamp" data-t="00:01:56">[00:01:56]</a>. The goal was to create an AI system that could conduct interviews like a human, feel conversational rather than like a form, and interview hundreds of people simultaneously without scheduling issues or high costs <a class="yt-timestamp" data-t="00:02:49">[00:02:49]</a>.
 
-#### Challenge 1: Structured Navigation and User Control
-**Problem**: The monolithic prompt approach made it impossible to know which question the LLM was currently asking or to enable users to jump between questions via a roadmap <a class="yt-timestamp" data-t="00:05:36">[00:05:36]</a>.
-**Solution**:
-*   **One Question at a Time**: The system was redesigned to feed the LLM one question at a time <a class="yt-timestamp" data-t="00:05:53">[00:05:53]</a>.
-*   **Tool Use**: The LLM was given a tool to signal when it wanted to move to the next question, allowing the system to deterministically feed it the subsequent question <a class="yt-timestamp" data-t="00:06:00">[00:06:00]</a>.
-*   **Injected Prompts**: Additional prompts were injected into the stream to inform the LLM when a user clicked around the roadmap, ensuring the agent was aware of user-driven navigation <a class="yt-timestamp" data-t="00:06:17">[00:06:17]</a>.
+### Initial Approach and Limitations
 
-#### Challenge 2: Avoiding "Rabbit Holes" and Off-Topic Conversations
-**Problem**: LLMs tend to chitchat, ask excessive follow-up questions, and generally be reluctant to move on, leading to "rabbit holing" <a class="yt-timestamp" data-t="00:07:01">[00:07:01]</a>. Forcing it too hard would eliminate its ability to improvise <a class="yt-timestamp" data-t="00:07:25">[00:07:25]</a>.
-**Solution**:
-*   **Drift Detector Agent**: A separate, non-voice text-based LLM was introduced to run in a background thread, listening to the conversation transcript <a class="yt-timestamp" data-t="00:07:33">[00:07:33]</a>. This "drift detector" agent decides if the conversation is off-track, if the question has been answered, and if it's time to move on <a class="yt-timestamp" data-t="00:07:49">[00:07:49]</a>. If it strongly indicates moving on, the system can force tool use to prevent further rabbit holing <a class="yt-timestamp" data-t="00:08:04">[00:08:04]</a>.
+The initial approach involved a naive integration with the OpenAI real-time API, using a monolithic prompt to instruct the LLM on conducting interviews and listing all questions <a class="yt-timestamp" data-t="00:05:01">[00:05:01]</a>.
 
-#### Challenge 3: Maintaining Human-like Interview Flow and Purpose
-**Problem**: Even with the drift detector, agents often followed up too little or too much, rephrased questions poorly, and struggled with the linear flow, limiting natural conversation <a class="yt-timestamp" data-t="00:08:22">[00:08:22]</a>. The LLM didn't always know the overall interview plan <a class="yt-timestamp" data-t="00:08:40">[00:08:40]</a>.
-**Solution**:
-*   **Goals and Priorities**: Interview questions were augmented with explicit goals and priorities, providing the LLM with the "why" behind each question <a class="yt-timestamp" data-t="00:09:04">[00:09:04]</a>. This informed rephrasing and follow-up questions <a class="yt-timestamp" data-t="00:09:17">[00:09:17]</a>. For instance, a high-priority goal might be to get a clear picture of responsibilities, while a medium priority might be to identify areas for AI <a class="yt-timestamp" data-t="00:10:07">[00:10:07]</a>.
-*   **Next Question Agent**: Another side agent was introduced, running on the transcript in the background, specifically tasked with determining what question should be asked next <a class="yt-timestamp" data-t="00:09:25">[00:09:25]</a>. This agent is "taught how to be a good interviewer" and can guide the conversation path <a class="yt-timestamp" data-t="00:10:38">[00:10:38]</a>.
+### Design Challenges and Solutions
 
-#### Challenge 4: Handling Transcription Errors from Underlying Models
-**Problem**: While [[integrating_openai_api_with_voice_agents | OpenAI's API]] provides transcripts, its side model (Whisper) for transcription can produce inaccurate results for non-speech sounds like silence or background noise, leading to strange and embarrassing transcriptions <a class="yt-timestamp" data-t="00:11:16">[00:11:16]</a>. There are no direct tuning options for this within the OpenAI real-time API <a class="yt-timestamp" data-t="00:12:20">[00:12:20]</a>.
-**Solution**:
-*   **Transcript Filtering Agent**: An additional agent was added to the UX layer <a class="yt-timestamp" data-t="00:12:37">[00:12:37]</a>. This agent takes the full conversation context and decides whether to hide a piece of the transcript from the user if it's likely a transcription error <a class="yt-timestamp" data-t="00:12:40">[00:12:40]</a>. The core model still receives the full, potentially erroneous, transcript, allowing it to respond naturally (e.g., "I didn't get that, can you rephrase?") <a class="yt-timestamp" data-t="00:13:06">[00:13:06]</a>.
+Several [[design_challenges_for_ai_agents | design challenges for AI agents]] emerged:
 
-## Overarching Development Challenges and Solutions
+#### 1. Guiding Conversation Flow and User Experience
+*   **Challenge**: The monolithic prompt made it difficult to show a roadmap of questions, indicate the current question, or allow users to jump between questions <a class="yt-timestamp" data-t="00:05:23">[00:05:23]</a>. There was no way for the system to know which question the LLM was currently asking <a class="yt-timestamp" data-t="00:05:42">[00:05:42]</a>.
+*   **Solution**:
+    *   **One Question at a Time**: Only one question is sent to the LLM's prompt at a time <a class="yt-timestamp" data-t="00:05:53">[00:05:53]</a>.
+    *   **Tool Use**: The LLM was given access to a "move on to the next question" tool <a class="yt-timestamp" data-t="00:06:00">[00:06:00]</a>.
+    *   **Injected Prompts**: Additional prompts are injected into the stream to inform the LLM when a user clicks around or skips questions, allowing for natural responses like "Sure, let's move on..." <a class="yt-timestamp" data-t="00:06:15">[00:06:15]</a>.
 
-The iterative "Vibes-driven" approach of adding multiple agents to fix problems results in complex systems with many prompts <a class="yt-timestamp" data-t="00:13:28">[00:13:28]</a>. This leads to [[technical_challenges_in_ai_agent_development | challenges]] such as:
-*   Difficulty determining which agent/prompt to update <a class="yt-timestamp" data-t="00:13:54">[00:13:54]</a>.
-*   Risk of introducing regressions (fixing one issue but worsening another) <a class="yt-timestamp" data-t="00:13:59">[00:13:59]</a>.
+#### 2. Preventing "Rabbit Holes" and Maintaining Focus
+*   **Challenge**: LLMs tend to "chitchat," ask excessive follow-up questions, and dig into "rabbit holes," being reluctant to move on to the next question. Forcing it too hard would eliminate improvisation <a class="yt-timestamp" data-t="00:07:01">[00:07:01]</a>.
+*   **Solution**:
+    *   **Drift Detector Agent**: An additional background agent runs a separate side thread, using a non-voice, text-based LLM to listen to the conversation transcript <a class="yt-timestamp" data-t="00:07:32">[00:07:32]</a>. This agent determines if the conversation is off-track, if the current question has been answered, and if it's time to move on <a class="yt-timestamp" data-t="00:07:49">[00:07:49]</a>. If strongly advised, it can force the main LLM to use the "next question" tool <a class="yt-timestamp" data-t="00:08:04">[00:08:04]</a>.
 
-To overcome these [[challenges_in_creating_effective_ai_agents | challenges]] and measure performance:
+#### 3. Enhancing Human-like Interview Nuance
+*   **Challenge**: Even with the previous solutions, it was hard to tune for human-like interviews. Agents followed up too little or too much, rephrased questions in unhelpful ways, and the linear flow was restrictive <a class="yt-timestamp" data-t="00:08:22">[00:08:22]</a>.
+*   **Solution**:
+    *   **Goals and Priorities**: The system now provides the "why" behind each question, allowing the LLM to be informed when rephrasing or asking follow-up questions. For instance, a question might have a high-priority goal of "getting a clear picture of daily activities" and a medium-priority goal of "sussing out where AI might be useful" <a class="yt-timestamp" data-t="00:09:04">[00:09:04]</a>.
+    *   **Next Question Agent**: Another side agent, trained to be a good interviewer, runs in the background on the transcript, determining what should be asked next and guiding the conversation <a class="yt-timestamp" data-t="00:10:29">[00:10:29]</a>.
 
-### Evaluation (Eval)
-*   **Automated Test Suite**: A systematic way to measure performance is crucial <a class="yt-timestamp" data-t="00:14:20">[00:14:20]</a>. This involves running an automated test suite over conversations and using an LLM as a judge to measure attributes like clarity, completeness, and professionalism <a class="yt-timestamp" data-t="00:14:36">[00:14:36]</a>.
-*   **Objective vs. Subjective**: While still not perfectly objective due to the lack of ground truth, LLM-based evals offer a more metrics-driven approach compared to purely "Vibes-driven" iteration <a class="yt-timestamp" data-t="00:15:01">[00:15:01]</a>.
+#### 4. Addressing Transcription Errors
+*   **Challenge**: The OpenAI real-time API uses Whisper for transcription, which converts everything to text. It doesn't understand non-speech sounds like claps or coughs, leading to nonsensical transcriptions for silence or background noise <a class="yt-timestamp" data-t="00:11:18">[00:11:18]</a>. There are no direct controls to tune this via the API <a class="yt-timestamp" data-t="00:12:26">[00:12:26]</a>.
+*   **Solution**:
+    *   **Transcript Hiding Agent**: A separate agent takes the entire conversation context and decides whether to hide a piece of the transcript from the user if a transcription error is suspected <a class="yt-timestamp" data-t="00:12:38">[00:12:38]</a>. The full, potentially erroneous, transcript is still captured internally. This improves user experience, as the core model still understands the user's intent even if the displayed transcript is garbled <a class="yt-timestamp" data-t="00:13:03">[00:13:03]</a>.
 
-### Synthetic Conversations
-**Problem**: The lack of objective ground truth for human-like interviews and the impracticality of constant manual testing <a class="yt-timestamp" data-t="00:15:26">[00:15:26]</a>.
-**Solution**:
-*   **Simulated Users**: Use LLMs to generate "synthetic conversations" by faking users and interviewees <a class="yt-timestamp" data-t="00:16:15">[00:16:15]</a>.
-*   **Personas**: Create detailed personas (e.g., "snarky teenager," different job functions, personalities) that are used as prompts for the LLM playing the interviewee role <a class="yt-timestamp" data-t="00:16:41">[00:16:41]</a>.
-*   **Automated Measurement**: Run the AI agent through a roster of these synthetic personas, then apply the same evaluation suite to get average metrics across a broad population of expected users <a class="yt-timestamp" data-t="00:17:11">[00:17:11]</a>. This helps identify edge cases before deploying to real users <a class="yt-timestamp" data-t="00:16:08">[00:16:08]</a>.
+## Overarching Development Challenges and Evaluation
 
-## Key Takeaways for [[building_effective_ai_agents | Building Effective AI Agents]]
-*   **Beyond Naive API Calls**: Simply calling an API and doing prompt engineering is insufficient for robust voice applications <a class="yt-timestamp" data-t="00:17:31">[00:17:31]</a>.
-*   **Out-of-Band Checks**: Incorporate separate, specialized agents operating in the text domain (not audio) to make decisions and guide the primary voice agent <a class="yt-timestamp" data-t="00:17:54">[00:17:54]</a>.
-*   **Tool Use**: Leverage tools to constrain LLM behavior and instrument its actions, providing insights into its decision-making <a class="yt-timestamp" data-t="00:18:10">[00:18:10]</a>.
-*   **Evaluations (Evals)**: Crucial for measuring success and guiding [[Challenges in AI Development | development]] <a class="yt-timestamp" data-t="00:18:28">[00:18:28]</a>. Even without perfect objective truth, evals (like synthetic conversations) enable a robust development process <a class="yt-timestamp" data-t="00:18:37">[00:18:37]</a>.
+Building these systems leads to significant complexity, with numerous agents "Band-Aiding" different issues. It becomes challenging to update prompts, identify which agent to fix, or avoid regressions <a class="yt-timestamp" data-t="00:13:28">[00:13:28]</a>. This is common in LLM development but particularly hard in the voice domain <a class="yt-timestamp" data-t="00:14:13">[00:14:13]</a>.
+
+### 1. Lack of Objective Evaluation Metrics
+*   **Challenge**: There is no perfect ground truth or objective metric to definitively measure how well a conversational AI system performs <a class="yt-timestamp" data-t="00:15:04">[00:15:04]</a>.
+*   **Solution**:
+    *   **LLM-as-Judge Evals**: An automated test suite measures various attributes of the conversation (e.g., clarity, completeness, professionalism) by asking an LLM acting as a judge <a class="yt-timestamp" data-t="00:14:29">[00:14:29]</a>. While not perfectly objective, this provides a more metrics-driven iteration style <a class="yt-timestamp" data-t="00:15:01">[00:15:01]</a>.
+
+### 2. Testing and Identifying Edge Cases
+*   **Challenge**: Manual testing is tiresome, and it's hard to anticipate all user behaviors and edge cases that might lead to a poor user experience in practice <a class="yt-timestamp" data-t="00:15:56">[00:15:56]</a>.
+*   **Solution**:
+    *   **Synthetic Conversations**: LLMs are used to create "fake users" or interviewees with defined personas (e.g., "snarky teenager" or various job functions and personalities) <a class="yt-timestamp" data-t="00:16:15">[00:16:15]</a>. The AI agent interviews these synthetic personas, and the same evaluation suite can be run over the conversations to get average metrics across a broad population of expected users <a class="yt-timestamp" data-t="00:17:11">[00:17:11]</a>. This helps automate testing and identify how the system would perform against different user types <a class="yt-timestamp" data-t="00:16:30">[00:16:30]</a>.
+
+## Key Takeaways
+*   The naive approach of simply calling an API and relying on prompt engineering is often insufficient for building robust voice AI applications <a class="yt-timestamp" data-t="00:17:35">[00:17:35]</a>.
+*   **Out-of-Band Checks**: Employing separate agents operating in the text domain (rather than audio) to make decisions and guide the conversation is highly beneficial <a class="yt-timestamp" data-t="00:17:54">[00:17:54]</a>.
+*   **Tool Use**: Giving LLMs access to tools is powerful for constraining behavior and instrumenting the LLM to understand its actions <a class="yt-timestamp" data-t="00:18:10">[00:18:10]</a>.
+*   **Evals are Critical**: As with all LLM-based projects, evaluations are essential for measuring success and guiding development, even when objective ground truth is unavailable <a class="yt-timestamp" data-t="00:18:28">[00:18:28]</a>.
