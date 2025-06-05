@@ -1,0 +1,39 @@
+---
+title: Flutter programming languages and ecosystem
+videoId: X8ipUgXH6jw
+---
+
+From: [[fireship]] <br/> 
+
+## Overview
+[[Introduction to Flutter for JavaScript Developers | Flutter]] is a cross-platform mobile app development framework created by Google, designed to build applications for multiple platforms like iOS, Android, and the web from a single codebase <a class="yt-timestamp" data-t="00:04:06">[00:04:06]</a>. It is considered a heavyweight in the cross-platform development space, competing with [[React Native programming languages and ecosystem | React Native]] <a class="yt-timestamp" data-t="00:03:03">[00:03:03]</a>.
+
+## Programming Language: Dart
+[[Introduction to Flutter for JavaScript Developers | Flutter]] applications are primarily coded in [[Dart vs JavaScript Programming Languages | Dart]] <a class="yt-timestamp" data-t="01:16:17">[01:16:17]</a>.
+*   **Optimization**: [[Dart vs JavaScript Programming Languages | Dart]] is optimized for compiling to multiple platforms, supporting both Ahead-of-Time (AOT) and Just-in-Time (JIT) compilation, which contributes to its performance advantages <a class="yt-timestamp" data-t="01:19:21">[01:19:21]</a>.
+*   **Syntax**: The syntax of [[Dart vs JavaScript Programming Languages | Dart]] somewhat resembles [[Functional Programming with TypeScript | TypeScript]], making it relatively easy for developers familiar with curly-brace languages like [[Functional Programming with TypeScript | TypeScript]], Java, or C# to get started <a class="yt-timestamp" data-t="01:28:30">[01:28:30]</a><a class="yt-timestamp" data-t="05:39:40">[05:39:40]</a>.
+*   **Type System**: [[Dart vs JavaScript Programming Languages | Dart]] features a sound type system, which enables robust tooling and helps prevent runtime errors by identifying issues early in the development process <a class="yt-timestamp" data-t="07:05:07">[07:05:07]</a><a class="yt-timestamp" data-t="07:14:17">[07:14:17]</a>. It also includes null safety features to further enhance code reliability <a class="yt-timestamp" data-t="07:34:35">[07:34:35]</a>.
+*   **Learning Curve**: For developers not familiar with [[Dart vs JavaScript Programming Languages | Dart]], there is a new language to learn <a class="yt-timestamp" data-t="01:36:38">[01:36:38]</a>. Outside of [[Introduction to Flutter for JavaScript Developers | Flutter]], [[Dart vs JavaScript Programming Languages | Dart]] is not as widely known <a class="yt-timestamp" data-t="01:27:28">[01:27:28]</a>.
+
+## Ecosystem
+The [[Introduction to Flutter for JavaScript Developers | Flutter]] ecosystem is robust and actively developed:
+*   **Origin and Support**: [[Introduction to Flutter for JavaScript Developers | Flutter]] is developed by Google <a class="yt-timestamp" data-t="01:51:53">[01:51:53]</a>. It is one of the most actively worked-on GitHub repositories globally <a class="yt-timestamp" data-t="01:44:46">[01:44:46]</a>.
+*   **Development Philosophy**: Unlike [[React Native programming languages and ecosystem | React Native]] which is more minimal, [[Introduction to Flutter for JavaScript Developers | Flutter]] comes with a large widget library out of the box <a class="yt-timestamp" data-t="02:20:22">[02:20:22]</a>. The [[Introduction to Flutter for JavaScript Developers | Flutter]] team also maintains many commonly needed plugins, such as those for accessing a device's native camera <a class="yt-timestamp" data-t="02:24:26">[02:24:26]</a>.
+*   **Package Management**: [[Dart vs JavaScript Programming Languages | Dart]] has its own package manager called `pub` <a class="yt-timestamp" data-t="02:30:32">[02:30:32]</a>. There is a vast ecosystem of open-source packages available for [[Introduction to Flutter for JavaScript Developers | Flutter]] through `pub` <a class="yt-timestamp" data-t="02:33:34">[02:33:34]</a>.
+*   **Community**: Both [[Introduction to Flutter for JavaScript Developers | Flutter]] and [[React Native programming languages and ecosystem | React Native]] boast large communities capable of supporting various development needs <a class="yt-timestamp" data-t="02:36:37">[02:36:37]</a>.
+
+## Tooling and Developer Experience
+[[Introduction to Flutter for JavaScript Developers | Flutter]] provides a streamlined developer experience:
+*   **Initial Setup**: Creating a new [[Introduction to Flutter for JavaScript Developers | Flutter]] app is considerably faster than [[React Native programming languages and ecosystem | React Native]], as it doesn't require downloading numerous packages from npm <a class="yt-timestamp" data-t="05:02:04">[05:02:04]</a><a class="yt-timestamp" data-t="05:04:05">[05:04:05]</a>. Developers can use `flutter create` from the command line <a class="yt-timestamp" data-t="04:58:00">[04:58:00]</a>.
+*   **Project Structure**: The project structure is relatively simplified, with `pubspec.yaml` serving as the main configuration file for registering and installing third-party packages <a class="yt-timestamp" data-t="05:16:18">[05:16:18]</a><a class="yt-timestamp" data-t="05:20:23">[05:20:23]</a>. The primary source code is in `main.dart` <a class="yt-timestamp" data-t="05:30:32">[05:30:32]</a>.
+*   **IDE Integration**: The [[Introduction to Flutter for JavaScript Developers | Flutter]] extension for VS Code manages additional package installations automatically <a class="yt-timestamp" data-t="05:09:11">[05:09:11]</a>.
+*   **Development Workflow**:
+    *   Apps can be served locally by running `flutter run` <a class="yt-timestamp" data-t="06:56:58">[06:56:58]</a>.
+    *   [[Introduction to Flutter for JavaScript Developers | Flutter]] supports hot reloading, allowing instant reflection of code changes while preserving application state <a class="yt-timestamp" data-t="06:58:00">[06:58:00]</a><a class="yt-timestamp" data-t="07:00:02">[07:00:02]</a>.
+*   **Code Assistance**: The sound type system of [[Dart vs JavaScript Programming Languages | Dart]] enables excellent tooling, providing full documentation when hovering over classes and immediately flagging arguments with incorrect data types <a class="yt-timestamp" data-t="07:05:07">[07:05:07]</a><a class="yt-timestamp" data-t="07:09:10">[07:09:10]</a><a class="yt-timestamp" data-t="07:14:17">[07:14:17]</a>.
+*   **UI Development**: [[Introduction to Flutter for JavaScript Developers | Flutter]] utilizes a tree of widgets, where classes have a build method that returns a tree of widgets <a class="yt-timestamp" data-t="08:08:07">[08:08:07]</a><a class="yt-timestamp" data-t="08:11:13">[08:11:13]</a>. It supports declarative UIs, similar to [[React Native programming languages and ecosystem | React]] <a class="yt-timestamp" data-t="08:22:22">[08:22:22]</a>.
+*   **Refactoring**: [[Introduction to Flutter for JavaScript Developers | Flutter]]'s tooling allows developers to easily wrap and reposition widgets by clicking a button in VS Code <a class="yt-timestamp" data-t="08:31:33">[08:31:33]</a>.
+*   **Challenge**: A potential drawback noted is the tendency to create deeply nested widget trees, which can sometimes be hard to follow, although logic can be extracted into custom widgets <a class="yt-timestamp" data-t="08:41:43">[08:41:43]</a>.
+
+## Performance
+[[Introduction to Flutter for JavaScript Developers | Flutter]] applications generally exhibit better performance than [[React Native programming languages and ecosystem | React Native]] <a class="yt-timestamp" data-t="09:16:18">[09:16:18]</a>. This is primarily because [[Introduction to Flutter for JavaScript Developers | Flutter]] apps compile directly to machine code and do not require a JavaScript bridge, often achieving closer to native performance <a class="yt-timestamp" data-t="09:25:26">[09:25:26]</a><a class="yt-timestamp" data-t="09:37:38">[09:37:38]</a>. The goal for cross-platform apps is typically 60 frames per second (FPS) <a class="yt-timestamp" data-t="09:21:23">[09:21:23]</a>.
