@@ -1,0 +1,53 @@
+---
+title: Importance of evaluatoragentdata set alignment
+videoId: 3jwClx0Ft2E
+---
+
+From: [[aidotengineer]] <br/> 
+
+Effective evaluation is crucial for building AI systems that deliver real-world value, moving beyond mere "fancy demos" <a class="yt-timestamp" data-t="02:01:01">[02:01:01]</a>. Just as traditional software requires unit and integration testing before changes are pushed to production, AI applications require robust evaluations <a class="yt-timestamp" data-t="02:11:00">[02:11:00]</a>. A key insight is that evaluators and data sets must be iteratively aligned, similar to how an LLM application itself is aligned <a class="yt-timestamp" data-t="12:59:00">[12:59:00]</a>.
+
+## Fundamentals of Evaluation
+
+To effectively test the quality of an AI application before production, three key components are needed:
+
+1.  **Agent**: This is whatever system or component is being evaluated <a class="yt-timestamp" data-t="02:55:00">[02:55:00]</a>. This could range from an end-to-end AI agent, a small function within an agent, or even a retrieval pipeline <a class="yt-timestamp" data-t="02:59:00">[02:59:00]</a>. Examples include customer service chatbots or Q&A agents processing legal contracts <a class="yt-timestamp" data-t="03:10:00">[03:10:00]</a>. Each agent has unique requirements, such as accuracy, compliance, explainability, or nuance specific to its domain <a class="yt-timestamp" data-t="03:19:00">[03:19:00]</a>.
+2.  **Data Set**: This component defines what the agent is evaluated against <a class="yt-timestamp" data-t="03:48:00">[03:48:00]</a>. It should include both the expected inputs (queries and requests the system will receive in production) and the ideal outputs (what good responses should look like) <a class="yt-timestamp" data-t="04:12:00">[04:12:00]</a>. Crucially, the data set must cover not just the "happy path" but also tricky edge cases where things might go wrong <a class="yt-timestamp" data-t="04:26:00">[04:26:00]</a>. These examples should be written by domain experts who understand the business context and can define the requirements for the agent <a class="yt-timestamp" data-t="04:34:00">[04:34:00]</a>. Many teams "stumble" by relying on a few handwritten test cases that don't cover all use cases <a class="yt-timestamp" data-t="03:57:00">[03:57:00]</a>.
+3.  **Evaluators**: This refers to how quality is measured <a class="yt-timestamp" data-t="04:52:00">[04:52:00]</a>.
+    *   **Human Evaluators**: Traditionally, subject matter experts review outputs, score them, and provide feedback. While this works, it is very slow and expensive <a class="yt-timestamp" data-t="04:57:00">[04:57:00]</a>.
+    *   **Code-based Evaluators**: Effective for objective metrics like response time or latency <a class="yt-timestamp" data-t="05:09:00">[05:09:00]</a>.
+    *   **LLM Evaluators**: These have gained popularity due to their promise of combining nuanced reasoning with the speed and scalability of automated systems <a class="yt-timestamp" data-t="05:21:00">[05:21:00]</a>. They offer significant advantages in speed (e.g., 8-10 hour human evaluations can be done in under an hour) <a class="yt-timestamp" data-t="06:43:00">[06:43:00]</a>, cost (up to a 10x reduction compared to human evaluations) <a class="yt-timestamp" data-t="07:19:00">[07:19:00]</a>, and consistency (over 80% consistency with human judgments) <a class="yt-timestamp" data-t="07:41:00">[07:41:00]</a>. Research papers like NLG Eval and SPADE show strong correlations between human judgments and LLM scores <a class="yt-timestamp" data-t="08:09:00">[08:09:00]</a>.
+
+These three components are dynamic and must evolve over time. As an agent improves, its data set may need to include more challenging cases, and evaluation criteria may become more sophisticated, requiring different kinds of evaluators <a class="yt-timestamp" data-t="05:57:00">[05:57:00]</a>.
+
+## Challenges with LLM Evaluators
+
+Despite their advantages, LLM evaluators face two major problems, representing [[Challenges in AI Agent Evaluation | challenges in AI Agent Evaluation]]:
+
+### [[Addressing criteria drift and data set drift in evaluations | Criteria Drift]]
+This occurs when an evaluator's notion of "good" no longer aligns with the user's notion of "good" <a class="yt-timestamp" data-t="08:49:00">[08:49:00]</a>. Using generalizable evaluation criteria from popular frameworks (like Fraqas, Promptfoo, LangChain) might not measure what's important for a unique use case <a class="yt-timestamp" data-t="09:10:00">[09:10:00]</a>. For example, an e-commerce recommendation system's evaluator might focus too hard on keyword relevance, missing the broader context of user intent, leading to user complaints in production despite good test scores <a class="yt-timestamp" data-t="09:21:00">[09:21:00]</a>. This can also happen if the underlying LLM model for the evaluator changes, leading to inconsistent grading <a class="yt-timestamp" data-t="10:30:00">[10:30:00]</a>. The concept of criteria drift is explored in the "EvalGen" paper by Shanker and team at Berkeley, highlighting the need for evaluation criteria to evolve and balance true positives with false positives to maximize F1 score against human judgments <a class="yt-timestamp" data-t="10:50:00">[10:50:00]</a>.
+
+### [[Addressing criteria drift and data set drift in evaluations | Data Set Drift]]
+This problem arises when data sets lack sufficient test coverage, meaning the test cases no longer represent real-world usage patterns <a class="yt-timestamp" data-t="11:19:00">[11:19:00]</a>. Hand-crafted test cases, while initially perfect, fail to hold up when real users provide messy, context-dependent, or multi-faceted inputs that were not anticipated <a class="yt-timestamp" data-t="11:27:00">[11:27:00]</a>. Even if metrics look good on the static test cases, the system can underperform significantly in production because the tests don't reflect reality <a class="yt-timestamp" data-t="12:15:00">[12:15:00]</a>.
+
+## The Solution: Iterative Alignment
+
+The fundamental insight to fix these problems is that evaluators and data sets need to be iteratively aligned, similar to how an LLM application itself is aligned <a class="yt-timestamp" data-t="12:59:00">[12:59:00]</a>. This forms the basis for [[Evaluating AI agents methods and metrics | evaluating AI agents methods and metrics]].
+
+A three-step approach for achieving this alignment involves:
+
+1.  **Align Evaluators with Domain Experts**: Have domain experts regularly grade outputs and critique the evaluator's results <a class="yt-timestamp" data-t="13:19:00">[13:19:00]</a>. Use their feedback and few-shot examples of critiques to refine the evaluator prompt, grounding its understanding of "good" and "bad" in the real world <a class="yt-timestamp" data-t="13:38:00">[13:38:00]</a>. Continuous iteration on the evaluator prompt is necessary <a class="yt-timestamp" data-t="13:47:00">[13:47:00]</a>.
+2.  **Keep Data Sets Aligned with Real-World User Queries**: Treat the test bank as a "living, breathing thing" <a class="yt-timestamp" data-t="14:09:00">[14:09:00]</a>. When the system underperforms in production, automatically flow those underperforming queries back into the test suite <a class="yt-timestamp" data-t="14:19:00">[14:19:00]</a>. These real-world failures are invaluable for improving the test bank and identifying where the evaluation system falls short <a class="yt-timestamp" data-t="16:30:00">[16:30:00]</a>.
+3.  **Measure and Track Alignment Over Time**: Use concrete metrics like F1 score (for binary judgments) or correlation coefficients (for Likert scales) to track how well the evaluator matches human judgment with every iteration <a class="yt-timestamp" data-t="14:31:00">[14:31:00]</a>. This informs whether the evaluator is truly improving or regressing <a class="yt-timestamp" data-t="14:50:00">[14:50:00]</a>.
+
+While this sounds like significant work, it is "far less work than dealing with the consequences of a meaningless eval that doesn't really tell you anything" <a class="yt-timestamp" data-t="14:56:00">[14:56:00]</a>.
+
+## Practical Steps for [[Challenges and methods in evaluating AI agent convergence | Effective Evaluation Alignment]]
+
+*   **Customize the LLM Evaluator Prompt**: Instead of relying on templated metrics, carefully tailor the evaluation criteria. Add few-shot examples of critiques from domain experts and decide whether to use binary or Likert scales (binary is highly recommended) <a class="yt-timestamp" data-t="15:11:00">[15:11:00]</a>. Ensure that the metrics measure what is truly meaningful to the specific use case and business context <a class="yt-timestamp" data-t="15:38:00">[15:38:00]</a>.
+*   **Involve Domain Experts Early**: Get domain experts to "evaluate the evaluator" by reviewing its judgments <a class="yt-timestamp" data-t="15:52:00">[15:52:00]</a>. Starting with as few as 20 examples in spreadsheets can provide a good sense of alignment and inform necessary changes <a class="yt-timestamp" data-t="15:59:00">[15:59:00]</a>.
+*   **Log and Continuously Improve the Test Bank**: Every production underperformance is an opportunity to improve the test bank <a class="yt-timestamp" data-t="16:26:00">[16:26:00]</a>. Continuously add these real-world failure cases and their ground truth labels to the test bank <a class="yt-timestamp" data-t="16:43:00">[16:43:00]</a>.
+*   **Iterate LLM Evaluator Prompts**: Evaluator prompts are not static; they need to evolve <a class="yt-timestamp" data-t="16:55:00">[16:55:00]</a>. Test new versions against the expanding test bank, making them more specific to the use case <a class="yt-timestamp" data-t="17:01:00">[17:01:00]</a>. Investing in an "eval console" or similar tool allows domain experts to directly iterate on prompts and gauge agreement with evaluator critiques <a class="yt-timestamp" data-t="17:08:00">[17:08:00]</a>.
+*   **Measure Alignment Systematically**: Set up a simple dashboard to track alignment scores (F1 or correlation metrics) over time <a class="yt-timestamp" data-t="17:23:00">[17:23:00]</a>. This systematic measurement reveals whether the evaluator template is improving or not <a class="yt-timestamp" data-t="17:47:00">[17:47:00]</a>.
+
+Ultimately, LLM evaluations are only as good as their alignment with real-world usage <a class="yt-timestamp" data-t="18:07:00">[18:07:00]</a>. It's crucial to avoid "static evaluation" and instead build iterative feedback loops into the development process. The goal is continuous improvement, not perfection <a class="yt-timestamp" data-t="18:00:00">[18:00:00]</a>.

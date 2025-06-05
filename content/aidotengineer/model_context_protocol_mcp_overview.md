@@ -1,0 +1,72 @@
+---
+title: Model Context Protocol mCP Overview
+videoId: kQmXtrmQ5Zg
+---
+
+From: [[aidotengineer]] <br/> 
+
+The [[model_context_protocol_mCP|Model Context Protocol]] ([[model_context_protocol_mCP|mCP]]) is an open protocol designed to enable seamless integration between AI applications, agents, and external tools and data sources <a class="yt-timestamp" data-t="01:55:00">[01:55:00]</a>. Developed by Anthropic, its core philosophy stems from the understanding that models are only as effective as the context provided to them <a class="yt-timestamp" data-t="01:18:00">[01:18:00]</a>.
+
+## Motivation and Background
+Historically, providing context to AI chatbots or applications involved manual methods like copy-pasting or typing <a class="yt-timestamp" data-t="01:33:00">[01:33:00]</a>. Over time, these systems evolved to include "hooks" into user data and context, making them more powerful and personalized <a class="yt-timestamp" data-t="01:46:00">[01:46:00]</a>.
+
+[[model_context_protocol_mCP|mCP]]'s development was inspired by prior standardization efforts in software development:
+*   **APIs (Application Programming Interfaces)**: Standardized how web applications interact between front-end and back-end, allowing front-ends access to servers, databases, and services <a class="yt-timestamp" data-t="02:12:00">[02:12:00]</a>.
+*   **LSP (Language Server Protocol)**: Standardized how IDEs interact with language-specific tools, enabling an LSP-compatible IDE to understand and interact with different coding language features <a class="yt-timestamp" data-t="02:40:00">[02:40:00]</a>.
+
+Before [[model_context_protocol_mCP|mCP]], the industry faced significant fragmentation in building AI systems <a class="yt-timestamp" data-t="03:41:00">[03:41:00]</a>. Different teams or companies would create custom implementations for integrating AI apps with context, often involving unique prompt logic and varied methods for bringing in tools and data <a class="yt-timestamp" data-t="03:53:00">[03:53:00]</a>. [[model_context_protocol_mCP|mCP]] aims to standardize this process, acting as a layer between application developers and tool/API developers to provide Large Language Models (LLMs) with access to data <a class="yt-timestamp" data-t="06:06:00">[06:06:00]</a>.
+
+## Key Components of mCP
+[[model_context_protocol_mCP|mCP]] standardizes how AI applications interact with external systems through three primary interfaces <a class="yt-timestamp" data-t="03:10:00">[03:10:00]</a>:
+1.  **Tools**: These are "model-controlled" <a class="yt-timestamp" data-t="10:27:00">[10:27:00]</a>. The [[model_context_protocol_mCP|mCP]] server exposes tools to the client application, and the LLM within the client decides when to invoke them based on descriptions provided by the server <a class="yt-timestamp" data-t="10:32:00">[10:32:00]</a>. Tools can perform actions like retrieving data, sending data to applications, updating databases, or writing files <a class="yt-timestamp" data-t="11:04:00">[11:04:00]</a>.
+2.  **Resources**: These are "application-controlled" data exposed to the application <a class="yt-timestamp" data-t="11:23:00">[11:23:00]</a>. The server can define or create resources like images, text files, or JSON data, which the application then decides how to use <a class="yt-timestamp" data-t="11:31:00">[11:31:00]</a>. Resources provide a richer interface for applications and servers to interact beyond simple text chats <a class="yt-timestamp" data-t="11:50:00">[11:50:00]</a>. Resources and prompts can be dynamic, interpolated with context from the user or application <a class="yt-timestamp" data-t="20:58:00">[20:58:00]</a>. Clients can also subscribe to resource notifications, where the server notifies the client when a resource is updated <a class="yt-timestamp" data-t="21:17:00">[21:17:00]</a>.
+3.  **Prompts**: These are "user-controlled" <a class="yt-timestamp" data-t="12:59:00">[12:59:00]</a>. Prompts are predefined templates for common interactions with a specific server <a class="yt-timestamp" data-t="13:08:00">[13:08:00]</a>. Examples include slash commands in an IDE to summarize work or standardized document Q&A templates <a class="yt-timestamp" data-t="13:14:00">[13:14:00]</a>.
+
+The distinction between tools, resources, and prompts emphasizes that [[model_context_protocol_mCP|mCP]] isn't solely about improving the model, but also about defining how the application interacts with the server in richer ways <a class="yt-timestamp" data-t="14:44:00">[14:44:00]</a>. It provides more control to different parts of the system: model, application, and user <a class="yt-timestamp" data-t="22:26:00">[22:26:00]</a>.
+
+## Value Proposition and [[Standardization and Adoption of mCP|Adoption]]
+[[model_context_protocol_mCP|mCP]] offers benefits across the AI ecosystem:
+*   **Application Developers**: Once an [[model_context_protocol_mCP|mCP]] client is compatible, it can connect to any server with zero additional work <a class="yt-timestamp" data-t="05:42:00">[05:42:00]</a>.
+*   **Tool/API Providers**: They can build their [[model_context_protocol_mCP|mCP]] server once and see it adopted across various AI applications <a class="yt-timestamp" data-t="05:51:00">[05:51:00]</a>.
+*   **End-Users**: Experience more powerful and context-rich AI applications that can understand and act on their behalf <a class="yt-timestamp" data-t="06:28:00">[06:28:00]</a>.
+*   **Enterprises**: [[model_context_protocol_mCP|mCP]] provides a clear way to separate concerns between teams <a class="yt-timestamp" data-t="06:48:00">[06:48:00]</a>. For instance, one team can own and maintain an [[model_context_protocol_mCP|mCP]] server for a vector database, allowing other teams to build AI apps faster without needing to understand the underlying infrastructure <a class="yt-timestamp" data-t="07:21:00">[07:21:00]</a>. This fosters a microservices-like environment for AI development <a class="yt-timestamp" data-t="07:49:00">[07:49:00]</a>.
+
+[[model_context_protocol_mCP|mCP]] has seen rapid [[Development and adoption of MCP|adoption]] since its launch <a class="yt-timestamp" data-t="08:05:00">[08:05:00]</a>. It's used in applications and IDEs like Cursor and Windsurf, and agents like Goose <a class="yt-timestamp" data-t="04:26:00">[04:26:00]</a>. Over 1100 community-built servers have been published open source, alongside servers built by companies offering official integrations <a class="yt-timestamp" data-t="08:47:00">[08:47:00]</a>. This includes significant open-source contributions to the core protocol <a class="yt-timestamp" data-t="09:07:00">[09:07:00]</a>.
+
+### Example Use Case: Claude for Desktop
+In Claude for Desktop, an [[model_context_protocol_mCP|mCP]] client, a user can provide a GitHub repo URL and ask Claude to triage issues <a class="yt-timestamp" data-t="23:01:00">[23:01:00]</a>. Claude automatically invokes the `list issues` tool, pulls in context, and summarizes the issues based on user preferences <a class="yt-timestamp" data-t="23:29:00">[23:29:00]</a>. Claude can then use other installed [[model_context_protocol_mCP|mCP]] servers, such as an Asana server, to list workspaces, search projects, and add tasks <a class="yt-timestamp" data-t="24:19:00">[24:19:00]</a>. Crucially, these Asana and GitHub servers can be built by the community (often in just a few hundred lines of code) and seamlessly interoperate with Claude for Desktop <a class="yt-timestamp" data-t="24:52:00">[24:52:00]</a>.
+
+## [[mCP's Role in Augmented LLM Systems|mCP's Role in Agentic Systems]]
+[[model_context_protocol_mCP|mCP]] is envisioned as a foundational protocol for agents <a class="yt-timestamp" data-t="26:36:00">[26:36:00]</a>. It aligns with the concept of an "augmented LLM," where an LLM is enhanced with retrieval systems, tools, and memory to query/write data and invoke actions <a class="yt-timestamp" data-t="27:29:00">[27:29:00]</a>. [[model_context_protocol_mCP|mCP]] serves as the underlying layer that federates and simplifies how LLMs interact with these components in a standardized way <a class="yt-timestamp" data-t="28:10:00">[28:10:00]</a>. This means agents can expand their capabilities dynamically, even after initialization, by discovering new interactions with the world <a class="yt-timestamp" data-t="28:34:00">[28:34:00]</a>.
+
+Two key protocol capabilities contribute to [[future_of_mCP_in_Agentbased_Systems|mCP's role in agents]]:
+1.  **Sampling**: Allows an [[model_context_protocol_mCP|mCP]] server to request LLM inference calls (completions) from the client <a class="yt-timestamp" data-t="53:52:00">[53:52:00]</a>. This federates requests, letting the client own the LLM interactions (hosting, model choice, privacy, cost) while the server can request intelligence using various parameters (model preferences, prompts, temperature, max tokens) <a class="yt-timestamp" data-t="54:52:00">[54:52:00]</a>.
+2.  **Composability**: [[model_context_protocol_mCP|mCP]]'s design allows any application, API, or agent to be both an [[model_context_protocol_mCP|mCP]] client and an [[model_context_protocol_mCP|mCP]] server <a class="yt-timestamp" data-t="56:21:00">[56:21:00]</a>. This enables chaining of interactions, where a user talks to a client, which calls an agent (acting as a server and client), which in turn calls other specialized servers (e.g., file system, web search) <a class="yt-timestamp" data-t="56:40:00">[56:40:00]</a>. This allows for complex, hierarchical architectures where each layer specializes in a particular task <a class="yt-timestamp" data-t="57:28:00">[57:28:00]</a>.
+
+The combination of sampling and composability is particularly exciting for agents, enabling hierarchical systems where agents can federate sampling requests through layers to the core application controlling the LLM <a class="yt-timestamp" data-t="01:11:41">[01:11:41]</a>.
+
+## Roadmap and Future Directions
+The [[Development and adoption of MCP|development and adoption of MCP]] continues with several key initiatives:
+
+### Remote Servers and Authentication
+[[model_context_protocol_mCP|mCP]] now supports remotely hosted servers via Server-Sent Events (SSE) and includes OAuth 2.0 support for authentication <a class="yt-timestamp" data-t="01:13:59">[01:13:59]</a>. This means servers can live on public URLs and orchestrate the authentication handshake with external services (e.g., Slack), holding the OAuth token and providing the client with a session token for future interactions <a class="yt-timestamp" data-t="01:14:19">[01:14:19]</a>. This significantly reduces developer friction by removing the need for users to manually interact with local environments or understand [[model_context_protocol_mCP|mCP]] hosting <a class="yt-timestamp" data-t="01:15:40">[01:15:40]</a>.
+
+### [[Standardization and Adoption of mCP|mCP]] Registry
+A major challenge has been the lack of a centralized way to discover and integrate [[model_context_protocol_mCP|mCP]] servers <a class="yt-timestamp" data-t="01:22:00">[01:22:00]</a>. An official [[model_context_protocol_mCP|mCP]] registry API is under development. This will be a unified, hosted metadata service, built in the open, that will address issues like:
+*   **Discoverability**: Making it easy for users to find [[model_context_protocol_mCP|mCP]] servers <a class="yt-timestamp" data-t="01:23:50">[01:23:50]</a>.
+*   **Protocol Details**: Identifying whether a server uses standard I/O, SSE, is local, or lives at a URL <a class="yt-timestamp" data-t="01:23:09">[01:23:09]</a>.
+*   **Trust and Verification**: Indicating who built a server and if it's officially verified (e.g., by Shopify) <a class="yt-timestamp" data-t="01:23:25">[01:23:25]</a>.
+*   **Versioning**: Providing a log of changes to servers, including tool additions or description modifications <a class="yt-timestamp" data-t="01:24:01">[01:24:01]</a>.
+
+The registry will enable agents to be "self-evolving" by dynamically discovering new capabilities and data on the fly, without needing to be pre-programmed with all possible tools <a class="yt-timestamp" data-t="01:36:01">[01:36:01]</a>.
+
+### `.well-known` Endpoints
+Complementing the registry is the concept of `.well-known` [[model_context_protocol_mCP|mCP]].json endpoints <a class="yt-timestamp" data-t="01:39:27">[01:39:27]</a>. Similar to how websites use `.well-known` directories, this allows entities like `shopify.com` to host a standardized file (`.well-known/mcp.json`) describing their [[model_context_protocol_mCP|mCP]] endpoint, capabilities, and authentication methods <a class="yt-timestamp" data-t="01:39:30">[01:39:30]</a>. This provides a "top-down" approach for agents to verify and connect to known services, combining with a "computer use" model (where an LLM can click around UIs without APIs) for comprehensive interaction <a class="yt-timestamp" data-t="01:40:07">[01:40:07]</a>.
+
+### Medium-Term Considerations
+*   **Stateful vs. Stateless Connections**: Exploring short-lived connections for basic requests (e.g., HTTP) alongside long-lived connections (e.g., SSE) for advanced capabilities like sampling and server-to-client notifications <a class="yt-timestamp" data-t="01:41:41">[01:41:41]</a>.
+*   **Streaming**: How to support streaming multiple chunks of data from server to client first-class in the protocol <a class="yt-timestamp" data-t="01:42:41">[01:42:41]</a>.
+*   **Namespacing**: Addressing conflicts when multiple servers expose tools with the same name, potentially through logical groups of tools <a class="yt-timestamp" data-t="01:42:51">[01:42:51]</a>.
+*   **Proactive Server Behavior**: Developing patterns for servers to initiate actions, such as asking for more user information or sending event-driven notifications, without being explicitly prompted by the client <a class="yt-timestamp" data-t="01:43:31">[01:43:31]</a>.
+
+While [[model_context_protocol_mCP|mCP]] aims to be a standard layer for context, it does not replace agent frameworks, but rather complements them by simplifying how agents hook into servers, tools, prompts, and resources <a class="yt-timestamp" data-t="01:17:12">[01:17:12]</a>. It empowers agent builders to focus on the core agent loop, knowledge management, and orchestration <a class="yt-timestamp" data-t="01:18:41">[01:18:41]</a>.
